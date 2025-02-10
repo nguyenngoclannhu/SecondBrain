@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "ff4e65a7cc6b128e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc6d4d13a91ba31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c5c70664b66507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/140520241238 What brought SA's victim difficulties? Law or Community?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de091e28a6df141a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/Why does it matter so much that God exist?.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58233ec8c10af08e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Consolations - David Whyte.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c57458c4508e59f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/180520240924  LTC Webinar Learn How to Learn.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c676fd809037bc9e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "62601a52930232b0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8dbeef24e8065a9a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "634986bfe6a3c5b4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d11e31ec20928341",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0a32de67b58f8ec7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ea2f48b213060c7f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "17b5bdda98162f69",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "04 - Permanent/Why does it matter so much that God exist?.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "eba61849132deb25",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "04 - Permanent/Why does it matter so much that God exist?.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "530465b5204e8ee0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "04 - Permanent/Why does it matter so much that God exist?.md"
+          }
+        }
+      },
+      {
+        "id": "d5d527351e7bbaab",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "af2893f2de30af2b",
+        "type": "leaf",
+        "state": {
+          "type": "podcast_player_view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "62601a52930232b0",
+  "lastOpenFiles": [
+    "03 - Resources/How to write History.md",
+    "04 - Permanent/The Boundary of Labels.md",
+    "04 - Permanent/Names to give concepts shapes.md",
+    "03 - Resources/140520241947 Why Japan lost in the WWII?.md",
+    "03 - Resources/On Self-pity Go Eat Worms.md",
+    "03 - Resources/Consolations - David Whyte.md",
+    "03 - Resources/180520240924  LTC Webinar Learn How to Learn.md",
+    "04 - Permanent/Human have the tendency to make emotion worse for self-comfort.md",
+    "03 - Resources/140520241238 What brought SA's victim difficulties? Law or Community?.md",
+    "03 - Resources/140520241241 Will SA's victim be a victim if they received some benefits?.md",
+    "05 - Fleeting/Calcium silicate board wall finish.md",
+    "05 - Fleeting/Ceiling with steel Mesh & Philosophy book for beginner.md",
+    "03 - Resources/On Crestfallenness A Pilgrim not a Tractor.md",
+    "03 - Resources/110520242041 Bombshell (2019).md",
+    "04 - Permanent/Only through the Dark do New emerges.md",
+    "04 - Permanent/God is never there to protect.md",
+    "03 - Resources/D.H.Lawrence-An Unprofessional Study - Anaiis Nin.md",
+    "03 - Resources/Antagonistic Proxies - K.M.Weiland.md",
+    "03 - Resources/Four Corner of Opposition by John Truby.md",
+    "03 - Resources/Dishonored - A Video Game.md",
+    "07 - Archives/Tags/suicide.md",
+    "07 - Archives/Tags/war.md",
+    "02 - Areas/Education/Language learning/Japanese/Untitled.md",
+    "02 - Areas/Education/Language learning/Japanese/170520241924 39か　みんなの日本語.md",
+    "03 - Resources/The Other Significant Others - Rhaina Cohen.md",
+    "99-Meta/Images/Pasted image 20240517153258.png",
+    "04 - Permanent/Discipline if nothing else is the base for a united group.md",
+    "99-Meta/Images/Eco pavement.png",
+    "99-Meta/Images/Glasswool and Rockwool.png",
+    "99-Meta/Images/IMG_0298 1.png",
+    "99-Meta/Images/KNuckle Pile.png",
+    "99-Meta/Images/IMG_0201.png",
+    "99-Meta/Images/IMG_0247 1.png",
+    "99-Meta/Images/Door Coordinator.png",
+    "99-Meta/Images/ENDO Lighting (2).png",
+    "99-Meta/Images/Green pavement.png",
+    "03 - Resources/Media/Videos/Tech",
+    "99-Meta/Images",
+    "02 - Areas/Work/Zalo",
+    "02 - Areas/Work",
+    "Untitled.canvas",
+    "07 - Archives/Indexes",
+    "07 - Archives/Tags",
+    "01 - Projects/PMDesigns/2024",
+    "01 - Projects/PMDesigns"
+  ]
+}
