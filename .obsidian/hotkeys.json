@@ -1,0 +1,53 @@
+{
+  "podnotes:capture-timestamp": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "media-extended:save-screenshot-media-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "media-extended:save-screenshot": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "P"
+    }
+  ],
+  "media-extended:take-timestamp": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "media-extended:take-timestamp-media-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "media-extended:take-rec-timestamp": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}

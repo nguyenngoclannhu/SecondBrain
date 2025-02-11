@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Meta/Template/Zettelkasten.md",
-                "mode": "preview",
+                "file": "07-Archives/Untitled.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zettelkasten"
+              "title": "Untitled"
             }
           }
         ]
@@ -184,8 +184,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -197,9 +197,29 @@
               "icon": "play-circle",
               "title": "Podcast Player"
             }
+          },
+          {
+            "id": "d19547b75a87875c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "6399ec49104b7e26",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -221,8 +241,22 @@
   },
   "active": "fd0e1e81d96e3919",
   "lastOpenFiles": [
-    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+    "06-Journal/Untitled.md",
+    "07-Archives/Untitled.md",
+    "05-Fleeting/Untitled.md",
+    "04-Permanent/Untitled.md",
+    "03-Resources/Obsidian/Untitled.md",
+    "03-Resources/Media/Videos/Self-help/Untitled.md",
+    "03-Resources/Media/Videos/History/Untitled.md",
+    "03-Resources/Media/Videos/Finance/Untitled.md",
+    "03-Resources/Media/Videos/Tech/Untitled.md",
+    "03-Resources/Media/Podcasts/Untitled.md",
+    "02-Areas/Work/Untitled.md",
+    "02-Areas/Education/Untitled 1 1.md",
+    "01-Projects/Untitled 1.md",
+    "00-MapOfContents/Untitled.md",
     "99-Meta/Template/Zettelkasten.md",
+    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
     "03-Resources/Media/Podcasts/10022025010000_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
     "03-Resources/Media/Podcasts/13000010022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen.md",
     "02-Areas/Work",
