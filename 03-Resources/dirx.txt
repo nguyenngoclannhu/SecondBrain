@@ -1,0 +1,9 @@
+.
+./Obsidian
+./Media
+./Media/Podcasts
+./Media/Videos
+./Media/Videos/History
+./Media/Videos/Finance
+./Media/Videos/Self-help
+./Media/Videos/Tech

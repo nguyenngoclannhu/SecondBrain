@@ -1,0 +1,60 @@
+# International Journal of Scientific Research in Computer Science, Engineering and Information Technology
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/268944363/YXjpa8P4k591FRmiCYL3mFk7VwGSRJgw5h2aHttyquo-cove_gU3JtEC.png)
+
+## Metadata
+- Author: [[TechnoScience Academy;http://technoscienceacademy.com]]
+- Full Title: International Journal of Scientific Research in Computer Science, Engineering and Information Technology
+- Category: #articles
+- Summary: The article explores how agentic frameworks in artificial intelligence are transforming decision-making across various industries. These frameworks improve efficiency and safety, achieving significant reductions in decision latency and error rates. The research highlights the importance of ongoing development to maximize their potential in critical applications.
+- URL: https://readwise.io/reader/document_raw_content/268944363
+
+## Highlights
+- Understanding Agentic Frameworks in AI De ([View Highlight](https://read.readwise.io/read/01jkt0vzm7dbd9xzxqy70dk5rc))
+- the evolution and implementation of agentic frameworks in artificial intelligence development ([View Highlight](https://read.readwise.io/read/01jkfycxth3aec2522wenfcra9))
+- fundamental architectural components, implementation methodologies, and practical applications ([View Highlight](https://read.readwise.io/read/01jkfywr6yg5hgx4js1dfxmxce))
+- Belief-Desire- Intention model and advanced learning mechanisms ([View Highlight](https://read.readwise.io/read/01jkfyx5pbqafzq9xx6vketxrr))
+- how agentic frameworks are revolutionizing autonomous decision-making capabilities. ([View Highlight](https://read.readwise.io/read/01jkfyxdrqjp3r4aqgrrkw25jb))
+- scalability and safety w ([View Highlight](https://read.readwise.io/read/01jkfyxk3yn2bw8x5gjhqwv5c5))
+- accuracy rate of 91.2% in complex cognitive tasks, significantly outperforming traditional AI architectures which typically achieve 73.5% accuracy in similar scenarios ([View Highlight](https://read.readwise.io/read/01jkfzb9mkh6ncs5ttrhayft2j))
+- 52.3% improvement in task completion efficiency ([View Highlight](https://read.readwise.io/read/01jkfz1s20n67weyfpf6ges1gd))
+- requiring real-time adaptation ([View Highlight](https://read.readwise.io/read/01jkfz21n7mecjcrqtgvnyzx1v))
+- process and synthesize multiple data streams simultaneously, with current implementations capable of handling up to 1,024 parallel information channels while maintaining real-time response capabilities ([View Highlight](https://read.readwise.io/read/01jkfzbsw7bh4dj3a4bs9we8vx))
+- environmental adaptation ([View Highlight](https://read.readwise.io/read/01jkfzecc5m9ewqa0skwegh056))
+- improvement in response time to unexpected environmental changes ([View Highlight](https://read.readwise.io/read/01jkfzembq9knd45k74s8sc2dh))
+- safety-critical applications, where autonomous decision-making must balance efficiency with robust safety guarantees. ([View Highlight](https://read.readwise.io/read/01jkfz82snxth3xj2sadnnpbhd))
+- reduced system downtime by an average of 43.2% while improving resource utilization efficiency by 28.7% ([View Highlight](https://read.readwise.io/read/01jkfzetbg85cr8x99w4e5n8n3))
+- 167% increase in the adoption of agentic frameworks across critical infrastructure sectors ([View Highlight](https://read.readwise.io/read/01jkfz8c1xh44tq3md72cxntb9))
+- reduce decision latency by 76.4% while maintaining a 99.97% safety compliance rate in controlled environmental conditions ([View Highlight](https://read.readwise.io/read/01jkfz8kyzqcencfs1vnb0zax9))
+- advanced perception systems ([View Highlight](https://read.readwise.io/read/01jkfzfhhrg50vzpzg8b49dqbp))
+- sophisticated architectural elements that enable nuanced environmental interaction ([View Highlight](https://read.readwise.io/read/01jkfzahafj2pwwz5zq81cychh))
+- 96.2% in complex scenarios, with real-time processing capabilities handling up to 845 MB/s of heterogeneous data streams ([View Highlight](https://read.readwise.io/read/01jkfzfzasw4jgcx9v94cwnbd1))
+- data streams [3]. Th ([View Highlight](https://read.readwise.io/read/01jkpvh1vtxedxx82cjekaq2ds))
+- 2.8x increase in processing efficiency ([View Highlight](https://read.readwise.io/read/01jkfznt855tc2twtsa72tn7vs))
+- Data Acquisition Layer functions as a sophisticated interface managing diverse input streams, including industrial IoT sensors operating at frequencies up to 250 kHz and distributed database systems handling petabyte-scale data volumes ([View Highlight](https://read.readwise.io/read/01jkgm435w9h8xtxbzbrh4fa6w))
+- orchestrated three-layer decision hierarchy ([View Highlight](https://read.readwise.io/read/01jkqqga5m7zdr2ycvm8jndebe))
+- optimized data acquisition reduces system response latency by 58.3% ([View Highlight](https://read.readwise.io/read/01jkgm4m0c87ej4km2mvhsbmm0))
+- The Strategic Layer operates at the highest level of abstraction, managing long-term planning with temporal horizons extending from weeks to years. ([View Highlight](https://read.readwise.io/read/01jkqqgh66ygg3jgcd8bhh5y8g))
+- These systems demonstrate particular strength in managing concurrent data streams, with the ability to process up to 128 parallel input channels simultaneously. ([View Highlight](https://read.readwise.io/read/01jkqqds4mtd6hgzvcephaw1ve))
+- Feature Extraction systems employ advanced neural computing architectures capable of identifying and processing multiple pattern types across varied environmental conditions. ([View Highlight](https://read.readwise.io/read/01jkqqe1w6pv0n4rqkqfqzhstj))
+- The Tactical Layer handles medium-term action selection and resource allocation, operating on timeframes from hours to days. ([View Highlight](https://read.readwise.io/read/01jkqqjcqy7ssymafps4tp0dxa))
+- especially effective in manufacturing environments ([View Highlight](https://read.readwise.io/read/01jkqqjmqrs98z5d7q59f96xz0))
+- The Contextual Integration layer represents a significant advancement in environmental mod ([View Highlight](https://read.readwise.io/read/01jkqqeepd3061kdfsapgvermv))
+- The Operational Layer manages immediate response generation and execution, with demonstrated response times averaging 1.8 milliseconds in standard conditions and 4.2 milliseconds in complex decision scenarios. ([View Highlight](https://read.readwise.io/read/01jkqqjz1hh68yxpdmz3gnhbgc))
+- high-throughput manufacturing processes. ([View Highlight](https://read.readwise.io/read/01jkqqkc5vdjd37zdjtjxw2k69))
+- Belief-Desire-Intention model has established itself as a pivotal methodology in agentic framework implementation, ([View Highlight](https://read.readwise.io/read/01jkqqpdhb8ba8q6gm58mcgfq8))
+- hybrid agent architectures ([View Highlight](https://read.readwise.io/read/01jkqqprre7dpd2eqx9zhtk76r))
+- integrated learning components achieve a 71.5% improvement in task performance optimization compared to static systems, particularly in complex multi-agent scenarios ([View Highlight](https://read.readwise.io/read/01jkqqykxx8sekxw6cz31tac6f))
+- Reinforcement Learning implementations in current frameworks exhibit remarkable efficiency in policy development, ([View Highlight](https://read.readwise.io/read/01jkqqyxqxb9es68mxb02q9y85))
+- hierarchical reward structures ([View Highlight](https://read.readwise.io/read/01jkqqz3k2x74z9q03524qcrjv))
+- Transfer Learning capabilities in contemporary frameworks enable knowledge application across multiple domains ([View Highlight](https://read.readwise.io/read/01jkqqzzvfhx3jd3mtctxs9pet))
+- new operational contexts in distributed systems ([View Highlight](https://read.readwise.io/read/01jkqr0yha1d1771mpnmvrgzm8))
+- Meta-Learning systems have shown significant advancements in learning optimization, reducing new skill acquisition time ([View Highlight](https://read.readwise.io/read/01jkqr15br701rh0n3kn5p1zzw))
+- adaptive learning rate adjustments and sophisticated gradient estimation techniques. ([View Highlight](https://read.readwise.io/read/01jkqr1npphahnwn2cs181kz7y))
+- resource management and state coordination mechanisms ([View Highlight](https://read.readwise.io/read/01jkqr7ghqj153kfy9z6wxspm4))
+- Computational Resource Management ([View Highlight](https://read.readwise.io/read/01jkqr7pj51hn9jrejd86wae38))
+- Formal Verification methodologies have shown remarkable effectiveness in ensuring system safety properties. Mathematical proof systems achieve verification coverage of 98.5% for critical system properties, ([View Highlight](https://read.readwise.io/read/01jkqrave51mn5rqygj4cae6dr))
+- Implementation studies of hierarchical state representation mechanisms ([View Highlight](https://read.readwise.io/read/01jkqr91aj4k2rcdx1vp501m74))
+- Naeem Esfahani, "A Learning-Based Framework for Engineering Feature-Oriented Self-Adaptive Software Systems," ([View Highlight](https://read.readwise.io/read/01jkqre8894j0cxrtcqdmyd7t3))
+- Alan Chan, Rebecca Salganik, , "Harms from Increasingly Agentic Algorithmic Systems," ([View Highlight](https://read.readwise.io/read/01jkqrehnaef4fk11q9xx2k7md))
+- Raihan Khan, Sayak Sarkar, et al., "Security Threats In Agentic Ai System," a ([View Highlight](https://read.readwise.io/read/01jkqreqyw19ejakzzapnkj3va))

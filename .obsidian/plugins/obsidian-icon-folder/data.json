@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiRss",
+      "FabSpotify",
       "LiCode",
       "SiSkillshare",
-      "LiHistory",
-      "SiBitcoin",
-      "SiYoutube"
+      "LiHistory"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,6 @@
   "03 - Resources/Media/Videos/Finance": "SiMonkeytie",
   "03 - Resources/Media/Videos/History": "LiHistory",
   "03-Resources": "LiStore",
-  "99-Meta/Template": "LiLayoutTemplate"
+  "99-Meta/Template": "LiLayoutTemplate",
+  "Readwise": "SiRss"
 }

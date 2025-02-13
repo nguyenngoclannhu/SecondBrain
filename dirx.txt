@@ -1,0 +1,11 @@
+.
+./00-MapOfContents
+./.obsidian
+./01-Projects
+./05-Fleeting
+./07-Archives
+./03-Resources
+./06-Journal
+./04-Permanent
+./99-Meta
+./02-Areas
