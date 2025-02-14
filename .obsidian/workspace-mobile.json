@@ -13,54 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/140520241238 What brought SA's victim difficulties? Law or Community?.md",
+                "file": "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de091e28a6df141a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Permanent/Why does it matter so much that God exist?.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58233ec8c10af08e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/Consolations - David Whyte.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c57458c4508e59f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/180520240924  LTC Webinar Learn How to Learn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,8 +46,11 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -91,7 +65,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -101,8 +77,12 @@
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
-          }
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -110,7 +90,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -125,7 +107,9 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       },
       {
@@ -134,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "04 - Permanent/Why does it matter so much that God exist?.md",
+            "file": "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,7 +126,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -151,10 +137,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "04 - Permanent/Why does it matter so much that God exist?.md",
+            "file": "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -163,8 +151,13 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "04 - Permanent/Why does it matter so much that God exist?.md"
-          }
+            "file": "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+            "followCursor": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -172,7 +165,9 @@
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -180,11 +175,23 @@
         "type": "leaf",
         "state": {
           "type": "podcast_player_view",
-          "state": {}
+          "state": {},
+          "icon": "play-circle",
+          "title": "Podcast Player"
+        }
+      },
+      {
+        "id": "e0f60cb558f7c252",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +206,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "62601a52930232b0",
+  "active": "26c5c70664b66507",
   "lastOpenFiles": [
+    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
     "03 - Resources/How to write History.md",
     "04 - Permanent/The Boundary of Labels.md",
     "04 - Permanent/Names to give concepts shapes.md",
@@ -227,7 +235,6 @@
     "02 - Areas/Education/Language learning/Japanese/170520241924 39か　みんなの日本語.md",
     "03 - Resources/The Other Significant Others - Rhaina Cohen.md",
     "99-Meta/Images/Pasted image 20240517153258.png",
-    "04 - Permanent/Discipline if nothing else is the base for a united group.md",
     "99-Meta/Images/Eco pavement.png",
     "99-Meta/Images/Glasswool and Rockwool.png",
     "99-Meta/Images/IMG_0298 1.png",
