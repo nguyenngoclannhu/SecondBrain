@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 18665912,
+  "lastSavedStatusID": 18828103,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -39,7 +39,8 @@
     "Readwise/Articles/Evaluating and Testing Your LLM Use Case.md": "48637626",
     "Readwise/Articles/Agents is the most important BTP release this 2024.md": "48637680",
     "Readwise/Articles/Multi AI Agents use case. SAP Maintenance Notification creation.md": "48637983",
-    "Readwise/Articles/International Journal of Scientific Research in Computer Science, Engineering and Information Technology.md": "48547620"
+    "Readwise/Articles/International Journal of Scientific Research in Computer Science, Engineering and Information Technology.md": "48547620",
+    "Readwise/Podcasts/Master Lawsuit Filed Against Neil Gaiman and Amanda Palmer.md": "48960899"
   },
   "reimportShowConfirmation": true
 }

@@ -17,6 +17,12 @@
       "url": "https://feeds.transistor.fm/deep-dive-with-ali-abdaal",
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/0d/e0/910de0a1-7f80-f21c-ac1f-99d6d9df7879/mza_8528863511139635869.jpg/100x100bb.jpg",
       "collectionId": 1587142091
+    },
+    "This is History: A Dynasty to Die For": {
+      "title": "This is History: A Dynasty to Die For",
+      "url": "https://rss.pdrl.fm/5858fc/feeds.megaphone.fm/thisishistory",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/18/bb/14/18bb1422-620e-5274-0d22-3f7babfe075f/mza_10903686154194914493.jpeg/100x100bb.jpg",
+      "collectionId": 1641568639
     }
   },
   "podNotes": {},
@@ -25,9 +31,16 @@
     "The No.1 Brain Doctor: \"This Parenting Mistake Ruins Your Kids Brain!\", \"Alcohol or Marijuana Will Destroy Your Brain!\", \"A Stagnant Career Can Increase Your Chance Of Alzheimers!\" - Dr Daniel Amen ": {
       "title": "The No.1 Brain Doctor: \"This Parenting Mistake Ruins Your Kids Brain!\", \"Alcohol or Marijuana Will Destroy Your Brain!\", \"A Stagnant Career Can Increase Your Chance Of Alzheimers!\" - Dr Daniel Amen ",
       "podcastName": "The Diary Of A CEO with Steven Bartlett",
-      "time": 0,
-      "duration": 0,
-      "finished": true
+      "time": 2320.2704294,
+      "duration": 8285.648979591837,
+      "finished": false
+    },
+    "Season 1 | 1. Queen on The Run ": {
+      "title": "Season 1 | 1. Queen on The Run ",
+      "podcastName": "This is History: A Dynasty to Die For",
+      "time": 1085.4140731760112,
+      "duration": 1085.4138775510205,
+      "finished": false
     }
   },
   "favorites": {
