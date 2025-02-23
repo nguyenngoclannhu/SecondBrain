@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ec71c7c70b3419c",
+        "id": "cba4b80f407c6b69",
         "type": "tabs",
         "children": [
           {
-            "id": "bc6d14f537212b27",
+            "id": "43c26fc60c8c6c7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Journal/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -259,8 +245,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bc6d14f537212b27",
+  "active": "43c26fc60c8c6c7e",
   "lastOpenFiles": [
+    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+    "03-Resources/Media/Podcasts/20092022_Season 1 1. Queen on The Run .md",
+    "06-Journal/Untitled.md",
+    "Readwise/Podcasts/Master Lawsuit Filed Against Neil Gaiman and Amanda Palmer.md",
     "Readwise/Podcasts/Episode 1 The Tower of Babel.md",
     "Readwise/Podcasts/Dr. Marc Brackett How to Increase Your Emotional Intelligence.md",
     "Readwise/Podcasts/Dr. Marc Brackett —  How to Increase Your Emotional Intelligence.md",
@@ -283,11 +273,7 @@
     "Readwise/Articles/What Are AI Hallucinations.md",
     "Readwise/Articles/Trump Unleashes Mind-Blowing Gaza Plan.md",
     "Readwise/Articles/Surrounded by Young Female Athletes, Donald Trump Bans Men From Women’s Sports.md",
-    "Readwise/Articles/Learn the Basics.md",
-    "Readwise/Articles/Understanding State in LangGraph A Beginners Guide 🚀.md",
     "Readwise/Articles",
-    "Readwise/Podcasts/Mini Myth Sisphyus & the Boulder, Sisyphus & the Boulder, Sisyphus & the Boulder.md",
-    "Readwise/Podcasts/The No.1 Eye Doctor They’re Lying to You About Blue Light! The Truth About Floaters! Turn This Phone Setting on to Save Your Eyes!.md",
     "Readwise/Podcasts",
     "Readwise",
     "07-Archives",
