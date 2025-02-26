@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+                "file": "Readwise/Podcasts/The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain!, Alcohol or Marijuana Will Destroy Your Brain!, A Stagnant Career Can Increase Your Chance of Alzheimers! - Dr Daniel Amen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen"
+              "title": "The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain!, Alcohol or Marijuana Will Destroy Your Brain!, A Stagnant Career Can Increase Your Chance of Alzheimers! - Dr Daniel Amen"
             }
           }
         ]
@@ -176,8 +176,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -196,8 +196,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -208,6 +208,16 @@
           "state": {},
           "icon": "play-circle",
           "title": "Podcast Player"
+        }
+      },
+      {
+        "id": "3d0fa954da6982ce",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
         }
       }
     ],
@@ -228,9 +238,10 @@
   },
   "active": "26c5c70664b66507",
   "lastOpenFiles": [
+    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+    "Readwise/Podcasts/The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain!, Alcohol or Marijuana Will Destroy Your Brain!, A Stagnant Career Can Increase Your Chance of Alzheimers! - Dr Daniel Amen.md",
     "03-Resources/Media/Podcasts/20092022_Season 1 1. Queen on The Run .md",
     "99-Meta/Template/Zettelkasten.md",
-    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
     "Readwise/Podcasts/Master Lawsuit Filed Against Neil Gaiman and Amanda Palmer.md",
     "03 - Resources/How to write History.md",
     "04 - Permanent/The Boundary of Labels.md",
@@ -253,7 +264,6 @@
     "03 - Resources/Four Corner of Opposition by John Truby.md",
     "03 - Resources/Dishonored - A Video Game.md",
     "07 - Archives/Tags/suicide.md",
-    "07 - Archives/Tags/war.md",
     "99-Meta/Images/Pasted image 20240517153258.png",
     "99-Meta/Images/Eco pavement.png",
     "99-Meta/Images/Glasswool and Rockwool.png",
