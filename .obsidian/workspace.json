@@ -11,10 +11,24 @@
             "id": "43c26fc60c8c6c7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen"
             }
           }
         ]
@@ -225,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -248,6 +262,7 @@
   "active": "43c26fc60c8c6c7e",
   "lastOpenFiles": [
     "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+    "Readwise/Podcasts/The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain!, Alcohol or Marijuana Will Destroy Your Brain!, A Stagnant Career Can Increase Your Chance of Alzheimers! - Dr Daniel Amen.md",
     "03-Resources/Media/Podcasts/20092022_Season 1 1. Queen on The Run .md",
     "06-Journal/Untitled.md",
     "Readwise/Podcasts/Master Lawsuit Filed Against Neil Gaiman and Amanda Palmer.md",
@@ -272,7 +287,6 @@
     "Readwise/Articles/Embeddings Embedding Space and Static Embeddings.md",
     "Readwise/Articles/What Are AI Hallucinations.md",
     "Readwise/Articles/Trump Unleashes Mind-Blowing Gaza Plan.md",
-    "Readwise/Articles/Surrounded by Young Female Athletes, Donald Trump Bans Men From Women’s Sports.md",
     "Readwise/Articles",
     "Readwise/Podcasts",
     "Readwise",
