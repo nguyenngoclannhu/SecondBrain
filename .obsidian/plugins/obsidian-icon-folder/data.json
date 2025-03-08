@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiRss",
-      "FabSpotify",
-      "LiCode",
-      "SiSkillshare",
-      "LiHistory"
+      "LiArchive",
+      "SiLivejournal",
+      "LiBird",
+      "LiDatabase",
+      "LiListFilter"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,5 +57,12 @@
   "03 - Resources/Media/Videos/History": "LiHistory",
   "03-Resources": "LiStore",
   "99-Meta/Template": "LiLayoutTemplate",
-  "Readwise": "SiRss"
+  "Readwise": "SiRss",
+  "00-MapOfContents": "SiGooglemaps",
+  "01-Projects": "SiFiles",
+  "02-Areas": "LiListFilter",
+  "04-Permanent": "LiDatabase",
+  "05-Fleeting": "LiBird",
+  "06-Journal": "SiLivejournal",
+  "07-Archives": "LiArchive"
 }
