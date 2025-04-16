@@ -38,13 +38,23 @@ cssclasses:
 21:27 Breaking the Script
 	[00:21:49](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1309.0846862770604): "Better on the outside than the inside"
 23:19 Master Communicators and the "Chemical Cocktail" 
+	[00:27:40](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1660.5754246309643): Make sure the other what you think about them. 
 28:11 Online First Impressions 
+	[00:29:09](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1749.4530209798013): Signature phrase 
 29:11 Be the Red Apple 
+	[00:29:55](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1795.0500945002161): Just want to want because it's the only one. Be unique.
 30:17 How to Make an Impression on Zoom 
+	[00:30:59](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1859.7127459756598): Turn your camera on (when the camera turns on)
+	[00:31:43](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1903.592988949728): Have questions ready. Anecdote. Share what good happen to you.
 32:08 The Story Toolbox
+	[00:34:13](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2053.6334839386072): Save a story materials, facts to start a conversation.
 35:07 How Important Is Background on Zoom?
 36:29 Where to Look on Zoom Calls 
 37:16 Date Experiments 
+	[00:41:41](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2501.4214488843672): Do not dream kill the conversation.
+	[00:42:23](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2543.485771933755): Always do a cheer -> warm the others up
+	[00:43:06](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2586.7864388178746): We are afraid to show what we feel. We think we are being obvious but in fact we are not.
+	
 43:09 Drivers and Passengers in Conversation 
 44:23 Micro Wins 
 45:05 Body Language That Indicates Attraction 
