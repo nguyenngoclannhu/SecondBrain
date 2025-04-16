@@ -49,5 +49,13 @@
       ],
       "key": "T"
     }
+  ],
+  "podnotes:create-podcast-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }
