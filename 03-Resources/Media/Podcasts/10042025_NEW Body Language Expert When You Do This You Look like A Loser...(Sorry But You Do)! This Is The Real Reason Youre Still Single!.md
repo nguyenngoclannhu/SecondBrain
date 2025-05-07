@@ -54,21 +54,48 @@ cssclasses:
 	[00:41:41](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2501.4214488843672): Do not dream kill the conversation.
 	[00:42:23](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2543.485771933755): Always do a cheer -> warm the others up
 	[00:43:06](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2586.7864388178746): We are afraid to show what we feel. We think we are being obvious but in fact we are not.
-	
-43:09 Drivers and Passengers in Conversation 
+43:09 Drivers and Passengers in Conversation
+	[00:44:21](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2661.2814751036667): Do not one side to be always be driver or passengers
 44:23 Micro Wins 
-45:05 Body Language That Indicates Attraction 
-49:35 Why Busyness Is Not a Mark of Success 
-51:16 The Jam Study – Too Many Choices 
+	[00:45:11](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2711.7946631313334): Gain confidence in her
+	[00:46:34](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2794.1727380393336): 'Me,too' moment -> more confidence
+		- Cueing by saying the words
+45:05 Body Language That Indicates Attraction
+	[00:47:59](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2879.4172452563334): Women has many cue that shows their physical attraction
+	[00:48:19](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2899.6489565663333): Vocal fry -> not attractive 
+		- Due to extreme closed, nervous
+49:35 Why Busyness Is Not a Mark of Success
+	[00:50:08](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3008.8591915526667): Busyness is not the reason for missing out making relationships
+		- Get your priority straight
+51:16 The Jam Study – Too Many Choices
+	[00:52:04](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3124.918158367667): The consequences of having too many choice
 52:12 Prioritizing Self-Care Over Connection 
+	[00:53:05](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3185.9811850106666): Connection is the reason you have dopamine
 53:08 Dating Checklists 
+	[00:53:43](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3223.411923194): Checklists blind them
+	[00:54:17](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3257.2267897119996): Transactionals conversation -> Rigidity (+busy)
 54:23 Do We Get More Numb the More We Date? 
+	[00:54:44](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3284.025562521667):
 55:32 Two Challenges If You're in a Funk or Feeling Lonely 
+	[00:56:08](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3368.6193679789994): 30-days without looking in the mirror
+	[00:57:22](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3442.7979711303337): Have a blackout from your phone
 58:26 Steve Being a Control Freak 
 01:00:14 Networking Events 
+	[01:00:51](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3651.1179617920006): 
 01:00:55 Ads 01:09:20 
-Using the Word "Because" as a Leader 
+Using the Word "Because" as a Leader
+	[01:02:48](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3768.7104933499995): 
+	[01:05:03](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3903.751446853): Give enough hook for the others to continue the conversation
+	[01:08:50](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=4130.887475903332): Example of questions "What do you do?" - Your "why?"
+		- Give interesting story (abt the work that you are working)
+		- Side  hobbies
+		- People need reasons
 01:11:01 How Do We Know If Someone Likes Us? 
+	[01:12:44](obsidian://podnotes?episodeName=*NEW*+Body+Language+Expert%3A+When+You+Do+This+You+Look+like+A+Loser...%28Sorry+But+You+Do%29%21+This+Is+The+Real+Reason+You%27re+Still+Single%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=4364.3557296866675): Show what we think more clearly, e.g. Tell them they are funny 
+		- Make sure they know you are thinking of them
+		- Be easy to laugh is the most compliment thing you could give to another
+			- Men: Need someone to laugh at their jokes
+			- Women: Rate funny as one of the most popular traits they want in their partner
 01:14:20 What If You're Not a Funny Person? 
 01:16:09 Can You Learn to Be Funny? 
 01:16:57 Touch 
