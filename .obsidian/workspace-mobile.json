@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc6d4d13a91ba31",
+        "id": "e623099a05379e65",
         "type": "tabs",
         "children": [
           {
-            "id": "26c5c70664b66507",
+            "id": "f8b530b137041d1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
+                "file": "Microsofts's Engineering Culture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!"
+              "title": "Microsofts's Engineering Culture"
             }
           }
         ]
@@ -246,6 +246,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "408be2a13572f5da",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "cb41d583c353f891",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -266,10 +286,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "26c5c70664b66507",
+  "active": "f8b530b137041d1a",
   "lastOpenFiles": [
-    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+    "Microsofts's Engineering Culture.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
+    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
     "Readwise/Podcasts/The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain!, Alcohol or Marijuana Will Destroy Your Brain!, A Stagnant Career Can Increase Your Chance of Alzheimers! - Dr Daniel Amen.md",
     "03-Resources/Media/Podcasts/20092022_Season 1 1. Queen on The Run .md",
     "99-Meta/Template/Zettelkasten.md",
@@ -290,10 +314,6 @@
     "03 - Resources/110520242041 Bombshell (2019).md",
     "04 - Permanent/Only through the Dark do New emerges.md",
     "04 - Permanent/God is never there to protect.md",
-    "03 - Resources/D.H.Lawrence-An Unprofessional Study - Anaiis Nin.md",
-    "03 - Resources/Antagonistic Proxies - K.M.Weiland.md",
-    "03 - Resources/Four Corner of Opposition by John Truby.md",
-    "03 - Resources/Dishonored - A Video Game.md",
     "99-Meta/Images/Pasted image 20240517153258.png",
     "99-Meta/Images/Eco pavement.png",
     "99-Meta/Images/Glasswool and Rockwool.png",
