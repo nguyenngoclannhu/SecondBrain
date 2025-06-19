@@ -1,7 +1,9 @@
 ---
 date: 2025-06-19
 tags:
-  - Zettelkasten
+  - firechat
+  - culture
+  - Microsoft
 media:
   - "[[psychology]]"
 cssclasses:
