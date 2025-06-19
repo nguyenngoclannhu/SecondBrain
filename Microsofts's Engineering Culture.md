@@ -16,7 +16,7 @@ cssclasses:
 - How the company make use of the numbers to adopt new practices.
 - How to drive continuous improvement, and use data-driven insights to optimize processes and practices.
 
-
+![[2024-07-09 SAP Engineering Practices.pdf]]
 ***
 ### References
 #### WHERE X COMES FROM
