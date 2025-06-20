@@ -11,10 +11,24 @@
             "id": "d31189bdecb03077",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05-Fleeting/Inbox/200620251146 What should microservice look like?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "200620251146 What should microservice look like?"
             }
           }
         ]
@@ -274,6 +288,8 @@
   },
   "active": "d31189bdecb03077",
   "lastOpenFiles": [
+    "msa-rules-july-2024.pdf",
+    "05-Fleeting/Inbox/200620251146 What should microservice look like?.md",
     "03-Resources/Obsidian/190620251038.md",
     "Untitled.md",
     "05-Fleeting/Inbox/19062025_Microsofts's Engineering Culture.md",
@@ -301,8 +317,6 @@
     "03 - Resources/140520241241 Will SA's victim be a victim if they received some benefits?.md",
     "05 - Fleeting/Calcium silicate board wall finish.md",
     "05 - Fleeting/Ceiling with steel Mesh & Philosophy book for beginner.md",
-    "03 - Resources/On Crestfallenness A Pilgrim not a Tractor.md",
-    "03 - Resources/110520242041 Bombshell (2019).md",
     "99-Meta/Images/Pasted image 20240517153258.png",
     "99-Meta/Images/Eco pavement.png",
     "99-Meta/Images/Glasswool and Rockwool.png",
