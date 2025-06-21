@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Fleeting/Inbox/200620251146 What should microservice look like?.md",
+                "file": "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "200620251146 What should microservice look like?"
+              "title": "21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!"
             }
           }
         ]
@@ -288,8 +288,9 @@
   },
   "active": "d31189bdecb03077",
   "lastOpenFiles": [
-    "msa-rules-july-2024.pdf",
+    "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
     "05-Fleeting/Inbox/200620251146 What should microservice look like?.md",
+    "msa-rules-july-2024.pdf",
     "03-Resources/Obsidian/190620251038.md",
     "Untitled.md",
     "05-Fleeting/Inbox/19062025_Microsofts's Engineering Culture.md",
@@ -333,7 +334,6 @@
     "02 - Areas/Work",
     "Untitled.canvas",
     "07 - Archives/Indexes",
-    "07 - Archives/Tags",
-    "01 - Projects/PMDesigns/2024"
+    "07 - Archives/Tags"
   ]
 }
