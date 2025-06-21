@@ -21,8 +21,11 @@ cssclasses:
 - 15:01 Have You Caught Spies? 
 - 22:08 Story of Catching a Spy Using Flowers 
 - 26:42 How Many People Could Be Spies Walking Among Us? 
-- 29:16 Is Body Language Important? 
+- 29:16 Is Body Language Important?
+	- Stop looking for perfection 
+	- Correct for 75% of the time about the assessing about others.
 - 34:43 First Impressions 
+	- The first 3ms
 - 37:33 How Do We Synchronize With Someone? 
 - 44:15 Eyebrow Knitting 
 - 46:08 Eyelid Touching 
