@@ -17,7 +17,7 @@ cssclasses:
 ### Notes
 - Dirac notation 
 	- used to describe quantum mechanical states
-	- Ket symbol $|*\rangle \rightarrow$ column vector $$|0\rangle = \Big[ \frac{0}{1} \Big] $$$$|1\rangle = \Big[ \frac{1}{0} \Big] $$
+	- Ket symbol $|*\rangle \rightarrow$ column vector $$|0\rangle = \Big[ \frac{1}{0} \Big] $$$$|1\rangle = \Big[ \frac{0}{1} \Big] $$
 	- 
 ***
 ### References
