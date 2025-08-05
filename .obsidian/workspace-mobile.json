@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
+                "file": "05-Fleeting/Inbox/050820251100 Quantum computing introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!"
+              "title": "050820251100 Quantum computing introduction"
             }
           }
         ]
@@ -266,6 +266,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "16c41c9b1e65ab13",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -289,10 +299,12 @@
   "active": "d31189bdecb03077",
   "lastOpenFiles": [
     "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
+    "05-Fleeting/Inbox/050820251100 Quantum computing introduction.md",
+    "Quantum co.md",
+    "03-Resources/Tech",
     "05-Fleeting/Inbox/200620251146 What should microservice look like?.md",
     "msa-rules-july-2024.pdf",
     "03-Resources/Obsidian/190620251038.md",
-    "Untitled.md",
     "05-Fleeting/Inbox/19062025_Microsofts's Engineering Culture.md",
     "05-Fleeting/Inbox",
     "07-Archives/Documents",
@@ -317,7 +329,6 @@
     "03 - Resources/140520241238 What brought SA's victim difficulties? Law or Community?.md",
     "03 - Resources/140520241241 Will SA's victim be a victim if they received some benefits?.md",
     "05 - Fleeting/Calcium silicate board wall finish.md",
-    "05 - Fleeting/Ceiling with steel Mesh & Philosophy book for beginner.md",
     "99-Meta/Images/Pasted image 20240517153258.png",
     "99-Meta/Images/Eco pavement.png",
     "99-Meta/Images/Glasswool and Rockwool.png",
@@ -333,7 +344,6 @@
     "02 - Areas/Work/Zalo",
     "02 - Areas/Work",
     "Untitled.canvas",
-    "07 - Archives/Indexes",
-    "07 - Archives/Tags"
+    "07 - Archives/Indexes"
   ]
 }
