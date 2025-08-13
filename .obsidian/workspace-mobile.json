@@ -11,10 +11,24 @@
             "id": "8258e2a6fc4f3e60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Podcasts/566. The Moral of the Story With JBP There’s No Such Thing as a Dragon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "566. The Moral of the Story With JBP There’s No Such Thing as a Dragon"
             }
           }
         ]
