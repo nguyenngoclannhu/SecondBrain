@@ -17,6 +17,12 @@
       "url": "https://feeds.transistor.fm/deep-dive-with-ali-abdaal",
       "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/0d/e0/910de0a1-7f80-f21c-ac1f-99d6d9df7879/mza_8528863511139635869.jpg/100x100bb.jpg",
       "collectionId": 1587142091
+    },
+    "On Purpose with Jay Shetty": {
+      "title": "On Purpose with Jay Shetty",
+      "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32f1779e-bc01-4d36-89e6-afcb01070c82/e0c8382f-48d4-42bb-89d5-afcb01075cb4/podcast.rss",
+      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/a1/69/5ea169e2-18c4-40b0-0982-2fda3476d9a4/mza_9372864784596222041.jpg/100x100bb.jpg",
+      "collectionId": 1450994021
     }
   },
   "podNotes": {},
