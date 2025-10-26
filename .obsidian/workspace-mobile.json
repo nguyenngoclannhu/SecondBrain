@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Media/Podcasts/22092025_Dr. K Feeling Lost in Your 20s or 30s (THIS Mindset Shift Will Help You Find Direction  Purpose).md",
-                "mode": "preview",
+                "file": "Readwise/Podcasts/562. What Do We Actually Know About Autism Sir Simon Baron-Cohen.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "22092025_Dr. K Feeling Lost in Your 20s or 30s (THIS Mindset Shift Will Help You Find Direction  Purpose)"
+              "title": "562. What Do We Actually Know About Autism Sir Simon Baron-Cohen"
             }
           },
           {
@@ -190,8 +190,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       },
       {
@@ -200,8 +200,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       },
       {
@@ -210,8 +210,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       },
       {
@@ -330,6 +330,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "43f98ebc427d00c9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -353,8 +363,8 @@
   },
   "active": "8258e2a6fc4f3e60",
   "lastOpenFiles": [
-    "Hi.md",
     "03-Resources/Media/Podcasts/22092025_Dr. K Feeling Lost in Your 20s or 30s (THIS Mindset Shift Will Help You Find Direction  Purpose).md",
+    "Hi.md",
     "02-Areas/Education/Untitled 1 1.md",
     "05-Fleeting/Inbox/200620251146 What should microservice look like?.md",
     "Readwise/Articles/Midweek Sanity Oasis The Great Zen Teacher Thich Nhat Hanh on the Art of Deep Listening and the 3 Buddhist Steps to Repairing Any Relationship.md",
