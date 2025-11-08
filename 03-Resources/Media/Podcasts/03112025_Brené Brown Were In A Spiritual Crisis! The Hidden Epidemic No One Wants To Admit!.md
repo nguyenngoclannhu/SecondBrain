@@ -6,6 +6,7 @@ tags:
 media:
   - "[[podcasts]]"
 cssclasses:
+  - saturday
   - daily
 ---
 > No.1 vulnerability expert BRENÉ BROWN exposes how shame, fear, and perfectionism secretly control your life - and reveals proven ways to unlock courage, confidence, trust, connection, and joy. Brené Brown is a world-renowned research professor who has spent over two decades studying courage, vulnerability, shame, and empathy. She is also the author of 6 #1 New York Times bestsellers, including her recently published book, ‘Strong Ground’, and hosts two award-winning podcasts on leadership and human connection. She explains:  ◼️The marble jar theory that changed how Fortune 100 companies build trust ◼️The 4 skill sets of courage you can train and measure ◼️Why fitting in is the greatest threat to true belonging ◼️How to identify your “armor” when you're afraid and drop it ◼️The gratitude practice that stops catastrophising in real-time 
@@ -19,8 +20,9 @@ cssclasses:
 - (16:23) Is Power Driven by Fear? 
 - (19:51) Four Types of Power: How to Be Successful as a Leader 
 - (22:54) Systems Theory 
-- (26:48) The Role of AI and Social Media in Shaping Society 
+- (26:48) The Role of AI and Social Media in Shaping Society
 - (34:39) Wisdom From Psychology and Life Experience 
+	- Agreed, psychology and learning to appreciate arts have always been important.
 - (41:26) What Type of Connection Should People Be Looking For? 
 - (44:34) Belonging vs. Standing Alone 
 - (47:43) Making a Divisive Podcast 
