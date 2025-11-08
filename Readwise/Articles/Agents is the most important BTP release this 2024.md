@@ -9,6 +9,9 @@
 - Summary: Agents are a new approach in AI that use language models to reason and choose actions, enhancing tasks like automation and chatbots. They have components like memory and planning to improve their effectiveness and adaptability. This technology is evolving rapidly, promising greater autonomy and better performance in various applications.
 - URL: https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/agents-is-the-most-important-btp-release-this-2024/ba-p/13601686
 
+## Full Document
+[[Full Document Contents/Articles/Agents is the most important BTP release this 2024.md|See full document content →]]
+
 ## Highlights
 - "**ReAct: Synergizing Reasoning and Acting in Language Models**" by Princeton and Google Brain introduced a framework with the idea to amalgamate reasoning with action in language models to enhance their functionality, versatility, and interoperability, they called it ReACT, and **Agents** were born ([View Highlight](https://read.readwise.io/read/01jksgehf8pdz1k7c1j6hj5djd))
     - Note: agent original paper

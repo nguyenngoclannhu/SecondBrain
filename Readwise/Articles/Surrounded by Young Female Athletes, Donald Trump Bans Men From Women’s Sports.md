@@ -9,6 +9,9 @@
 - Summary: President Donald Trump signed an executive order Wednesday banning men from women’s sports, a historic moment in the fight to protect the integrity of women’s spaces from gender activists and ideologues. “From now on,” he said to massive applause from those assembled, “women’s sports will be for only women.” “With this executive order, the war ...
 - URL: https://www.dailywire.com/news/surrounded-by-young-female-athletes-donald-trump-bans-men-from-womens-sports
 
+## Full Document
+[[Full Document Contents/Articles/Surrounded by Young Female Athletes, Donald Trump Bans Men From Women’s Sports.md|See full document content →]]
+
 ## Highlights
 - rescind ([View Highlight](https://read.readwise.io/read/01jkcm0kd42a9cyjdjgmg41rnm))
     - Tags: [[vocab]] 

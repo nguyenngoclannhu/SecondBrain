@@ -9,6 +9,9 @@
 - Summary: LangGraph is a tool for creating AI workflows that use the concept of "state" to track and manage information. Basic and complex state structures allow systems to remember details, such as conversation history or counts, while ensuring data remains immutable. Understanding state in LangGraph enables the development of more sophisticated and context-aware AI applications.
 - URL: https://medium.com/@gitmaxd/understanding-state-in-langgraph-a-comprehensive-guide-191462220997
 
+## Full Document
+[[Full Document Contents/Articles/Understanding State in LangGraph A Beginners Guide 🚀.md|See full document content →]]
+
 ## Highlights
 - system’s memory ([View Highlight](https://read.readwise.io/read/01jka6sejsea2yypd26tvc1qw8))
 - The `Annotated` type provides additional metadata that LangGraph uses for special handling of message lists (Tuples). This structure is particularly useful for:

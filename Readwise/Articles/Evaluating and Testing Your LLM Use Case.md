@@ -6,9 +6,11 @@
 - Author: [[sap.com]]
 - Full Title: Evaluating and Testing Your LLM Use Case
 - Category: #articles
-- Document Note: Guardrials, an open Python package use to evaluate outpus of LLM models
 - Summary: This lesson teaches how to evaluate and test Large Language Model (LLM) use cases effectively. You will learn key performance metrics and best practices to ensure optimal performance in real-world applications. Additionally, MLOps plays a crucial role in automating testing and maintaining the reliability of LLM systems.
 - URL: https://learning.sap.com/learning-journeys/navigating-large-language-models-fundamentals-and-techniques-for-your-use-case/evaluating-and-testing-your-llm-use-case_bf1eaef6-a9e0-4030-bc5f-3e059636b738
+
+## Full Document
+[[Full Document Contents/Articles/Evaluating and Testing Your LLM Use Case.md|See full document content →]]
 
 ## Highlights
 - See the list of common metrics used to assess the LLM performance:

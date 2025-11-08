@@ -9,6 +9,9 @@
 - Summary: Let Donald J. Trump cook. On Tuesday night, President Trump gave an absolutely stunning, ground-breaking, timeline-changing press conference with Israeli Prime Minister Benjamin Netanyahu, in which he announced his plan for the Gaza Strip. He made the announcement that the United States would take over the Gaza Strip. And people promptly went insane. First, all ...
 - URL: https://www.dailywire.com/news/trump-unleashes-mind-blowing-gaza-plan
 
+## Full Document
+[[Full Document Contents/Articles/Trump Unleashes Mind-Blowing Gaza Plan.md|See full document content →]]
+
 ## Highlights
 - He made the announcement that the United States would take over the Gaza Strip. ([View Highlight](https://read.readwise.io/read/01jkcq8szyjg9prytmbr2m17xj))
 - First, all of the conventional wisdom, all of the State Department-approved decades-long conventional wisdom, has led to full-scale disaster in the Middle East ([View Highlight](https://read.readwise.io/read/01jkcq9a2g972nfm7y7zeszza6))

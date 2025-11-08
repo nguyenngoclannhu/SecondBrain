@@ -9,6 +9,9 @@
 - Summary: AI hallucinations are incorrect results produced by AI models, often due to poor training data or biases. These errors can lead to serious problems, especially in critical areas like healthcare or finance. To reduce hallucinations, it's important to use high-quality data and provide clear guidance to the AI model during training.
 - URL: https://cloud.google.com/discover/what-are-ai-hallucinations?hl=en
 
+## Full Document
+[[Full Document Contents/Articles/What Are AI Hallucinations.md|See full document content →]]
+
 ## Highlights
 - AI hallucinations are incorrect or misleading results ([View Highlight](https://read.readwise.io/read/01jkda4484tpg593cmwmr7pd8q))
 - including insufficient training data, incorrect assumptions made by the model, or biases in the data used to train the model. ([View Highlight](https://read.readwise.io/read/01jkda4c8kzbrjpartph5xjtt5))

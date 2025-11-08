@@ -9,6 +9,9 @@
 - Summary: Principal Component Analysis (PCA) is a technique used for dimensionality reduction, allowing us to extract significant features from a large set of variables without losing important information. It transforms high-dimensional data into a lower-dimensional space by creating new, independent variables called principal components. PCA helps to simplify data visualization and modeling by reducing redundancy and capturing essential patterns in the data.
 - URL: https://medium.com/analytics-vidhya/math-intuition-and-implementation-of-principal-component-analysis-6f02253ceef9
 
+## Full Document
+[[Full Document Contents/Articles/Math Intuition and Implementation of Principal Component Analysis.md|See full document content →]]
+
 ## Highlights
 - find a subset of the original set of variables, or features, to get a smaller subset ([View Highlight](https://read.readwise.io/read/01jkded0w6re72kexb5kg0qf4d))
 - Advantages of feature Selection methods include simplicity and maintaining interpretability of your variables. ([View Highlight](https://read.readwise.io/read/01jkdedgqbqvjcwvq8msx9krr6))

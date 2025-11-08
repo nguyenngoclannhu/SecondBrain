@@ -9,6 +9,9 @@
 - Summary: Generative AI is revolutionizing text data extraction by quickly processing unstructured data and identifying relevant information. It improves accuracy and efficiency compared to traditional methods like manual entry and OCR. Innovations such as AI-recommended templates and the Generative Information Extractor (GenIE) enable businesses to automate data extraction from complex documents.
 - URL: https://builtin.com/articles/how-generative-ai-transforming-text-data-extraction
 
+## Full Document
+[[Full Document Contents/Articles/How Generative AI Is Transforming Text Data Extraction.md|See full document content →]]
+
 ## Highlights
 - combined computer vision and natural language processing with a heuristics layer to automate the layout generation for simpler invoices and purchase orders ([View Highlight](https://read.readwise.io/read/01jkf5zvb6y94v4qkvdnrx8w5p))
 - Auto Generate Layout (AGL) ([View Highlight](https://read.readwise.io/read/01jkf601nztsn8vp1qxms7k3t9))

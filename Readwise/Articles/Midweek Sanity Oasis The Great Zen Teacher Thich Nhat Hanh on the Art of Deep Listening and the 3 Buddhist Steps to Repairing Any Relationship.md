@@ -10,6 +10,9 @@
 Hanh's three steps: calm yourself, say you are suffering and ask for the other's side, then listen carefully.  
 Deep listening and gentle speech can restore communication and heal relationships.
 
+## Full Document
+[[Full Document Contents/Articles/Midweek Sanity Oasis The Great Zen Teacher Thich Nhat Hanh on the Art of Deep Listening and the 3 Buddhist Steps to Repairing Any Relationship.md|See full document content →]]
+
 ## Highlights
 - we must be willing to listen in order to better understand them — not only out of the vain self-referential transactionalism ([View Highlight](https://read.readwise.io/read/01k5zs52q731ga887xd4xnk2dq))
 - but because correcting our wrong perceptions is a basic and vital form of caring for ourselves ([View Highlight](https://read.readwise.io/read/01k5zs5gm64xz8zz5kcxhhdccx))

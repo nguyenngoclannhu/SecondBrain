@@ -9,6 +9,9 @@
 - Summary: This blog discusses how AI agents can assist Mary, a Maintenance Manager, in creating Maintenance Notifications in SAP. It outlines the use of a framework called Crew AI, which allows multiple AI agents to collaborate on tasks using specific goals and tools. The author emphasizes the importance of combining human expertise with AI capabilities to enhance efficiency in maintenance processes.
 - URL: https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/multi-ai-agents-use-case-sap-maintenance-notification-creation/ba-p/13608309
 
+## Full Document
+[[Full Document Contents/Articles/Multi AI Agents use case. SAP Maintenance Notification creation.md|See full document content →]]
+
 ## Highlights
 - Crew AI uses a combination of
   1. Tasks (Goal)

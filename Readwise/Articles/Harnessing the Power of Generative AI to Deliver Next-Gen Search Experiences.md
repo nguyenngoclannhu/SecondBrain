@@ -9,6 +9,9 @@
 - Summary: Generative AI is transforming search experiences by organizing information into a unified system that makes it easy to find data across various formats. It utilizes semantic search technology, which understands content meaning rather than just keywords, improving retrieval accuracy. Enterprise search also offers features like summarization and multimodal search capabilities, enhancing productivity for users.
 - URL: https://www.youtube.com/watch?v=HD_xreaLKb4&t=504s
 
+## Full Document
+[[Full Document Contents/Articles/Harnessing the Power of Generative AI to Deliver Next-Gen Search Experiences.md|See full document content →]]
+
 ## Highlights
 - One is the service level requirements for any enterprise ([View Highlight](https://read.readwise.io/read/01jkdcn14jwr6gks123cfwhcfh))
 - The second challenge is that traditional keyword search is too restricted ([View Highlight](https://read.readwise.io/read/01jkdcnksr6nwkd0djfjwx560a))

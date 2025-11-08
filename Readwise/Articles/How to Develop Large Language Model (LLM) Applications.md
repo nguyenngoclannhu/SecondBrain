@@ -9,6 +9,9 @@
 - Summary: Large language models (LLMs) like ChatGPT have sparked interest in developing applications that use LLM APIs for both human-to-machine and machine-to-machine interactions. Building these applications comes with challenges, such as managing output consistency and token limits. As LLM technology evolves, integrating these models into software will become easier and more effective, enhancing user experiences.
 - URL: https://builtin.com/artificial-intelligence/large-language-model-application-development
 
+## Full Document
+[[Full Document Contents/Articles/How to Develop Large Language Model (LLM) Applications.md|See full document content →]]
+
 ## Highlights
 - djustable temperature parameter that controls the randomness of the output. When you lower the temperature, the output is more deterministic ([View Highlight](https://read.readwise.io/read/01jkf7zr5mydr2jvfbb7p5md9f))
     - Note: useful when applications have a definitive source of truth

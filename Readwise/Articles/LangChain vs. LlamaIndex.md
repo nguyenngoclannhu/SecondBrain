@@ -9,6 +9,9 @@
 - Summary: LangChain and LlamaIndex are two important tools for SAP developers working with Large Language Models. LangChain is great for building versatile applications, while LlamaIndex excels in data retrieval and indexing. Using both tools together can enhance LLM applications on the SAP Business Technology Platform.
 - URL: https://community.sap.com/t5/technology-blogs-by-members/langchain-vs-llamaindex-enhancing-llm-applications-on-sap-btp/ba-p/13576312
 
+## Full Document
+[[Full Document Contents/Articles/LangChain vs. LlamaIndex.md|See full document content →]]
+
 ## Highlights
 - LangChain for its versatility in agent-based applications or LlamaIndex for its efficient data handling ([View Highlight](https://read.readwise.io/read/01jkqgtyyzsfspxh5ef36cr37b))
 - integrate multiple tools ([View Highlight](https://read.readwise.io/read/01jkqgw2gqmabg1xt4tksfh7sh))

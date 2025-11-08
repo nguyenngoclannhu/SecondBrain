@@ -8,6 +8,9 @@
 - Category: #articles
 - URL: https://learning.sap.com/learning-journeys/navigating-large-language-models-fundamentals-and-techniques-for-your-use-case/understanding-principles-of-prompt-engineering_b5b022c1-bd02-476a-9992-41e665c8c6ee
 
+## Full Document
+[[Full Document Contents/Articles/Understanding Principles of Prompt Engineering.md|See full document content →]]
+
 ## Highlights
 - Chain-of-Thought (CoT):
   CoT is a straightforward technique used to generate multiturn responses by extending the input prompt. Instead of providing a single prompt, multiple related prompts are concatenated to form a chain. The model processes this concatenated chain as a single input, allowing it to maintain context and continuity throughout the conversation. By including previous conversation history, the generated responses become more consistent.

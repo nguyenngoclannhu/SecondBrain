@@ -9,6 +9,9 @@
 - Summary: This lesson teaches how to enhance Large Language Model (LLM) performance using agents, functions, and tools. Agents help translate user input into prompts for the LLM, while functions add special capabilities like accessing data. By combining these elements, users can improve their LLM workflows and achieve better results.
 - URL: https://learning.sap.com/learning-journeys/navigating-large-language-models-fundamentals-and-techniques-for-your-use-case/optimizing-llm-performance-using-agents_d48d449f-bc78-4cb5-8664-56213ddcddcd
 
+## Full Document
+[[Full Document Contents/Articles/Optimizing LLM Performance Using Agents.md|See full document content →]]
+
 ## Highlights
 - There are many different types of agents; each with its own strengths and weaknesses. ([View Highlight](https://read.readwise.io/read/01jkqkzy37rqxyh9eqfkjvs9q6))
     - Note: Agent Builder?
