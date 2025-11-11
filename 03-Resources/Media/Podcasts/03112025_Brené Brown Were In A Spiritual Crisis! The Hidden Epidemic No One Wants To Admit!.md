@@ -17,9 +17,11 @@ cssclasses:
 - (07:23) Parents Affecting Your View of Love 
 	- [00:05:36](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=336.6971048096611): 
 	- [00:06:55](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=415.35850441499883): oh, yeah, my childhood is also plague with screamings.
-	- 
 - (10:48) 87 Human Emotions 
-- (11:50) Why Did Brené Struggle With Self-Love and Belonging? 
+	- [00:10:42](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=642.2659718966688): it's hard to live with someone who loves you more than you love you.
+	- [00:11:19](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=679.9704705223346): average person can only 3/87 emotions
+- (11:50) Why Did Brené Struggle With Self-Love and Belonging?
+	- [00:12:25](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=745.0255227603353):
 - (15:36) How Has the World Changed in the Last Two Decades? 
 - (16:23) Is Power Driven by Fear? 
 - (19:51) Four Types of Power: How to Be Successful as a Leader 
