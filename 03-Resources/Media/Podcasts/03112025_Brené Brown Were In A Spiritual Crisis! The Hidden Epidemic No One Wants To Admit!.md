@@ -13,7 +13,11 @@ cssclasses:
 > 
 - (00:00) Intro
 - (02:34) What Made Brené Who She Is? 
+	- [00:02:49](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=169.67444316966413): Becoming really good at reading the environment -> stay vigilant.
 - (07:23) Parents Affecting Your View of Love 
+	- [00:05:36](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=336.6971048096611): 
+	- [00:06:55](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=415.35850441499883): oh, yeah, my childhood is also plague with screamings.
+	- 
 - (10:48) 87 Human Emotions 
 - (11:50) Why Did Brené Struggle With Self-Love and Belonging? 
 - (15:36) How Has the World Changed in the Last Two Decades? 

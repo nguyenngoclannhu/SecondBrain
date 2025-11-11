@@ -326,6 +326,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "0d2c04d8475a41e8",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -349,6 +359,10 @@
   },
   "active": "9acd7ecd9123fc3b",
   "lastOpenFiles": [
+    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
+    "Readwise/Podcasts/Secret Agent (Evy Poumpouras) Never Be Yourself at Work! Authenticity Is Quietly Sabotaging You! - Evy Poumpouras.md",
+    "Readwise/Full Document Contents/Articles/How to be a lichen — salve for the aches of being human from nature's tiny titans of resilience; Neruda's love letter to language; a cosmic fable.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Pinterest vs. Snap, Meta's scam ads, AI Search, and teen safety in 2025.md",
     "The Marginalian by Maria Popova.md",
     "Untitled 1.canvas",
     "Readwise/Podcasts/Jay & Radhi Talk About the Pressure and Expectations Around Parenthood.md",
@@ -372,13 +386,9 @@
     "Untitled.canvas",
     "05-Fleeting/Inbox/081120250834.md",
     "Untitled.base",
-    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "Readwise/Full Document Contents/Articles/Carl Jung on the relationship between suffering and creativity; is peace possible; what it's like to be an owl.md",
     "Readwise/Full Document Contents/Articles/Beloved children's book author Gianni Rodari on storytelling and creativity, Doris Lessing on writing, Pico Iyer on silence and the art of surrender.md",
     "Readwise/Full Document Contents/Articles/Neo Kim (@systemdesignone) If you want to become good at system design (in 3 weeks), learn these case studies… 🧵 1. How Amazon S3 Achieves 99.999999999% Durability ↳ httpsnewsletter.systemdesign.onepamazon-s3-durability 2. How Google Docs Works ↳ htt.md",
-    "Readwise/Full Document Contents/Articles/Efficient Estimation of Word Representations in Vector Space.md",
-    "Readwise/Full Document Contents/Articles/Writing the Book of Love, The Heart of the Andes and the Invention of Virtual Reality, the Art of Looking.md",
-    "Readwise/Full Document Contents/Articles/How to tell a truer love story, Jane Goodall on the indivisibility of art and science, John Burroughs on the mark of a great poem and a great person.md",
     "Readwise/Full Document Contents/Articles",
     "Readwise/Full Document Contents",
     "msa-rules-july-2024.pdf",
