@@ -336,6 +336,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "a25b39931479d1f4",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -357,8 +367,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9acd7ecd9123fc3b",
+  "active": "a25b39931479d1f4",
   "lastOpenFiles": [
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Trauma, Growth, and How to Be Twice as Alive — Tove Jansson on the Worm and the Art of Self-Renewal.md",
+    "Readwise/Full Document Contents/Articles/How chance and error shaped every living being on Earth.md",
+    "Readwise/Full Document Contents/Articles/How to Build Your First Recommendation System (Easy).md",
+    "Readwise/Full Document Contents/Articles/Einsum Blueprint Part 1 - Outer Product to GQA.md",
+    "Readwise/Articles/UK Now Refuses to Share Certain Intelligence With United States Over Drug Boat Strikes.md",
+    "Readwise/Full Document Contents/Articles/UK Now Refuses to Share Certain Intelligence With United States Over Drug Boat Strikes.md",
+    "Readwise/Articles/A Veterans Day Warning The War We Fought Abroad Has Come Home.md",
+    "Readwise/Full Document Contents/Articles/A Veterans Day Warning The War We Fought Abroad Has Come Home.md",
     "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "Readwise/Podcasts/Secret Agent (Evy Poumpouras) Never Be Yourself at Work! Authenticity Is Quietly Sabotaging You! - Evy Poumpouras.md",
     "Readwise/Full Document Contents/Articles/How to be a lichen — salve for the aches of being human from nature's tiny titans of resilience; Neruda's love letter to language; a cosmic fable.md",
@@ -378,17 +396,9 @@
     "Readwise/Podcasts/Neuroscience Expert Dr. Tara Swart on Evidence We Can Communicate After Death and Her Experience Speaking to the Dead!.md",
     "Readwise/Podcasts/569. Family Conflicts, Difficult Children & Overcoming Resentment Answer the Call.md",
     "Readwise/Podcasts/566. The Meaning Of There’s No Such Thing as a Dragon.md",
-    "Readwise/Podcasts/564. The Meaning Of Hansel & Gretel.md",
-    "Readwise/Podcasts/558. The Meaning Of Snow White.md",
-    "Readwise/Podcasts/Highlight How to Actually Become Disciplined WITHOUT Willpower… the Leading Behaviour Expert.md",
-    "Readwise/Podcasts/How to Increase Your Emotional Intelligence Dr. Marc Brackett.md",
     "Untitled 1.base",
     "Untitled.canvas",
-    "05-Fleeting/Inbox/081120250834.md",
     "Untitled.base",
-    "Readwise/Full Document Contents/Articles/Carl Jung on the relationship between suffering and creativity; is peace possible; what it's like to be an owl.md",
-    "Readwise/Full Document Contents/Articles/Beloved children's book author Gianni Rodari on storytelling and creativity, Doris Lessing on writing, Pico Iyer on silence and the art of surrender.md",
-    "Readwise/Full Document Contents/Articles/Neo Kim (@systemdesignone) If you want to become good at system design (in 3 weeks), learn these case studies… 🧵 1. How Amazon S3 Achieves 99.999999999% Durability ↳ httpsnewsletter.systemdesign.onepamazon-s3-durability 2. How Google Docs Works ↳ htt.md",
     "Readwise/Full Document Contents/Articles",
     "Readwise/Full Document Contents",
     "msa-rules-july-2024.pdf",
