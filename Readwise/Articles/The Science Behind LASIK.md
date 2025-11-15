@@ -9,9 +9,12 @@
 - Summary: LASIK surgery reshapes the cornea to help focus light correctly onto the retina, improving vision without glasses or contacts. Our eyes sometimes cannot focus light properly due to conditions like nearsightedness, farsightedness, or astigmatism. Corrective lenses or surgery fix these focusing problems so we can see clearly.
 - URL: https://bigthink.com/starts-with-a-bang/science-behind-lasik/
 
+<<<<<<< HEAD
 ## Full Document
 [[Full Document Contents/Articles/The Science Behind LASIK.md|See full document content →]]
 
+=======
+>>>>>>> 87dad16 (readwise)
 ## Highlights
 - that you can’t focus the light for objects that are too clo ([View Highlight](https://read.readwise.io/read/01k33xaaarzb81b5ay8k8adv55))
 - your eye only has one lens, and it uses the same lens for focusing “near light” as “far light.” ([View Highlight](https://read.readwise.io/read/01k33xarv4zj7yncwsdrhew8ka))
