@@ -11,13 +11,24 @@
             "id": "9acd7ecd9123fc3b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.base",
-                "viewName": "Table"
+                "file": "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Untitled 2"
+              "icon": "lucide-file",
+              "title": "03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!"
             }
           }
         ]
@@ -368,8 +379,11 @@
   },
   "active": "9acd7ecd9123fc3b",
   "lastOpenFiles": [
-    "Readwise/Podcasts/Secret Agent (Evy Poumpouras) Never Be Yourself at Work! Authenticity Is Quietly Sabotaging You! - Evy Poumpouras.md",
     "Untitled 2.base",
+    "Media Note - Secret Agent_ If You’re Easily Offended, You’re Easily Manipulated! This 1 Trick Catches A Lie In 2s.md",
+    "Readwise/Full Document Contents/Articles/Sergei Polevikov, Prof. Tom Yeh, and Devansh posted new notes.md",
+    "Readwise/Podcasts/Brené Brown We're in a Spiritual Crisis! The Hidden Epidemic No One Wants to Admit!.md",
+    "Readwise/Podcasts/Secret Agent (Evy Poumpouras) Never Be Yourself at Work! Authenticity Is Quietly Sabotaging You! - Evy Poumpouras.md",
     "Readwise/Full Document Contents/Articles/Agent Hallucination by Hand ✍️.md",
     "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Trauma, Growth, and How to Be Twice as Alive — Tove Jansson on the Worm and the Art of Self-Renewal.md",
@@ -392,9 +406,6 @@
     "Readwise/Podcasts/Dr. K Feeling Lost in Your 20s or 30s.md",
     "Readwise/Podcasts/Lilly Singh Stop Trying to Prove Yourself to Everyone Else!.md",
     "Readwise/Podcasts/Jared Freid & Jordana Abraham Dating App Burnout Do THIS 30-Day Challenge to Stop Wasting Time and FINALLY Meet the Right Person.md",
-    "Readwise/Podcasts/#479 – Dave Plummer Programming, Autism, and Old-School Microsoft Stories.md",
-    "Readwise/Podcasts/Dr. Becky Kennedy #1 Parenting Mistake Fueling Your Kid’s Anxiety! Follow THIS Proven Framework to Raise Emotionally Strong Adults.md",
-    "Readwise/Podcasts/Neuroscience Expert Dr. Tara Swart on Evidence We Can Communicate After Death and Her Experience Speaking to the Dead!.md",
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled.base",
