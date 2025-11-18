@@ -23,13 +23,46 @@ cssclasses:
 - (11:50) Why Did Brené Struggle With Self-Love and Belonging?
 	- [00:12:25](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=745.0255227603353):
 - (15:36) How Has the World Changed in the Last Two Decades? 
+	- we believe less
 - (16:23) Is Power Driven by Fear? 
 - (19:51) Four Types of Power: How to Be Successful as a Leader 
+	- [00:18:28](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1108.9540362029845): Power over: Power is finite
+		- S1 to dislike and blame for their pain, and that S1 is different from you then you will win.
+		- In maintenance, need to remind people what you are capable of (usually periodically cruelty).
 - (22:54) Systems Theory 
+	- [00:20:13](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1213.5458032496522): POWER TO
+	- POWER WITH
+	- POWER WITHIN (CoCreation Power)
+	- [00:21:27](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1287.8908525796592): what happened when using power over?
+		- Numb 
+		- Hyper-normalized
+		- Needs periodically cruelty to remind how cruel that leader can be.
+	- [00:23:56](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1436.1665191546642): allow feedback to flow in and out of other system
+		- [00:24:11](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1451.8134597093353): the complexity is too much -> shut down the communication barrier
+		- [00:25:58](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1558.0403484666629): the system become self-validated.
+			- introduce prejudice
+			- self-protect, 
 - (26:48) The Role of AI and Social Media in Shaping Society
+	- [00:27:05](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1625.836090495693):
+	- confirm what we already believed
+	- [00:28:22](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1702.897568201996): Solution to the addictive
+	- [00:29:44](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1784.3092614726702): Belief crisis
+		- [00:30:06](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1806.8576490730118): Cognitive Sovergnty
+		- [00:30:56](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1856.1379948043295): For you page!
+		- [00:32:34](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=1954.4986369619867): Thinking Class emerging? 
 - (34:39) Wisdom From Psychology and Life Experience 
 	- Agreed, psychology and learning to appreciate arts have always been important.
+	- [00:34:12](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2052.2753441506807): want to own their minds. Hold the tension in your mind and not easy to reconcile.
+	- [00:35:29](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2129.4536572496745): Everything. 
+		- "yeah, like why do we have to choose? we need to allow ourselves to connect with the nature".
+	- [00:37:17](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2237.3133926666846): The Thames's guard
+		- We need time to ourselves, cognitive and domain shifting.
+		- Lock in through needs the time, if you rush it -> you flip
+	- [00:40:01](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2401.8042316773217): Pocket Presence 
+		- The ability to move without seeing everything
+		- Temporal Awareness, etc.
 - (41:26) What Type of Connection Should People Be Looking For? 
+	- 
 - (44:34) Belonging vs. Standing Alone 
 - (47:43) Making a Divisive Podcast 
 - (54:07) Pros and Cons of Curiosity 

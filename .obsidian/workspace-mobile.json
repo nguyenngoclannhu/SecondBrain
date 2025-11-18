@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!"
             }
+          },
+          {
+            "id": "8e2c10a43acb81bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -361,7 +371,8 @@
         }
       }
     ],
-    "currentTab": 8
+    "currentTab": 8,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -379,13 +390,13 @@
   },
   "active": "9acd7ecd9123fc3b",
   "lastOpenFiles": [
+    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "Untitled 2.base",
     "Media Note - Secret Agent_ If You’re Easily Offended, You’re Easily Manipulated! This 1 Trick Catches A Lie In 2s.md",
     "Readwise/Full Document Contents/Articles/Sergei Polevikov, Prof. Tom Yeh, and Devansh posted new notes.md",
     "Readwise/Podcasts/Brené Brown We're in a Spiritual Crisis! The Hidden Epidemic No One Wants to Admit!.md",
     "Readwise/Podcasts/Secret Agent (Evy Poumpouras) Never Be Yourself at Work! Authenticity Is Quietly Sabotaging You! - Evy Poumpouras.md",
     "Readwise/Full Document Contents/Articles/Agent Hallucination by Hand ✍️.md",
-    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Trauma, Growth, and How to Be Twice as Alive — Tove Jansson on the Worm and the Art of Self-Renewal.md",
     "Readwise/Full Document Contents/Articles/How chance and error shaped every living being on Earth.md",
     "Readwise/Full Document Contents/Articles/How to Build Your First Recommendation System (Easy).md",
