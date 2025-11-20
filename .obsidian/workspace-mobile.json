@@ -366,6 +366,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "42538e98d782e374",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -388,8 +398,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9acd7ecd9123fc3b",
+  "active": "23b8681bf4c83a1c",
   "lastOpenFiles": [
+    "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok Podcasts, Shopping AI, GDPR reform, Vine 2.0, and LinkedIn Search.md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis A Field Guide to Learning How to Love Disguised as a Vintage Children's Book.md",
+    "Readwise/Full Document Contents/Articles/ResNet, ViT, Qwen3 Blueprint (Google Bonsai).md",
+    "Readwise/Full Document Contents/Articles/ML for SWEs 71 The IDE For Gambling.md",
     "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "Untitled 2.base",
     "Media Note - Secret Agent_ If You’re Easily Offended, You’re Easily Manipulated! This 1 Trick Catches A Lie In 2s.md",
@@ -414,9 +428,6 @@
     "Readwise/Podcasts/Quinlan Walther Stop Chasing Love Just Because You’re Lonely!.md",
     "Readwise/Podcasts/EMMA WATSON EXCLUSIVE The Story She Has Not Shared Until Now.md",
     "Readwise/Podcasts/Former CIA Spies The CIA Tried to Ban This Story! We're Leaving the US by 2030!.md",
-    "Readwise/Podcasts/Dr. K Feeling Lost in Your 20s or 30s.md",
-    "Readwise/Podcasts/Lilly Singh Stop Trying to Prove Yourself to Everyone Else!.md",
-    "Readwise/Podcasts/Jared Freid & Jordana Abraham Dating App Burnout Do THIS 30-Day Challenge to Stop Wasting Time and FINALLY Meet the Right Person.md",
     "Untitled 1.base",
     "Untitled.canvas",
     "Untitled.base",

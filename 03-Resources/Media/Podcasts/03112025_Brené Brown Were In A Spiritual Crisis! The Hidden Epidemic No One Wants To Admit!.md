@@ -60,13 +60,32 @@ cssclasses:
 		- Lock in through needs the time, if you rush it -> you flip
 	- [00:40:01](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2401.8042316773217): Pocket Presence 
 		- The ability to move without seeing everything
+		- [???] Is not this need to consider your teamates as well? Having the teamates that are in sync and worked so well together?
 		- Temporal Awareness, etc.
 - (41:26) What Type of Connection Should People Be Looking For? 
-	- 
+	- [00:41:57](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2517.451078248985): What is connection? 
+		- Human connection 1-on-1
+		- Does not need to be a location? The feeling of belonging to something bigger than oneself is important
+		- [00:43:32](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2612.8450209383204): God, Love etc. 
+		- [00:44:29](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2669.2082878060105): Try to find God in everybody that you meet
 - (44:34) Belonging vs. Standing Alone 
+	- [00:44:46](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2686.724096255676): Dichotomy
+		- True belonging requires us to be who we are
+		- Fitting in is the greatest threat to belonging
+			- [00:45:45](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2745.6198057640036): In order to fit in, the first person you betrayed is yourself.
+		- [00:47:00](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2820.015082830312): Ideology Bunker
 - (47:43) Making a Divisive Podcast 
+	- [00:48:32](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=2912.2758137773285): 
+	- Why we choose sides? -> Lonely, it is safer in number
+	- [00:50:44](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3044.8173166596557): If you question my humanity, then no more conversation 
+		- [00:51:18](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3078.765142470339): The last time dehumanisation, we have holocaust
+			- Moral Inclusion -> refrain us from murdering each other
+			- The first way to move people out of the moral inclusion is ==LANGUAGE==
 - (54:07) Pros and Cons of Curiosity 
-- (54:50) Responsibility of a Platform to Assess Guest Credibility 
+	- [00:54:21](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3261.2037615863305): Generality Ethos?
+- (54:50) Responsibility of a Platform to Assess Guest Credibility
+	- [00:55:31](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3331.615699628):
+	- 
 - (1:03:34) Ads 
 - (1:04:32) Importance of Vulnerability 
 - (1:09:30) Managing Fear of Vulnerability 
