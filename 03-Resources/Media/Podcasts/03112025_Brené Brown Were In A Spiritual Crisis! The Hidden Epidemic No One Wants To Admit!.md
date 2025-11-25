@@ -94,10 +94,9 @@ cssclasses:
 - (1:25:43) Four Steps to Courage 
 - (1:27:44) Building Trust With the Marble Jar Theory 
 - (1:32:47) Leaders' Misconceptions of Trust 
-- (1:35:05) Cheating 
-- (1:36:03) Ads 
-- (1:38:11) Relationship Advice 
+- (1:35:05) Cheating
+- (1:36:03) Ads
+- (1:38:11) Relationship Advice
 - (1:41:42) Losing Your Mother to Dementia 
-- (1:45:27) How Did You Deal With Grief? 
-- (1:48:40) What Are You Optimizing for Right Now? 
-Follow Brené: Website - https://bit.ly/47rISeb  LinkedIn - https://bit.ly/3Jq4T5i  Instagram - https://bit.ly/49rCLt0  You can purchase Brené’s book ‘Strong Ground’, here: http://bit.ly/47gIWyJ  You can listen to Dare to Lead podcast here: http://bit.ly/3WwlN56  The Diary Of A CEO: ◼️Join DOAC circle here - https://doaccircle.com/  ◼️Buy The Diary Of A CEO book here - https://smarturl.it/DOACbook  ◼️The 1% Diary is back - limited time only: https://bit.ly/3YFbJbt  ◼️The Diary Of A CEO Conversation Cards (Second Edition): https://g2ul0.app.link/f31dsUttKKb  ◼️Get email updates - https://bit.ly/diary-of-a-ceo-yt  ◼️Follow Steven - https://g2ul0.app.link/gnGqL4IsKKb  Sponsors: Shopify - https://shopify.com/bartlett   Pipedrive - http://pipedrive.com/CEO      Vanta - https://vanta.com/steven
+- (1:45:27) How Did You Deal With Grief?
+- (1:48:40) What Are You Optimizing for Right Now?
