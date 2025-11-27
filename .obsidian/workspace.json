@@ -4,71 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "cba4b80f407c6b69",
-        "type": "tabs",
+        "id": "12188af8fc60affd",
+        "type": "split",
         "children": [
           {
-            "id": "43c26fc60c8c6c7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "3cad9c2380ccda41",
+            "type": "tabs",
+            "dimension": 75.1578947368421,
+            "children": [
+              {
+                "id": "9576b5b554a13c0b",
+                "type": "leaf",
+                "state": {
+                  "type": "mx-embed",
+                  "state": {
+                    "source": "https://www.youtube.com/watch?v=oALRxRuDqUQ"
+                  },
+                  "icon": "youtube",
+                  "title": "BLACK MYTH: WUKONG Plot Explanation (Part 2) - YouTube"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen"
-            }
+              }
+            ]
           },
           {
-            "id": "e1806c2423ffb6cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Podcasts/560. When Does Masculinity Become Toxic David French.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "e667c3d501d96f77",
+            "type": "tabs",
+            "dimension": 24.842105263157897,
+            "children": [
+              {
+                "id": "b91158c69a6c191f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2)"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "560. When Does Masculinity Become Toxic David French"
-            }
-          },
-          {
-            "id": "c9baa0de0d1a955d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -125,108 +115,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.50390243530273
+    "width": 389.5
   },
   "right": {
     "id": "ac411f27e0ecf719",
     "type": "split",
     "children": [
       {
-        "id": "46b05fa66fab00b8",
+        "id": "cceac45a08d3fc37",
         "type": "tabs",
         "children": [
           {
-            "id": "58453a4580bf6eb2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "6090173e9881f6e8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "7c7059355e1f7597",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "28a2475d30e3fb2e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "4dc8fcc499b6c774",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "9283572faffeecdb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "5842aae523fd0410",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "e8901dbfa7b29289",
+            "id": "5dc7055d09ab269e",
             "type": "leaf",
             "state": {
               "type": "podcast_player_view",
@@ -234,93 +134,13 @@
               "icon": "play-circle",
               "title": "Podcast Player"
             }
-          },
-          {
-            "id": "d19547b75a87875c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "6399ec49104b7e26",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "d2c7962b2ba383e3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "739d33a4b74efb54",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "10829ee7bf4a4416",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "7e5f5324819218bd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "3cea24053acd5417",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "c528c176504aed46",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,44 +157,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c528c176504aed46",
+  "active": "b91158c69a6c191f",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.canvas",
-    "Untitled 1.base",
-    "The Marginalian by Maria Popova.md",
-    "Readwise/Podcasts/The Anti-Woke Expert — “USA & UK Are Brainwashed!”.md",
-    "Readwise/Podcasts/Secret Agent (Evy Poumpouras) Never Be Yourself at Work! Authenticity Is Quietly Sabotaging You! - Evy Poumpouras.md",
-    "Readwise/Podcasts/Quinlan Walther Stop Chasing Love Just Because You’re Lonely!.md",
-    "Readwise/Podcasts/Neuroscience Expert Dr. Tara Swart on Evidence We Can Communicate After Death and Her Experience Speaking to the Dead!.md",
-    "Readwise/Podcasts/Lilly Singh Stop Trying to Prove Yourself to Everyone Else!.md",
-    "Readwise/Podcasts/Jay & Radhi Talk About the Pressure and Expectations Around Parenthood.md",
-    "Readwise/Podcasts/Jared Freid & Jordana Abraham Dating App Burnout Do THIS 30-Day Challenge to Stop Wasting Time and FINALLY Meet the Right Person.md",
-    "Readwise/Podcasts/How to Increase Your Emotional Intelligence Dr. Marc Brackett.md",
-    "Readwise/Podcasts/Highlight How to Actually Become Disciplined WITHOUT Willpower… the Leading Behaviour Expert.md",
-    "Readwise/Podcasts/Former CIA Spies The CIA Tried to Ban This Story! We're Leaving the US by 2030!.md",
-    "Readwise/Podcasts/EMMA WATSON EXCLUSIVE The Story She Has Not Shared Until Now.md",
+    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2).md",
+    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 1).md",
+    "05-Fleeting/Inbox/200620251146 What should microservice look like?.md",
+    "05-Fleeting/Untitled.md",
+    "05-Fleeting/Inbox/050820251100 Quantum computing introduction.md",
+    "05-Fleeting/Inbox/081120250834.md",
+    "05-Fleeting/Inbox/19062025_Microsofts's Engineering Culture.md",
+    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
+    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
+    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+    "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
+    "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
+    "03-Resources/Media/Podcasts/22092025_Dr. K Feeling Lost in Your 20s or 30s (THIS Mindset Shift Will Help You Find Direction  Purpose).md",
+    "07-Archives/Tags/The Marginalian by Maria Popova.md",
+    "07-Archives/Tags/Diary of a CEO.md",
+    "Readwise/Podcasts/WW3 Threat Assessment The War Has Quietly Started & No One’s Trying to Stop It!.md",
+    "Readwise/Podcasts/The Anti-Woke Expert “USA & UK Are Brainwashed!”.md",
+    "Readwise/Podcasts/Dr. Marc Brackett How to Increase Your Emotional Intelligence.md",
     "Readwise/Podcasts/Dr. Marc Brackett — How to Increase Your Emotional Intelligence.md",
-    "Readwise/Podcasts/Dr. K Feeling Lost in Your 20s or 30s.md",
-    "Readwise/Podcasts/Dr. Becky Kennedy #1 Parenting Mistake Fueling Your Kid’s Anxiety! Follow THIS Proven Framework to Raise Emotionally Strong Adults.md",
-    "Readwise/Podcasts/569. Family Conflicts, Difficult Children & Overcoming Resentment Answer the Call.md",
+    "Readwise/Podcasts/Dr. Marc Brackett —  How to Increase Your Emotional Intelligence.md",
+    "Readwise/Podcasts/Episode 1 The Tower of Babel.md",
+    "07-Archives/Tags/The Jordan B. Peterson Podcast.md",
     "Readwise/Podcasts/566. The Meaning Of There’s No Such Thing as a Dragon.md",
-    "Readwise/Podcasts/564. The Meaning Of Hansel & Gretel.md",
-    "Readwise/Podcasts/558. The Meaning Of Snow White.md",
-    "Readwise/Podcasts/#483 – Julia Shaw Criminal Psychology of Murder, Serial Killers, Memory & Sex.md",
-    "Readwise/Podcasts/#479 – Dave Plummer Programming, Autism, and Old-School Microsoft Stories.md",
-    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-2.md",
-    "Readwise/Full Document Contents/Articles/💬 New thread from Logan Thorneloe.md",
-    "Readwise/Full Document Contents/Articles/google_cloud_enterprise_truth.md",
-    "Readwise/Full Document Contents/Articles/[Recording+Solution] GPU by Hand ✍️ Together.md",
-    "Readwise/Full Document Contents/Articles",
-    "Readwise/Full Document Contents",
+    "Readwise/Articles/Agentic AI Autonomous Intelligence for Complex Goals &#X2013; A Comprehensive Survey.md",
+    "07-Archives/Tags/Black Myth Wukong.md",
+    "07-Archives/Tags/On Purpose - Jay Shetty.md",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
-    "Readwise/Articles",
-    "Readwise/Podcasts",
-    "Readwise",
-    "07-Archives"
+    "03-Resources/Media/Videos/History/Game science",
+    "Untitled 1.base",
+    "Untitled.base",
+    "msa-rules-july-2024.pdf",
+    "07-Archives/Tags",
+    "Untitled 1.canvas",
+    "dirx.txt",
+    "Untitled.canvas",
+    "Untitled 2.base",
+    "Readwise/Podcasts"
   ]
 }

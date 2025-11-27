@@ -8,6 +8,7 @@ media:
 cssclasses:
   - saturday
   - daily
+  - "[[The Diary Of A CEO with Steven Bartlett]]"
 ---
 > No.1 vulnerability expert BRENÉ BROWN exposes how shame, fear, and perfectionism secretly control your life - and reveals proven ways to unlock courage, confidence, trust, connection, and joy. Brené Brown is a world-renowned research professor who has spent over two decades studying courage, vulnerability, shame, and empathy. She is also the author of 6 #1 New York Times bestsellers, including her recently published book, ‘Strong Ground’, and hosts two award-winning podcasts on leadership and human connection. She explains:  ◼️The marble jar theory that changed how Fortune 100 companies build trust ◼️The 4 skill sets of courage you can train and measure ◼️Why fitting in is the greatest threat to true belonging ◼️How to identify your “armor” when you're afraid and drop it ◼️The gratitude practice that stops catastrophising in real-time 
 > 

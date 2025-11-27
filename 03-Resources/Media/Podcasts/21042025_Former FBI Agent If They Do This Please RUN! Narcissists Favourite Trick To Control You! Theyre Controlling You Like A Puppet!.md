@@ -9,6 +9,7 @@ media:
 cssclasses:
   - daily
   - saturday
+  - "[[The Diary Of A CEO with Steven Bartlett]]"
 ---
 > Former FBI agent Joe Navarro reveals the body language mistakes silently destroying your success, and how to fix them today. Joe Navarro is a former FBI special agent and internationally renowned expert in nonverbal communication, human behavior, and body language. He is also the bestselling author of over 15 books, including ‘Be Exceptional: Master the Five Traits That Set Extraordinary People Apart’. He explains: The body language trick FBI agents use to gain instant control How to read any room and decode hidden emotions like a pro The silent body language habits sabotaging your confidence The negotiation techniques used by FBI agents - and how to master them How to spot liars and manipulators through subtle body language cues 
 - 00:00 Intro 

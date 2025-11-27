@@ -1,6 +1,8 @@
 ---
 media:
   - https://www.youtube.com/watch?v=7l_0ZcSuRwg
+cssclasses:
+  - "[[Diary of a CEO]]"
 ---
 - [00:00:56](https://www.youtube.com/watch?v=7l_0ZcSuRwg&t=57#t=56.97) You have to understand you are not alone.
 - [00:07:59](https://www.youtube.com/watch?v=7l_0ZcSuRwg&t=479#t=07:59.24) The system builds around keeps you here. [01:09:14](obsidian://podnotes?episodeName=The+No.1+Brain+Doctor%3A+%22This+Parenting+Mistake+Ruins+Your+Kids+Brain%21%22%2C+%22Alcohol+or+Marijuana+Will+Destroy+Your+Brain%21%22%2C+%22A+Stagnant+Career+Can+Increase+Your+Chance+Of+Alzheimers%21%22+-+Dr+Daniel+Amen+&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=4154.734077) Usually it's a person (bad actor).

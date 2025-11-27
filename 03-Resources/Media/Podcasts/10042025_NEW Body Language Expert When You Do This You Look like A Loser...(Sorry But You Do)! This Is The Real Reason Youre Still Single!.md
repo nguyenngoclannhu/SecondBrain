@@ -9,6 +9,7 @@ media:
 cssclasses:
   - daily
   - wednesday
+  - "[[The Diary Of A CEO with Steven Bartlett]]"
 ---
 > Can you make someone like you in seconds? Vanessa Van Edwards returns with the science-backed secrets of dating and likeability - tested in real-life dating scenarios for the very first time.  Vanessa Van Edwards is the founder of ‘Science of People’, a platform that gives people skills to improve communication and leadership. She is also the bestselling author of ‘Captivate: The Science of Succeeding with People’ and ‘Cues: Master the Secret Language of Charismatic Communication’. 
 > 

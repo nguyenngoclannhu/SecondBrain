@@ -2,11 +2,17 @@
   "defaultVolume": 80,
   "devices": [],
   "defaultMxLinkClick": {
-    "click": "split",
-    "alt": "window"
+    "click": "split-horizontal",
+    "alt": "split"
   },
   "linkHandler": {
     "mx-embed": [
+      {
+        "protocol": "https:",
+        "hostname": "www.youtube.com",
+        "pathname": "/watch",
+        "port": ""
+      },
       {
         "protocol": "https:",
         "hostname": "www.youtube.com",
@@ -25,6 +31,6 @@
   "insertBefore": false,
   "timestampOffset": 0,
   "biliDefaultQuality": 80,
-  "screenshotFormat": "image/webp",
+  "screenshotFormat": "image/png",
   "urlMappingData": []
 }
