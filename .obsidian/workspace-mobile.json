@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4f239da4fdf5fff0",
+        "id": "885a233a48aaddd6",
         "type": "tabs",
         "children": [
           {
-            "id": "24b9ffbd414b8e59",
+            "id": "3fcd73ec8e12e5c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2)"
             }
           }
         ]
@@ -384,8 +398,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "24b9ffbd414b8e59",
+  "active": "3fcd73ec8e12e5c5",
   "lastOpenFiles": [
+    "Untitled.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2).md",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 1).md",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
@@ -416,11 +431,9 @@
     "Readwise/Full Document Contents/Articles/How chance and error shaped every living being on Earth.md",
     "Readwise/Full Document Contents/Articles/How to Build Your First Recommendation System (Easy).md",
     "Readwise/Full Document Contents/Articles/Einsum Blueprint Part 1 - Outer Product to GQA.md",
-    "Readwise/Articles/UK Now Refuses to Share Certain Intelligence With United States Over Drug Boat Strikes.md",
     "Untitled 1.canvas",
     "Untitled 1.base",
     "Untitled.canvas",
-    "Untitled.base",
     "Readwise/Full Document Contents/Articles",
     "Readwise/Full Document Contents",
     "msa-rules-july-2024.pdf",
