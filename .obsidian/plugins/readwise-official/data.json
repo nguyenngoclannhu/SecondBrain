@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 23131262,
+  "lastSavedStatusID": 23212677,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -254,7 +254,9 @@
     "Readwise/Full Document Contents/Articles/ML for SWEs 71 The IDE For Gambling.md": "readerdocument:01kabmgdn3h30g3sh0v6vr6kxr",
     "Readwise/Full Document Contents/Articles/ResNet, ViT, Qwen3 Blueprint (Google Bonsai).md": "readerdocument:01kada5mfzsps91v28yjvxc8rq",
     "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis A Field Guide to Learning How to Love Disguised as a Vintage Children's Book.md": "readerdocument:01kads0w79msvapchs58g9m3sy",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok Podcasts, Shopping AI, GDPR reform, Vine 2.0, and LinkedIn Search.md": "readerdocument:01ka77y5p5entjmnm6404z4fgw"
+    "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok Podcasts, Shopping AI, GDPR reform, Vine 2.0, and LinkedIn Search.md": "readerdocument:01ka77y5p5entjmnm6404z4fgw",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Zero-Click Search, Anti-Slop TikTok, YouTube DMs, and Monopoly-Free Meta.md": "readerdocument:01karxnm8jrph72n8aqs18dy3w",
+    "Readwise/Full Document Contents/Articles/AI for SWEs 72 Gemini 3 Pro, Claude Opus 4.5, and Olmo 3.md": "readerdocument:01kaxqvksjdx8fa7514qjv73s8"
   },
   "reimportShowConfirmation": true
 }
