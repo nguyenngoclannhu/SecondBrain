@@ -85,8 +85,10 @@ cssclasses:
 - (54:07) Pros and Cons of Curiosity 
 	- [00:54:21](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3261.2037615863305): Generality Ethos?
 - (54:50) Responsibility of a Platform to Assess Guest Credibility
-	- [00:55:31](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3331.615699628):
-	- 
+	- [00:55:31](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3331.615699628): The act of having another person validate the content. Choosing which content reach the screen.
+		- [00:56:55](obsidian://podnotes?episodeName=Bren%C3%A9++Brown%3A+We%27re+In+A+Spiritual+Crisis%21+The+Hidden+Epidemic+No+One+Wants+To+Admit%21&url=https%3A%2F%2Ffeeds.megaphone.fm%2Fthediaryofaceo&time=3415.189774177627) The avoidance of the hard topic in today's society. 
+> [!faq]- What is more important? Feeling good or Having correct information
+- 
 - (1:03:34) Ads 
 - (1:04:32) Importance of Vulnerability 
 - (1:09:30) Managing Fear of Vulnerability 
