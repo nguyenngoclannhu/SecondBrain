@@ -14,7 +14,7 @@ media: https://www.youtube.com/watch?v=oALRxRuDqUQ
 		- [00:07:08](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=428#t=07:08.19) Bồ Đề tổ sư lặng lẽ giúp Tôn Ngộ Không khi tặng cho Thổ Địa một giỏ đồ đựng tiên đan. 
 > [!note]- Bồ Đề tổ sư
 > - Truyền pháp thuật cho thổ địa để người giúp thiên mệnh nhân đi ngang qua.
-> - Đã sớm nhìn ra được hoạ nạn của Tôn Ngộ Không.
+> - Đã sớm nhìn ra được hoạn nạn của Tôn Ngộ Không.
 
 - [00:09:01](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=541#t=09:01.35) tiểu sử Hoàng Phong Lĩnh
 	- [00:09:54](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=595#t=09:54.74) Nguyên tác
