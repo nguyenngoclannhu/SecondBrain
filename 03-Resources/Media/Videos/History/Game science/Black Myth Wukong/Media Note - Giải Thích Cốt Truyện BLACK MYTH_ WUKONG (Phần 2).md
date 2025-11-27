@@ -1,9 +1,13 @@
 ---
 media: https://www.youtube.com/watch?v=oALRxRuDqUQ
+cssclasses:
+  - "[[Black Myth Wukong]]"
+  - "[[Literature and History]]"
+  - "[[Eastern Psychology]]"
 ---
 - [00:00:03](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=3#t=3.30) Flashback
-- [00:00:22](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=23#t=22.91) Trùng Minh Điểu
-	- giải trừ tà ác tai ương
+- [00:00:22](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=23#t=22.91) Lục căn đầu tiên của đại thánh: Nhãn Khán Hỷ
+	- Tượng trưng: Trùng Minh Điểu - giải trừ tà ác tai ương
 # Chương 2: Hoàng Phong Lĩnh (Phong Khởi Hoàng Hôn)
 - [00:02:35](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=156#t=02:35.97) Vô Đầu Tăng
 - [00:04:07](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=248#t=04:07.99) Bức bích hoạ Ngộ Không bái Bồ Đề Tổ Sư làm thầy
@@ -53,7 +57,8 @@ media: https://www.youtube.com/watch?v=oALRxRuDqUQ
 		- Hổ Đệ không phục Hổ Huynh và khi Hoàng Phong quái trở lại. Hổ Đệ xúi Hổ Huynh đuổi Hoàng Phong đi -> Bị thương nặng. 
 		- [00:25:31](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=1531#t=25:31.02) Thơ
 > [!faq]- Cứu người có gì là sai?
--
+> Cứu người nhưng làm hại người khác là không được!
+- 
 	- [00:25:48](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=1549#t=25:48.82) Hổ Đệ chờ đợi thời cơ trả thù cho cha. Hổ Đệ gặp người cha đi tìm thuốc chữa bệnh cho con. Người cha cho con tá tục ở Định Phong trang. 
 		- [00:27:23](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=1643#t=27:23.38) Người cha cung phụng Hổ Đệ thịt người.
 		- [00:27:55](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=1675#t=27:55.26) Cuối cùng bị người dân nghi ngờ, thừa dịp người cha đi vắng, dân làng giết chết người con. Người cha biết được lấy thanh đao cất giấu lâu ngày giết tất cả mọi người và bỏ đi trong cơn gió cát vàng. 

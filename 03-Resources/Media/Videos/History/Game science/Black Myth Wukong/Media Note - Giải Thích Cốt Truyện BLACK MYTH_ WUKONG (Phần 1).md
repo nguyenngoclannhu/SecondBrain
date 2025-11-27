@@ -7,6 +7,8 @@ tags:
   - BlackMythWukong
 cssclasses:
   - "[[Black Myth Wukong]]"
+  - "[[Eastern Psychology]]"
+  - "[[Literature and History]]"
 ---
 - [00:02:49](https://www.youtube.com/watch?v=_NxJys1LO1U&t=169#t=02:49.26) Ngộ Không cut-scene with Nhị Lang Thần 
 	- Kinh cũng đã thỉnh, thần tiên cũng đã làm, giờ chỉ muốn tiêu diêu tự tại ở Hoa Quả Sơn. Hà cớ gì Thiên Đình lại sai thiên binh thiên tướng tới san bằng Hoa Quả Sơn?
