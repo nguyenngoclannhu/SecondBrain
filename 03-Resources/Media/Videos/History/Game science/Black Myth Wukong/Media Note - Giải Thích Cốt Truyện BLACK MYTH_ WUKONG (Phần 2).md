@@ -28,7 +28,7 @@ cssclasses:
 - [00:12:28](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=749#t=12:28.54) Nguyên tác
 	- Nhờ Linh Cát bồ tát bắt được -> tại sao lại trở về? tại sao lại có vô đầu tăng?
 - [00:13:30](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=811#t=13:30.96) Hoàn cảnh lịch sử 
-	- [00:13:33](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=814#t=13:33.82) Liêu Sa quốc nơi có rất nhiều vàng, sức nóng từ mặt trời có sức nóng thiêu đốt mọi thứ -> tạo nên tiếng rít chói tai -> làm hại trẻ nhỏ trong thành
+	- [00:13:33](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=814#t=13:33.82) Liêu Sa quốc nơi có rất nhiều vàng, sức nóng từ mặt trời có sức nóng thiêu đốt mọi thứ -> tạo nên tiếng rít chói tai -> làm hại trẻ nhỏ trong thành ^7a364a
 	- [00:13:56](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=836#t=13:56.13) Trống Lạt Nhật, giờ Thân, Dậu + tiếng nước sôi -> tiêu trừ tiếng gây hại cho người -> Tin Phật 
 	- -> Hoàng Kim Phật quốc
 	- [00:14:27](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=867#t=14:27.11) Quốc Vương phá bỏ chùa chiềng, phá tượng phật -> Tư Cát Lý Quốc -> tai ương ập tới
@@ -72,6 +72,8 @@ cssclasses:
 			- [00:31:31](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=1892#t=31:31.61) Nhờ ==Viên thủ thành== bói quẻ, nếu giết chết con Khỉ đang đi về hướng Tây. 
 			- [00:32:06](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=1927#t=32:06.67) Thơ 
 - [00:32:36](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=1956#t=32:36.16) End boss cutscene
+> [!faq]- Tại sao Linh Cát bồ tát không thể tự tiêu diệt Hoàng Phong quái? Lại phải chờ Thiên mệnh nhân đến tiêu diệt?
+
 - [00:34:52](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=2092#t=34:52.28) Lục căn thứ 2: Nhĩ Thính Nộ
 	- [00:35:01](https://www.youtube.com/watch?v=oALRxRuDqUQ&t=2102#t=35:01.57) Huyên/Huân
 		- Một loại nhạc cụ từ những phiến đá rỗng. Khi thổi lên sẽ ra nhạc. 

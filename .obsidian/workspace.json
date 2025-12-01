@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "058126dcaff1b1d8",
-        "type": "tabs",
+        "id": "cd1c9a50da106f0c",
+        "type": "split",
         "children": [
           {
-            "id": "200d69ba77a27c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "2d9a19caf6da998b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e02dacb8af1b24f",
+                "type": "leaf",
+                "state": {
+                  "type": "mx-embed",
+                  "state": {
+                    "source": "https://www.youtube.com/watch?v=BenFwyMcSEI"
+                  },
+                  "icon": "youtube",
+                  "title": "BLACK MYTH: WUKONG Plot Explanation (Part 3) - YouTube"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2)"
-            }
+              }
+            ]
+          },
+          {
+            "id": "96af140ec659b83c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ad8daceac3d80a93",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -107,8 +132,89 @@
               "icon": "play-circle",
               "title": "Podcast Player"
             }
+          },
+          {
+            "id": "00622fe16ee39c1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6011a524d6a573bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bc3d92cf2cbaa25b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1130a8f7bdd6d127",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3ddb9e1317cfdf6b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4d03020ca245c4cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -130,10 +236,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "200d69ba77a27c7b",
+  "active": "7e02dacb8af1b24f",
   "lastOpenFiles": [
-    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 1).md",
+    "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis The First and Final Truth of Life.md",
+    "Readwise/Full Document Contents/Articles/RLHF PPO Blueprint.md",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2).md",
+    "Untitled 3.base",
+    "Untitled.md",
+    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 1).md",
     "07-Archives/Tags/Literature and History.md",
     "07-Archives/Tags/Eastern Psychology.md",
     "07-Archives/Tags/Black Myth Wukong.md",
@@ -146,7 +257,6 @@
     "Readwise/Podcasts/Neuroscience Expert Dr. Tara Swart on Evidence We Can Communicate After Death and Her Experience Speaking to the Dead!.md",
     "Untitled.base",
     "03-Resources/Media/Videos/Self-help/Media Note - Secret Agent_ If You’re Easily Offended, You’re Easily Manipulated! This 1 Trick Catches A Lie In 2s.md",
-    "Untitled 3.base",
     "Readwise/Full Document Contents/Articles/This Week in Marketing Zero-Click Search, Anti-Slop TikTok, YouTube DMs, and Monopoly-Free Meta.md",
     "Readwise/Full Document Contents/Articles/AI for SWEs 72 Gemini 3 Pro, Claude Opus 4.5, and Olmo 3.md",
     "05-Fleeting/Inbox/200620251146 What should microservice look like?.md",
@@ -157,10 +267,6 @@
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
-    "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
-    "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
-    "03-Resources/Media/Podcasts/22092025_Dr. K Feeling Lost in Your 20s or 30s (THIS Mindset Shift Will Help You Find Direction  Purpose).md",
-    "07-Archives/Tags/Diary of a CEO.md",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
     "03-Resources/Media/Videos/History/Game science",
     "Untitled 1.base",
