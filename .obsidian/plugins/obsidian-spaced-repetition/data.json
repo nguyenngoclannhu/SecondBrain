@@ -40,7 +40,11 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
+<<<<<<< HEAD
   "buryDate": "2025-11-28",
+=======
+  "buryDate": "2025-12-20",
+>>>>>>> 66fd5c8 (update from mac)
   "buryList": [],
   "historyDeck": null
 }
