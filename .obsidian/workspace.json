@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cba4b80f407c6b69",
+        "id": "178abbfc1a95f6bb",
         "type": "tabs",
         "children": [
           {
-            "id": "43c26fc60c8c6c7e",
+            "id": "d80d4123c589a283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+                "file": "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen"
-            }
-          },
-          {
-            "id": "e1806c2423ffb6cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Podcasts/560. When Does Masculinity Become Toxic David French.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "560. When Does Masculinity Become Toxic David French"
-            }
-          },
-          {
-            "id": "c9baa0de0d1a955d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Journal/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,22 +88,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.50390243530273
+    "width": 443.5
   },
   "right": {
     "id": "ac411f27e0ecf719",
     "type": "split",
     "children": [
       {
-        "id": "46b05fa66fab00b8",
+        "id": "cceac45a08d3fc37",
         "type": "tabs",
         "children": [
           {
-            "id": "58453a4580bf6eb2",
+            "id": "5dc7055d09ab269e",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "play-circle",
+              "title": "Podcast Player"
+            }
+          },
+          {
+            "id": "00622fe16ee39c1b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,24 +124,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
-            "id": "6090173e9881f6e8",
+            "id": "6011a524d6a573bd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
-            "id": "7c7059355e1f7597",
+            "id": "bc3d92cf2cbaa25b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,21 +157,22 @@
             }
           },
           {
-            "id": "28a2475d30e3fb2e",
+            "id": "1130a8f7bdd6d127",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
-            "id": "4dc8fcc499b6c774",
+            "id": "3ddb9e1317cfdf6b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -218,7 +182,7 @@
             }
           },
           {
-            "id": "9283572faffeecdb",
+            "id": "4d03020ca245c4cc",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -228,7 +192,7 @@
             }
           },
           {
-            "id": "5842aae523fd0410",
+            "id": "42c59c3d25e958ab",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -238,17 +202,7 @@
             }
           },
           {
-            "id": "e8901dbfa7b29289",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {},
-              "icon": "play-circle",
-              "title": "Podcast Player"
-            }
-          },
-          {
-            "id": "d19547b75a87875c",
+            "id": "29f19fac594b4b70",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -258,7 +212,7 @@
             }
           },
           {
-            "id": "6399ec49104b7e26",
+            "id": "0196211d57a0dae8",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -268,7 +222,7 @@
             }
           },
           {
-            "id": "d2c7962b2ba383e3",
+            "id": "8ca6918ee6c2430d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -278,7 +232,7 @@
             }
           },
           {
-            "id": "739d33a4b74efb54",
+            "id": "b6cb9287ddf91d10",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -288,7 +242,7 @@
             }
           },
           {
-            "id": "10829ee7bf4a4416",
+            "id": "b08d81f4b2fa3d8a",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -298,37 +252,7 @@
             }
           },
           {
-            "id": "7e5f5324819218bd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "3cea24053acd5417",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "c528c176504aed46",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "3a5703a6096798e9",
+            "id": "22078087e6e342e9",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -338,11 +262,12 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,45 +284,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c9baa0de0d1a955d",
+  "active": "d80d4123c589a283",
   "lastOpenFiles": [
-    "Readwise/Full Document Contents/Articles/This Week in Marketing Zero-Click Search, Anti-Slop TikTok, YouTube DMs, and Monopoly-Free Meta.md",
-    "Readwise/Full Document Contents/Articles/RLHF PPO Blueprint.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis The First and Final Truth of Life.md",
-    "Readwise/Full Document Contents/Articles/AI for SWEs 72 Gemini 3 Pro, Claude Opus 4.5, and Olmo 3.md",
-    "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
-    "07-Archives/Tags/The Marginalian by Maria Popova.md",
-    "07-Archives/Tags/The Jordan B. Peterson Podcast.md",
-    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
-    "07-Archives/Tags/On Purpose - Jay Shetty.md",
-    "07-Archives/Tags/Literature and History.md",
-    "07-Archives/Tags/Eastern Psychology.md",
-    "07-Archives/Tags/Black Myth Wukong.md",
-    "07-Archives/Tags",
-    "03-Resources/Media/Videos/Self-help/Media Note - Secret Agent_ If You’re Easily Offended, You’re Easily Manipulated! This 1 Trick Catches A Lie In 2s.md",
-    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 2).md",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 1).md",
-    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
-    "03-Resources/Media/Videos/History/Game science",
+    "03-Resources/Media/Videos/Self-help/Media Note - Secret Agent_ If You’re Easily Offended, You’re Easily Manipulated! This 1 Trick Catches A Lie In 2s.md",
+    "podcasts.md",
+    "Readwise/Full Document Contents/Articles/Why Healthcare AI Is 20 Years Behind.md",
     "Readwise/Full Document Contents/Articles/The week that changed luxury fashion a final call for the best and worst of marketing..md",
     "Readwise/Full Document Contents/Articles/Ruben Dominguez, Cameron R. Wolfe, Ph.D., and Devansh posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Day 52 Memory Management Optimization.md",
+    "Readwise/Full Document Contents/Articles/Prof. Tom Yeh, Cameron R. Wolfe, Ph.D., and Ruben Dominguez posted new notes.md",
+    "Readwise/Full Document Contents/Articles/Obamacare Is a Disaster. Could Trump’s Plan Fix It.md",
+    "Readwise/Full Document Contents/Articles/How to love the world more, what it's like to meet an orca, how not to be a victim of success.md",
     "Readwise/Full Document Contents/Articles/Gated Attention ~ NeurIPS 2025 Best Paper.md",
+    "Readwise/Full Document Contents/Articles/Day 52 Memory Management Optimization.md",
+    "Readwise/Full Document Contents/Articles/Congress Just Ordered the Clintons to Face Epstein Depositions. Here’s When They’ll Be Grilled..md",
+    "Readwise/Full Document Contents/Articles/Brands are acting strange this Christmas. Something wicked is going on… and it’s bigger than the Las Vegas Sphere!.md",
     "Readwise/Full Document Contents/Articles/Annual Special Favorite Books of 2025.md",
-    "Untitled.canvas",
+    "Readwise/Articles/Obamacare Is a Disaster. Could Trump’s Plan Fix It.md",
+    "Readwise/Articles/Congress Just Ordered the Clintons to Face Epstein Depositions. Here’s When They’ll Be Grilled..md",
+    "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
+    "msa-rules-july-2024.pdf",
+    "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
+    "03-Resources/Media/Podcasts/10022025_The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain! Alcohol or Marijuana Will Destroy Your Brain! A Stagnant Career Can Increase Your Chance Of Alzheimers! - Dr Daniel Amen .md",
+    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
+    "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
+    "03-Resources/Media/Podcasts/22092025_Dr. K Feeling Lost in Your 20s or 30s (THIS Mindset Shift Will Help You Find Direction  Purpose).md",
+    "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
+    "Readwise/Podcasts/Former Spy If You’re Easily Offended, You’re Easily Manipulated! Psychological Trick That Makes People Respect You! This 1 Trick Catches a Lie in Seconds!.md",
+    "Readwise/Podcasts/Jay & Radhi Talk About the Pressure and Expectations Around Parenthood.md",
+    "Readwise/Podcasts/Jay & Radhi Talk About Why Men Feel So Lonely.md",
+    "07-Archives/Documents/msa-rules-july-2024.pdf",
     "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.canvas",
-    "Untitled 1.base",
-    "The Marginalian by Maria Popova.md",
-    "Readwise/Podcasts/The Anti-Woke Expert — “USA & UK Are Brainwashed!”.md",
-    "Readwise/Podcasts/Secret Agent (Evy Poumpouras) Never Be Yourself at Work! Authenticity Is Quietly Sabotaging You! - Evy Poumpouras.md",
-    "Readwise/Podcasts/Quinlan Walther Stop Chasing Love Just Because You’re Lonely!.md",
-    "Readwise/Podcasts/Neuroscience Expert Dr. Tara Swart on Evidence We Can Communicate After Death and Her Experience Speaking to the Dead!.md",
-    "Readwise/Podcasts/Lilly Singh Stop Trying to Prove Yourself to Everyone Else!.md",
-    "Readwise/Full Document Contents/Articles",
-    "Readwise/Full Document Contents",
+    "Untitled 3.base",
+    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
-    "Readwise/Articles"
+    "03-Resources/Media/Videos/History/Game science",
+    "Untitled 1.base",
+    "07-Archives/Tags",
+    "Untitled 1.canvas",
+    "dirx.txt",
+    "Untitled.canvas"
   ]
 }
