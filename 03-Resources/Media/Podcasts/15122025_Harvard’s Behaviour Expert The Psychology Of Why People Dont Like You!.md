@@ -90,16 +90,26 @@ cssclasses:
 	- Stop saying "I am disagree..."
 	- Said "Yes, and..." instead of "but..."
 	- [00:46:50](obsidian://podnotes?episodeName=Harvard%E2%80%99s+Behaviour+Expert%3A+The+Psychology+Of+Why+People+Don%27t+Like+You%21&url=https%3A%2F%2Frss2.flightcast.com%2Fxmsftuzjjykcmqwolaqn6mdn&time=2810.743525527997): I am going to give the benefit of doubt
-(48:07) How to Be Liked
+(48:07) How to Be Liked 
 (50:02) The T-A-L-K Framework 
+- T - Talk [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^d9660c]]
+	- Small Talk is a gateway but never stay there too long.
+- A - Ask [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^c85cbc]]
 (51:47) Easy Ways to Have More Casual Conversations 
 (55:13) If You Want to Be Liked, Don't Do This 
+- Avoid Boomer Asking - relate the conversation back to yourself after someone shares [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^ee1dc1]]
 (59:23) The Importance of Asking in Conversations and Dates 
 (01:03:27) Never Do This on a Date 
+- K - Kindness [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^d3238c]]
 (01:07:26) The Meeting Mistake You Shouldn't Make 
 (01:09:27) Poor Communication Skills May Be Blocking Your Career Growth 
 (01:12:02) Ads (01:12:53) The Importance of Kindness in Any Conversation 
-(01:17:20) When to Incorporate Levity 
+- Conversation requires a lot energy [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^7e7117]]
+	- Requires energy to brainstorm ideas and to ask follow-up questions.
+	- Do not have the required self-control to hold the respectful language and the egocentrism.
+(01:17:20) When to Incorporate Levity [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^237037]]
+- You can use warmth and humor as Levity
+	- Fun fact about human mind: 
 (01:23:55) The Science Behind Introverts and Extroverts — Is It Real? 
 (01:27:17) Your Contribution Score in a Conversation 
 (01:41:59) Ads 
