@@ -10,8 +10,8 @@
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
-    "flashcardHeightPercentage": 80,
-    "flashcardWidthPercentage": 40,
+    "flashcardHeightPercentage": 100,
+    "flashcardWidthPercentage": 100,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
@@ -40,11 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-<<<<<<< HEAD
-  "buryDate": "2025-11-28",
-=======
-  "buryDate": "2025-12-20",
->>>>>>> 66fd5c8 (update from mac)
+  "buryDate": "2026-01-02",
   "buryList": [],
   "historyDeck": null
 }

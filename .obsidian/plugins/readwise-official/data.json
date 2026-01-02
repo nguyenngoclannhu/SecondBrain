@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 23605324,
+  "lastSavedStatusID": 23781615,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -170,7 +170,7 @@
     "Readwise/Full Document Contents/Articles/Midweek pick-me-up I long to read more in the book of you..md": "readerdocument:01k71qn6va1t5vyks9rn3zbyj4",
     "Readwise/Full Document Contents/Articles/Annie Dillard on unselfconsciousness, Václav Havel on failure, and a spare, stunning poem by Marie Howe.md": "readerdocument:01jvg7q7we25dpch2wrkebt04a",
     "Readwise/Full Document Contents/Articles/Carl Linnaeus's flower clock, play and the course of civilization, is consciousness fundamental.md": "readerdocument:01jr4307dvkh40z1ks2b2d8895",
-    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov.md": "readerdocument:01k95ey2fdac5ar292m0pxmfav",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov.md": "readerdocument:01kdsxmwtt92rqn1mbhjcnft1e",
     "Readwise/Full Document Contents/Articles/Social media is dying. The internet is dying. Where do we go from here.md": "readerdocument:01k90bteayp098ympw2dphb8qt",
     "Readwise/Full Document Contents/Articles/How to be a stone 3 poems for trusting time; searching for meaning in the footsteps of Bulgarian mountain shepherds; a cosmic divination from the VRO.md": "readerdocument:01jywcezad4w6mpqgmgwzt27ek",
     "Readwise/Full Document Contents/Articles/Obsession, the unconscious, and the psychology of creative transformation; chance, choice, and how to own your life; and a spell against indifference.md": "readerdocument:01jtc64ph0hby9qk0zta7p27j3",
@@ -261,7 +261,11 @@
     "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis A Field Guide to Learning How to Love Disguised as a Vintage Children's Book.md": "readerdocument:01kads0w79msvapchs58g9m3sy",
     "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok Podcasts, Shopping AI, GDPR reform, Vine 2.0, and LinkedIn Search.md": "readerdocument:01ka77y5p5entjmnm6404z4fgw",
     "Readwise/Full Document Contents/Articles/This Week in Marketing Zero-Click Search, Anti-Slop TikTok, YouTube DMs, and Monopoly-Free Meta.md": "readerdocument:01karxnm8jrph72n8aqs18dy3w",
-    "Readwise/Full Document Contents/Articles/AI for SWEs 72 Gemini 3 Pro, Claude Opus 4.5, and Olmo 3.md": "readerdocument:01kaxqvksjdx8fa7514qjv73s8"
+    "Readwise/Full Document Contents/Articles/AI for SWEs 72 Gemini 3 Pro, Claude Opus 4.5, and Olmo 3.md": "readerdocument:01kaxqvksjdx8fa7514qjv73s8",
+    "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md": "57143810",
+    "Readwise/Full Document Contents/Articles/AI for Software Engineers Looking Forward to 2026.md": "readerdocument:01kdx1bkw598kf1kcwbc5b9k03",
+    "Readwise/Full Document Contents/Articles/A Spell Against Stagnation John O'Donohue on Beginnings.md": "readerdocument:01kdt058qrxw9j7wq037chv5wg",
+    "Readwise/Full Document Contents/Articles/My 2026 resolution a weekly AI seminar — for everyone.md": "readerdocument:01kdx6wc713b4db24fc8hz5hvx"
   },
   "reimportShowConfirmation": true
 }
