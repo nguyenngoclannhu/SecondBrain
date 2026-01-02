@@ -90,8 +90,7 @@ cssclasses:
 	- Stop saying "I am disagree..."
 	- Said "Yes, and..." instead of "but..."
 	- [00:46:50](obsidian://podnotes?episodeName=Harvard%E2%80%99s+Behaviour+Expert%3A+The+Psychology+Of+Why+People+Don%27t+Like+You%21&url=https%3A%2F%2Frss2.flightcast.com%2Fxmsftuzjjykcmqwolaqn6mdn&time=2810.743525527997): I am going to give the benefit of doubt
-	- 
-(48:07) How to Be Liked 
+(48:07) How to Be Liked
 (50:02) The T-A-L-K Framework 
 (51:47) Easy Ways to Have More Casual Conversations 
 (55:13) If You Want to Be Liked, Don't Do This 

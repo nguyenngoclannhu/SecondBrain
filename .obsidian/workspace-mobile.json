@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+                "file": "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -22,13 +22,67 @@
                   "extraContext": false,
                   "sortOrder": "byCreatedTime",
                   "showSearch": true,
-                  "searchQuery": "Harvard",
+                  "searchQuery": "",
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "The Diary Of A CEO with Steven Bartlett"
+              "title": "15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!"
+            }
+          },
+          {
+            "id": "f3f7b23f18afb1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ddc64a93e8332f6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b67c035390e5f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!"
             }
           }
         ]
@@ -420,8 +474,8 @@
   "active": "31540ee468363be2",
   "lastOpenFiles": [
     "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md",
-    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
     "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
+    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
     "Readwise/Full Document Contents/Articles/My 2026 resolution a weekly AI seminar — for everyone.md",
     "Readwise/Full Document Contents/Articles/A Spell Against Stagnation John O'Donohue on Beginnings.md",
     "Readwise/Full Document Contents/Articles/AI for Software Engineers Looking Forward to 2026.md",
