@@ -147,7 +147,8 @@
   - Callbacks show you listened and smooth conversation exits with a personal touch.
   Transcript:
   Alison Wood Brooks
-  L. Shall we put them in the correct order? Yeah. P-A L is for levity. So we've talked a bit about difficult conversations how they can so easily get overheated. When you think about chats that go off the rails, it's quite easy to think of hostile conflict, difficult conversations, because they're very salient. They're very memorable. There might be shouting. There's going to be hurt feelings, defensiveness. The more common enemy of conversation is actually boredom and disengagement. So yes, do we get annoyed with each other? Absolutely. But almost every conversation has stints of disengagement where people aren't interested. And so levity is humor and warmth to help us avoid disinterest and boredom. And levity is important for sort of happiness and engagement's sake itself. You know, it matters that we're enjoying our time together. But maybe even more profoundly, if we are not leaning towards each other and interested in what the other person is saying, we can't achieve of our other goals. Good conversation requires mutual engagement. So if I'm bored and my mind is wandering, which happens a lot because I have attentional issues, it happens to a lot of people a lot. [[^funfact]] The human mind wanders 25% of the time during conversation. So it's quite common. ([Time 1:17:21](https://share.snipd.com/snip/78bf7257-8b76-4130-98b0-fbf6d64c064d))
+  L. Shall we put them in the correct order? Yeah. P-A L is for levity. So we've talked a bit about difficult conversations how they can so easily get overheated. When you think about chats that go off the rails, it's quite easy to think of hostile conflict, difficult conversations, because they're very salient. They're very memorable. There might be shouting. There's going to be hurt feelings, defensiveness. The more common enemy of conversation is actually boredom and disengagement. So yes, do we get annoyed with each other? Absolutely. But almost every conversation has stints of disengagement where people aren't interested. And so levity is humor and warmth to help us avoid disinterest and boredom. And levity is important for sort of happiness and engagement's sake itself. You know, it matters that we're enjoying our time together. But maybe even more profoundly, if we are not leaning towards each other and interested in what the other person is saying, we can't achieve of our other goals. Good conversation requires mutual engagement. So if I'm bored and my mind is wandering, which happens a lot because I have attentional issues, it happens to a lot of people a lot. 
+- The human mind wanders 25% of the time during conversation. So it's quite common. ([Time 1:17:21](https://share.snipd.com/snip/78bf7257-8b76-4130-98b0-fbf6d64c064d)) ^8d025d
 - **Increase Warmth in Conversations**
   - If you are not funny, focus on increasing your warmth instead.
   - Warmth includes expressing gratitude and giving compliments.
@@ -161,21 +162,21 @@
   - Improve warmth by sensing when others are bored and changing topics more frequently.
   - Callbacks, referencing earlier conversation points, demonstrate active listening and cleverness.
   - When ending conversations, assertively walk away instead of awkwardly lingering.
-  - Use a callback as the final beat of the conversation.
-  Transcript:
+  - Use a callback as the final beat of the conversation. ^2d0240
+- Transcript:
   Alison Wood Brooks
-  There's, levity is two parts. It's humor and warmth. And I always start this part of my class at Harvard by saying to my students, if you're not funny and you think you never will be, it's okay. I don't think I'm going to be the one to make you funny within the span of two months. If you are a deeply serious, unfunny person. Other people believe that you can get funnier over time. We can talk about that in a moment. What I do deeply believe is that anyone can be more warm. So warmth moves include anything, expressing gratitude. I'm so grateful for your time today. I'm so grateful for you engaging with the content of my work. Flattery, giving compliments, just shifting topics. So if you can get better at sensing when people are getting bored with a topic and getting more courageous and assertive about switching more frequently can be very, very helpful for Keeping the conversation sort of bubbling along. Callbacks. Callbacks are any reference back to something that you've talked about previously. They're total magic. It shows that you were listening to someone earlier in the conversation, maybe even earlier in your relationship, like a month ago. If I can call back to something we talked about, it shows I heard you. I was thinking about what you said. I was able to retain it in my mind. And I'm clever enough to reference back to it now. And often it has this really amazing quality where if I bring it up again, it's funny because you're like, oh, shit, that's super clever. Often a lot of people ask me, how do we end conversations well? And I have two pieces of advice there. I'm going to bring this back to callbacks. One is nobody knows when to end conversations. It's the final topic switch. ([Time 1:19:34](https://share.snipd.com/snip/a39f8bb0-a6a6-477e-9825-753b6d961eaa))
+  There's, levity is two parts. It's humor and warmth. And I always start this part of my class at Harvard by saying to my students, if you're not funny and you think you never will be, it's okay. I don't think I'm going to be the one to make you funny within the span of two months. If you are a deeply serious, unfunny person. Other people believe that you can get funnier over time. We can talk about that in a moment. What I do deeply believe is that anyone can be more warm. So warmth moves include anything, expressing gratitude. I'm so grateful for your time today. I'm so grateful for you engaging with the content of my work. Flattery, giving compliments, just shifting topics. So if you can get better at sensing when people are getting bored with a topic and getting more courageous and assertive about switching more frequently can be very, very helpful for Keeping the conversation sort of bubbling along. Callbacks. Callbacks are any reference back to something that you've talked about previously. They're total magic. It shows that you were listening to someone earlier in the conversation, maybe even earlier in your relationship, like a month ago. If I can call back to something we talked about, it shows I heard you. I was thinking about what you said. I was able to retain it in my mind. And I'm clever enough to reference back to it now. And often it has this really amazing quality where if I bring it up again, it's funny because you're like, oh, shit, that's super clever. Often a lot of people ask me, how do we end conversations well? And I have two pieces of advice there. I'm going to bring this back to callbacks. One is nobody knows when to end conversations. It's the final topic switch. ([Time 1:19:34](https://share.snipd.com/snip/a39f8bb0-a6a6-477e-9825-753b6d961eaa)) ^cc3a61
 - **Group Talk Requires Roles**
-  - Group conversation demands roles, airtime balance, and facilitation skills. 
+  - Group conversation demands roles, airtime balance, and facilitation skills.  ^8279be
   - Talking less can raise your contribution score; roles like timekeeper or scribe add hidden value.
   Transcript:
   Alison Wood Brooks
   Yes. So group conversation is incredibly complicated. And one of the most difficult things is so obvious is just how do we share airtime? There are always going to be people who have high power tend to take up more airtime just naturally. It's something that high power people need to fight against because it's not productive. And it makes lower power people feel like they're not welcome to join. But then if you just look at airtime balance, the person who's dominating the airtime, that is not productive, right? Like, especially if they're not the expert, okay? That's where things get problematic. You can imagine a balance where, okay, there might be a group where we are all dying to hear, we need to talk about aerospace engineering, and only one out of the 10 of us is an aerospace Engineer. I want to hear that guy talk for 45 minutes, and I want to learn everything I possibly can in that time. It becomes problematic when the person dominating the airtime is not the sole expert or maybe not an expert at all. There's another piece to this, and I love your idea of a contribution score, where talking is not the only way to add value to a group. There are so many roles that people play. There are timekeepers. There's someone who's writing on the board at the same time. Often the person holding the pen ends up being the most powerful person because they're making diagrams and taking notes, and they decide what is worthy of being up on the board. There are people who keep the agenda. So we're saying, okay, here are the topics we want to talk about. Here are the goals we came in with. We want to make this decision. I'd like to note that we haven't moved to the pasture where we're going to make the decision, right? The person who is sort of facilitating the meeting becomes very valuable. So there's all kinds of, so there's goals, there's roles in a group, and then there's the soul, the warmth of it all. ([Time 1:28:39](https://share.snipd.com/snip/6410a4aa-ad9e-4ea6-9fac-3aeb34a11ced))
 - **Misunderstanding the Purpose of Conversation**
   - People often focus on noticeable moments of disagreement but overlook the importance of being engaging and listening.
-  - It's easy to assume personal interests are universally interesting, leading to one-sided conversations.
+  - It's easy to assume personal interests are universally interesting, leading to one-sided conversations. ^c0f577
   - Alison Wood Brooks suggests the purpose of conversation is not to lecture but to find shared interests.
-  - Conversation should be a journey through each other's perspectives, fostering learning and connection.
+  - Conversation should be a journey through each other's perspectives, fostering learning and connection. ^4b4138
   - This journey can create feelings of being seen, known, and understood, leading to a more charming interaction.
   Transcript:
   Alison Wood Brooks
@@ -197,8 +198,8 @@
   - It's difficult to get direct feedback on this because people avoid saying, "You're boring."
   - Individuals assume their interests are inherently fascinating to others.
   - Conversation should be about discovering shared interests and exploring each other's perspectives.
-  - Aim to find common ground and learn from others, which creates a more engaging and charming interaction.
-  Transcript:
+  - Aim to find common ground and learn from others, which creates a more engaging and charming interaction. ^d086f9
+- Transcript:
   Alison Wood Brooks
   Hard to it's such a it's a much harder thing to notice yeah and it's a much harder thing to get feedback about because no one's going to be like hey bro you're boring yeah and if the things
   Steven Bartlett
@@ -208,23 +209,23 @@
   Steven Bartlett
   So I think that, I'm just making stuff up, Pokemon, I think that's the most important, interesting thing in the world.
   Alison Wood Brooks
-  And let me now tell you everything I know about Pokemon. Yeah. It's like this misunderstanding of what the purpose of conversation is not to say things we know at other people. It's about finding things we're both interested in and then learning everything that you know about that. Like now I'm just going to like take a journey through your brain of everything that you think and feel about this thing that we're both interested in. And on that journey, we might land in this magical place where I'm learning stuff from you. You find me quite charming. ([Time 1:38:11](https://share.snipd.com/snip/be177357-c6fa-4790-93e5-95fc61cafb9c))
+  And let me now tell you everything I know about Pokemon. Yeah. It's like this misunderstanding of what the purpose of conversation is not to say things we know at other people. It's about finding things we're both interested in and then learning everything that you know about that. Like now I'm just going to like take a journey through your brain of everything that you think and feel about this thing that we're both interested in. And on that journey, we might land in this magical place where I'm learning stuff from you. You find me quite charming. ([Time 1:38:11](https://share.snipd.com/snip/be177357-c6fa-4790-93e5-95fc61cafb9c)) ^28adab
 - **Mastering Conversations**
   - Don't just give mini speeches or TED Talks; conversation is interactive and co-created.
   - Before pitching an idea, ask many questions to understand the other person's pain points and needs.
   - If your product or service fills their needs, then present it as a solution.
-  - As a spy, train yourself to understand that the person in front of you has a different brain.
-  Transcript:
+  - As a spy, train yourself to understand that the person in front of you has a different brain. ^f839b7
+- Transcript:
   Alison Wood Brooks
   Entrepreneurs make this mistake a lot too. They may be driven by, you know, Dragon's Den and Shark Tank. You feel like it's not your fault. You feel like you need to stand up there and like pitch your idea. And in order to be successful, you give the most compelling public speech about it. Most entrepreneurs or business owners actually are talking to investors and colleagues and potential strategic partners in conversation. And so before you get to the point where you're like, let me tell you about my amazing company, you need to ask them a million questions and get to know them and understand what their pain Points are and how many kids they have and what they actually care about. So if you're lucky, the thing that and product or service you have actually fills that need and be like, guess what? I have this amazing thing for you. Wouldn't you love to invest in it?
   Steven Bartlett
-  Andrew Bustamante said something to me about this. He said he's a spy for the CIA for about 10 years. And he said one of the things you have to train yourself to understand as a spy is that there's a difference between your perspective, which is like what I see right now. Yes. And in my perspective, I see a mirror over there and there's an award and I see some things behind you. I see two cameras over your shoulder. I see that there's a wooden beam over there behind you, by the way. And there's like some green tape above there. And then there's your perception. Yes. Your perception is all this shit. Like I couldn't see any of this stuff behind me. That's right. And he said like as a spy, they train you to sit in the other person's perception. Because if you can't do that, you're never going to be able to persuade them. You ([Time 1:39:32](https://share.snipd.com/snip/e2128084-6243-4d77-ace1-416108f5d8d8))
+  Andrew Bustamante said something to me about this. He said he's a spy for the CIA for about 10 years. And he said one of the things you have to train yourself to understand as a spy is that there's a difference between your perspective, which is like what I see right now. Yes. And in my perspective, I see a mirror over there and there's an award and I see some things behind you. I see two cameras over your shoulder. I see that there's a wooden beam over there behind you, by the way. And there's like some green tape above there. And then there's your perception. Yes. Your perception is all this shit. Like I couldn't see any of this stuff behind me. That's right. And he said like as a spy, they train you to sit in the other person's perception. Because if you can't do that, you're never going to be able to persuade them. You ([Time 1:39:32](https://share.snipd.com/snip/e2128084-6243-4d77-ace1-416108f5d8d8)) ^5d9276
 - **Gender Differences in Communication**
   - Conversations are inherently messy, involving mistakes and constant repairs.
   - Perfection is not attainable in conversations.
   - Gender differences exist in communication styles.
   - Women tend to engage face-to-face when communicating.
-  - Men often communicate while doing activities side-by-side.
+  - Men often communicate while doing activities side-by-side. ^ea6854
   - Alison Wood Brooks observed these dynamics directly in live conversations.
   Transcript:
   Steven Bartlett
@@ -235,7 +236,7 @@
   You're being diplomatic.
   Alison Wood Brooks
   Than I will be, I'll be less diplomatic in a moment. It looks more like a train wreck than a sort of tidy script that you would see on a TV show. It's messy. We make mistakes. We have to repair it. We need to check our understanding. We need to make apologies constantly. So perfection is not the goal for anyone in conversation. When you look at gender differences, there are real gender differences. We know that in friendship, women tend to actually face each other and talk to each other. Men tend to do activities, right, shoulder to shoulder. We're fishing. We're playing basketball. We're in ([Time 1:45:22](https://share.snipd.com/snip/4e80a324-394e-45b7-b321-bff66a89158e))
-- **Build Male Friendship With Vulnerability**
+- **Build Male Friendship With Vulnerability** ^39908e
   - Make friendships by asking vulnerability-focused questions like “What have you been struggling with?” 
   - Small repeated courageous conversations turn activity buddies into real friends over time.
   Transcript:
@@ -256,7 +257,9 @@
   Steven Bartlett
   If he'd asked you that question, he might be listening now. Hello, friend.
   Alison Wood Brooks
-  It starts with hello. And the number of times that I have run conversation exercises as part of my class and the students at the end of that very first session say, this is the first time I've turned to the person Next to me and actually talked to them. It's like every time I do that first session. Thank you. Thank you for the opportunity to turn the reason, giving us a reason to turn to each other and actually talk get to know my classmates even that takes tremendous courage especially if There are norms of not doing of coming in sitting down at a desk or in an auditorium and being on your phone so literally turning to someone next to you and saying like hey i'm allison what's
+  It starts with hello. And the number of times that I have run conversation exercises as part of my class and the students at the end of that very first session say, this is the first time I've turned to the person Next to me and actually talked to them. It's like every time I do that first session. Thank you. 
+- ==Thank you for the opportunity to turn the reason, giving us a reason to turn to each other and actually talk == ^quotes
+- get to know my classmates even that takes tremendous courage especially if There are norms of not doing of coming in sitting down at a desk or in an auditorium and being on your phone so literally turning to someone next to you and saying like hey i'm allison what's
   Steven Bartlett
   Your name where are you from starting right god we don't do that in the uk it's a creepy behavior it's okay's okay.
   Alison Wood Brooks
@@ -275,26 +278,27 @@
   So if I ask someone those 10 questions, they're going to like me?
   Alison Wood Brooks
   Probably. Yeah. More than if you didn't ask the questions. What you want to do is you actually go back and forth and ask each other these questions. So the first one is, what are you excited about lately? Next is, what is something you're good at, but don't like doing? What's something you're bad at, but love to do? Is there something you'd like to learn more about? Is there something you'd like to learn how to do? What can we celebrate about you? Has someone made you laugh recently? What's something cute your kid, friend, pet, or partner has been doing? Did you grow up in a city? And have you fallen in love with any new music, books, movies, shows lately? It's just 10 questions that are of this flavor that many people, but I suspect lots of men, don't ask. That are a great starting point. It's just the first turn, right? You have to actually listen to what the person says and ask follow-up questions to really deepen the conversation and move up that topic pyramid. But these are good questions. You could prep just one or two of them. ([Time 1:53:04](https://share.snipd.com/snip/a009b26a-d3c1-4464-86eb-d46d3e41b92e))
-- **Persuade By Building Trust**
-  - Persuade by building trust: ask questions, listen, validate, and stay engaged over multiple conversations. 
+- **Persuade By Building Trust** ^5a3fad
+  - Persuade by building trust: ask questions, listen, validate, and stay engaged over multiple conversations.  ^2073d7
   - Short-term wins matter less than sustained receptiveness and relationship capital.
   Transcript:
   Alison Wood Brooks
   We are persuaded by people we trust and like and admire, right? It's people we interact with. And over time, we bend to their view or we are compelled by what they're sharing with us because we know that they are smart and trustworthy and we like them, persuasion doesn't often Happen within the bounds of one conversation. It could if you are asking lots of questions and able to sort of sit on the same side of a table together and say, hey, let's learn as much as we can about this complicated tangle of yarn, Whatever that topic is. Let's see if we can pull threads together and figure this out. We were talking earlier about receptiveness to opposing viewpoints. Ironically, if you push yourself to learn as much as you can about the other person and validate their views, however you view those views, over the longer term, you are more likely to Be persuasive because they're willing to stay engaged with you and listen to what you have to say in return. ([Time 1:57:15](https://share.snipd.com/snip/f21ff810-cc05-4d75-9ea6-b2fada62fedd))
-- **Use Silence With Context**
+- **Use Silence With Context** ^458ae1
   - Use silence intentionally: short pauses hurt in early conversations but signal comfort in deep relationships. 
   - Prep topics to prevent panicked silences on first dates or interviews.
   Transcript:
   Alison Wood Brooks
-  It's kind of ironic that this book is called Talk because we do so much communicating between the lines. There's so much information exchanged in just a shared glance. When people don't know each other well, long pauses are a sign that the conversation is not going well. So if you're on a first date and you feel like the conversation is dying and you have that panicky feeling of what do we talk about next that's legit you should not let that happen you should Go in with topics prepped and not let or this list of lovely questions and ask those questions later in a relationship after you've known someone a long time longer pauses are a sign that You're comfortable with each other that you could sit in total silence and companionable silence and that it's comfortable and nice. ([Time 2:06:02](https://share.snipd.com/snip/ea321e1d-e390-419f-944a-697f7e32a9d7))
+  It's kind of ironic that this book is called Talk because we do so much communicating between the lines. There's so much information exchanged in just a shared glance. When people don't know each other well, long pauses are a sign that the conversation is not going well. So if you're on a first date and you feel like the conversation is dying and you have that panicky feeling of what do we talk about next that's legit you should not let that happen you should Go in with topics prepped and not let or this list of lovely questions and ask those questions later 
+- in a relationship after you've known someone a long time longer pauses are a sign that You're comfortable with each other that you could sit in total silence and companionable silence and that it's comfortable and nice. ([Time 2:06:02](https://share.snipd.com/snip/ea321e1d-e390-419f-944a-697f7e32a9d7)) ^comfortable-with-silence
 - **Digital Talk Feels Less Real**
   - Text-based and digital communications feel less real and reduce relational depth. 
-  - Face-to-face conversations remain the most memorable and emotionally real format.
-  Transcript:
+  - Face-to-face conversations remain the most memorable and emotionally real format. ^9ec44e
+- Transcript:
   Alison Wood Brooks
   And there are clear things that we should do to make our text-based communication better, make it shorter. Emails, shorter. Use headings. Use bullet points. Get to the point. Think about what other people need. Only give them that. Okay. But I think more broadly, what is quite thought-provoking is to think about how your life proceeds these days. Your conversational life unfolds. So in my class, I ask my students to do a communication audit of like 20 to 30 minutes in their life where you transcribe every incoming and outgoing message across all digital and face-to Modalities. So your DMs, your emails, your texts, your phone calls, your Zoom calls, your face-to interactions, all of it. Can you imagine? No. It's quite hard. Yeah. It's the sort of top line thing you notice is that it's so much. It's just a crazy amount of communication that's happening in our lives now. When only maybe 20 years ago, it was like 10% of what it is now. I think we all feel that sort of overwhelm. Not only is it a lot, we're constantly sort of toggling and adjusting from one mode of communication to the next. So I'm like talking to you while I'm like texting under the table, while I hear my emails going, knowing that my DMs are blowing up, that mental adjustment is really exhausting. And across each of those modes, we're like engaging in different ideas and different threads, different topics with different people. And so you start to realize how braided and overlapping all of these things are. And it's quite hard to keep it all straight and to make all of these decisions about like, well, who should I be responding to? We then default to the people who are right in front of us. But any other mode of communication, we're like, well, who should come first? Who gets my attention first? And attention is love, right? Like who gets my love, essentially. The thing that my students note about this exercise, which is completely mind-blowing, and I would recommend that anybody try it, is that only face-to conversations feel real in retrospect And while they're happening.
   Steven Bartlett
-  Now, ([Time 2:08:32](https://share.snipd.com/snip/3eff2d88-9b50-43ec-b7b0-c3e3670e2d5c))
+  Now, ([Time 2:08:32](https://share.snipd.com/snip/3eff2d88-9b50-43ec-b7b0-c3e3670e2d5c)) ^32f849
 - **Communication Audit**
   - Alison Wood Brooks asks her students to transcribe every incoming and outgoing message across all digital and face-to-face modalities for 20-30 minutes. 
   - This includes DMs, emails, texts, phone calls, Zoom calls, and face-to-face interactions.
@@ -312,13 +316,15 @@
   Transcript:
   Alison Wood Brooks
   Your conversational life unfolds. So in my class, I ask my students to do a communication audit of like 20 to 30 minutes in their life where you transcribe every incoming and outgoing message across all digital and face-to Modalities. So your DMs, your emails, your texts, your phone calls, your Zoom calls, your face-to interactions, all of it. Can you imagine? No. It's quite hard. Yeah. It's the sort of top line thing you notice is that it's so much. It's just a crazy amount of communication that's happening in our lives now. When only maybe 20 years ago, it was like 10% of what it is now. I think we all feel that sort of overwhelm. Not only is it a lot, we're constantly sort of toggling and adjusting from one mode of communication to the next. So I'm like talking to you while I'm like texting under the table, while I hear my emails going, knowing that my DMs are blowing up, that mental adjustment is really exhausting. And across each of those modes, we're like engaging in different ideas and different threads, different topics with different people. And so you start to realize how braided and overlapping all of these things are. And it's quite hard to keep it all straight and to make all of these decisions about like, well, who should I be responding to? We then default to the people who are right in front of us. But any other mode of communication, we're like, well, who should come first? Who gets my attention first? And attention is love, right? Like who gets my love, essentially. The thing that my students note about this exercise, which is completely mind-blowing, and I would recommend that anybody try it, is that only face-to conversations feel real in retrospect And while they're happening. Now, that doesn't mean that the other ones aren't important. Of course, email is so important for a transactional information exchange, but it's not real. ([Time 2:08:55](https://share.snipd.com/snip/0cf1f4ce-e51e-4c40-83e7-8226fe7fb555))
-- **Push For Human Voice Over AI Slop**
+- **Push For Human Voice Over AI Slop** ^b265da
   - If colleagues overuse AI for personal reports, tell them it reduces your engagement and demand more authentic voice. 
   - Encourage them to adapt prompts so outputs feel personal and trustworthy again.
-  Transcript:
-  Steven Bartlett
-  Trust them and their opinion. My relationship is to their experience and their knowledge. And when I realized that it was all just AI because of the formatting of it, I started ignoring it. That three or four weeks goes past and I thought, you know, I should tell them.
-  Alison Wood Brooks
+  
+- Transcript:
+  
+	- Steven Bartlett
+	  Trust them and their opinion. My relationship is to their experience and their knowledge. And when I realized that it was all just AI because of the formatting of it, I started ignoring it. That three or four weeks goes past and I thought, you know, I should tell them. ^relationship-based-on-human
+- Alison Wood Brooks
   Yeah, they should know.
   Steven Bartlett
   So I went and had a conversation with them. I said, this is just a perception thing, but I've noticed myself now not paying the same attention I used to because I want to know what you think. And because it feels like I'm speaking to ChatGPT.
@@ -328,7 +334,7 @@
   They were really thankful and they completely changed and it completely immediately, even though I now know they're still using it. It's so crazy because I know they're still using it. They've built this bot basically for this particular part of feedback, which they're using. All they've done is change the prompt into their bot to make it sound a little bit more human. Yeah, yeah. And I'm now reading it again because I can't tell the difference.
   Alison Wood Brooks
   Oh my goodness. That's so thought provoking. I think there's two things going on there. One, you are invested in people. That's what we get invested in. We care about people and relationships. As soon as you feel like you're not getting them and you're getting some weird proxy of them, we're less motivated to engage with it. That's going to be, that's totally normal. I'll ([Time 2:13:06](https://share.snipd.com/snip/3bf110d5-3c68-486f-a02d-a68535586a2e))
-- **AI Can Augment Conversation Training**
+- **AI Can Augment Conversation Training** ^479d23
   - Well-designed chatbots can complement human coaching by being always-available and nonjudgmental. 
   - AI can scale feedback (questions asked, listening metrics) that humans lack bandwidth to provide.
   Transcript:
@@ -340,7 +346,7 @@
   So they don't want to ask dumb questions.
   Alison Wood Brooks
   And I have to question their motives because I'm like, are you here because you're actually interested in what you're asking me or because you're trying to impress me and get a better Grade? Oh, okay. Right? That's a weird context. So she's less judgmental in a way, I guess. The other thing that she can do is what you were saying, which is after they talk with her and get advice about their conversations, she gives them feedback about how the conversation Went. She says, here are the topics we covered. Here's how many questions you asked. Here were the moments of levity. Here's how well you were listening and doing kindness. ([Time 2:15:04](https://share.snipd.com/snip/3862d94c-a159-4a61-b03e-2809ed8f4e97))
-- **Be Strategically Authentic**
+- **Be Strategically Authentic** ^a19eba
   - Practice strategic authenticity: bring your core values but adapt behavior to context. 
   - Adjusting your style to fit the room is sincere when aligned with honest goals.
   Transcript:

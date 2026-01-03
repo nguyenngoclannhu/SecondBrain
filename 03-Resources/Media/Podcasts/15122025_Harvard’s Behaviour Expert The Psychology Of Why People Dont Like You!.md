@@ -17,7 +17,8 @@ cssclasses:
 > ◼️Why being "too polite" is secretly destroying your relationships  
 > ◼️Why 99% of apologies fail, and the exact formula that works  
 > ◼️The question technique that creates connection with anyone 
-> 
+
+Podcasts transcript: [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!]]
 
 (00:00) Intro 
 (02:34) People Need This to Communicate Well 
@@ -109,19 +110,69 @@ cssclasses:
 	- Do not have the required self-control to hold the respectful language and the egocentrism.
 (01:17:20) When to Incorporate Levity [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^237037]]
 - You can use warmth and humor as Levity
-	- Fun fact about human mind: 
+	- Fun fact about human mind: ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^8d025d]]
+	- Warmth - includes expressing gratitude, giving compliments, shifting topics.
+	- Callbacks - referencing earlier conversations
+	- How to end the conversation? ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^2d0240]]
 (01:23:55) The Science Behind Introverts and Extroverts — Is It Real? 
+- [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^8279be]]
+- The problems: Share airtime
+	- Usually the one with higher poser tends to take up more time.
+	- Especially when they are not the experts.
+	- Misunderstanding the purpose of conversation ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^c0f577]]
+	- What conversation should be: ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^4b4138]] ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^d086f9]]
 (01:27:17) Your Contribution Score in a Conversation 
-(01:41:59) Ads 
+- How? ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^f839b7]]
+- Do not try to give a TEDx talk or mini speeches.
 (01:43:56) The Male Crisis: Ask These Questions to Make Friends 
+- ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^ea6854]]e.g. Like talking while fishing/ playing games/ watching football 
+- Unlike women who tends to like the fact-to-face conversation.
+- [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^39908e]] Male friendship with Vulnerability
+	- "What have you been struggling with?"
+	- Repeatedly courageous conversations turn activity buddies into real friends 
+	- The psychology when someone ask you a question ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^quotes]]
 (01:52:57) 10 Questions to Be Liked 
+- A well-known exercised called ==36 questions to fall in love==
+- A subset of 10 questions to be liked.
+	- "What are you excited about lately?"
+	- "What is something you are good at, but don't like doing?"
+	- "What is something you are bad at, but like doing?"
+	- "Is there something you'd like to learn how to do?"
+	- "What can we celebrate about you?"
+	- "Has someone made you laugh recently?"
+	- "What is something cute your kid, friend, pet, or partner has been doing?"
+	- "Did you grow up in a city?"
+	- "Have you fallen in love with any new music, books, movies, shows lately?"
 (01:56:42) How to Persuade People and Be a Better Salesperson 
+- By building trust 
+- [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^5a3fad]] ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^2073d7]]
+- Persuasion doesn't often happen within the bounds of one conversation.
+- If you push yourself to learn as much as you can about the other person and validate their views -> over longer periods -> they are willing to stay engaged and listen to what you have to say in return.
+- [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^458ae1 |Use silence with Context]] can help the conversation: 
+	- Silence hurt in early conversations 
+	- Comfort in deep conversations
+	- Prep topics to prevent silences.
+- The silence peacefulness ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^comfortable-with-silence]]
 (01:58:47) People Confuse Agreement With Listening 
 (02:09:21) This Is the Only Conversation That Feels Real 
+- Real conversation ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^9ec44e]]
 (02:14:58) What Happens When Replacing Myself With AI 
+- [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^b265da|Human voice in AI era]] ? Why it's such disengaged?
+	- Cause when you are invested in people and relationships, the moment we feel like we are not getting them back -> less motivated to engage with it. ![[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^relationship-based-on-human]]
+- [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^479d23|Use AI in conversation training use cases]] is also a great applications of AI but they are used to train us to conversation better not replacing conversation all together.
 (02:19:23) Show Your Real Self at Work: Yes or No? 
+- [[Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!#^a19eba|Be strategically authentic]] 
+	- read the room, adjust your style to fit the room
+	- core values but adapt behavior to context. 
+- [02:19:56](obsidian://podnotes?episodeName=Harvard%E2%80%99s+Behaviour+Expert%3A+The+Psychology+Of+Why+People+Don%27t+Like+You%21&url=https%3A%2F%2Frss2.flightcast.com%2Fxmsftuzjjykcmqwolaqn6mdn&time=8396.112479438121): 13 good types and 13 bad types
+	- We all have the behavior that is good and that is bad.
+	- It's shift from time to time
 (02:25:14) How to Teach Your Kids to Speak  
-
+- [02:25:18](obsidian://podnotes?episodeName=Harvard%E2%80%99s+Behaviour+Expert%3A+The+Psychology+Of+Why+People+Don%27t+Like+You%21&url=https%3A%2F%2Frss2.flightcast.com%2Fxmsftuzjjykcmqwolaqn6mdn&time=8718.208684375199): You are interacting with them, helping them through both failure and succeed.
+	- A little stuff of everything 
+	- Constant evolution
+- [02:27:03](obsidian://podnotes?episodeName=Harvard%E2%80%99s+Behaviour+Expert%3A+The+Psychology+Of+Why+People+Don%27t+Like+You%21&url=https%3A%2F%2Frss2.flightcast.com%2Fxmsftuzjjykcmqwolaqn6mdn&time=8823.505344975249): The previous guest's question 
+	- Save from digital addiction and loneliness. 
 Follow Alison: 
 Instagram - https://bit.ly/3YoQOc4 
 Website - https://bit.ly/4aH172A  
