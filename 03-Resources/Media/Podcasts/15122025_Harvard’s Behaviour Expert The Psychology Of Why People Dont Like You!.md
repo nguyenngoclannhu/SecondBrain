@@ -3,6 +3,7 @@ date: 15-12-2025
 tags:
   - psychology
   - communication
+  - notes
 media:
   - "[[podcasts]]"
   - "[[The Diary Of A CEO with Steven Bartlett]]"
