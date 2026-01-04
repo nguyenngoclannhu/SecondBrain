@@ -9,21 +9,9 @@
 - Summary: Loneliness is the fundamental condition of life — we are born by another, but born alone; die around others (if we are lucky and loved), but die alone; we spend our lives islanded in our one and only human experience — in these particular bodies and minds and circumstances drawn from the cosmic lottery — amid the immense ocean of time and chance teeming with all possible experience.
 - URL: mailto:reader-forwarded-email/2f1e3ef9ac6bb134ce311ff27a684d73
 
-## Full Document
-NOTE: This newsletter might be cut short by your email program. [View it in full](https://mailchi.mp/themarginalian/loneliness-forever-matter?e=f6b8863c15).
+## [3 Kinds of Loneliness and 4 Kinds of Forever](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8e46176ced&e=f6b8863c15)
 
-If a friend forwarded it to you and you'd like your very own newsletter, [subscribe here](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=90d74edfc9&e=f6b8863c15) — it's free.
-
-Need to modify your subscription? You can [change your email address](https://themarginalian.us2.list-manage.com/profile?u=13eb080d8a315477042e0d5b1&id=179ffa2629&e=f6b8863c15&c=dedaa5e74c) or [unsubscribe](https://themarginalian.us2.list-manage.com/unsubscribe?u=13eb080d8a315477042e0d5b1&id=179ffa2629&t=b&e=f6b8863c15&c=dedaa5e74c).
-
-[![The Marginalian](https://mcusercontent.com/13eb080d8a315477042e0d5b1/images/6cb0e7e1-e7a2-b1eb-b044-bdd8e4edd4ac.png)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=69e6eadbc7&e=f6b8863c15)
-
-#### Welcome
-Hello daren solaris! This is the weekly email digest of [*The Marginalian*](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=29ba3c695d&e=f6b8863c15) by Maria Popova. If you missed last week's edition — Carl Jung on creativity, Simone de Beauvoir on love and friendship, and a burst of joy — you can catch up [right here](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8416b1b5c9&e=f6b8863c15). And if my labor of love touches your life in a meaningful way, please consider supporting it with a [donation](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=665bb33219&e=f6b8863c15) — for nearly two decades, it has remained free and ad-free and alive thanks to these small, immense kindnesses. If you already donate: It makes a real difference, and I appreciate you more than you know.
-
-### [3 Kinds of Loneliness and 4 Kinds of Forever](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8e46176ced&e=f6b8863c15)
-
-Loneliness is the fundamental condition of life — we are born by another, but born alone; die around others (if we are lucky and loved), but die alone; we spend our lives islanded in our one and only human experience — in these particular bodies and minds and circumstances drawn from the cosmic lottery — amid the immense ocean of time and chance teeming with all possible experience. Everything of beauty and substance that we make — every poem, every painting, every friendship — is an outstretched hand reaching out from one loneliness to another, reaching into the mute mouth of forever for the vowels of a common language to howl our requiem for the evanescent now.
+==Loneliness is the fundamental condition of life — we are born by another, but born alone; die around others (if we are lucky and loved), but die alone==; we spend our lives islanded in our one and only human experience — in these particular bodies and minds and circumstances drawn from the cosmic lottery — amid the immense ocean of time and chance teeming with all possible experience. Everything of beauty and substance that we make — every poem, every painting, every friendship — is an outstretched hand reaching out from one loneliness to another, reaching into the mute mouth of forever for the vowels of a common language to howl our requiem for the evanescent now.
 
 [![](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/07/SnakeBird.jpg)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=75c5dee2a7&e=f6b8863c15)
 
@@ -31,11 +19,10 @@ Card from [*An Almanac of Birds: 100 Divinations for Uncertain Days*](https://th
 
 But despite being so fundamental, or perhaps precisely because of it, loneliness is fractal — the closer you look at the granularity of life, the more you see it branching into myriad lonelinesses, which, [like the kinds of sadness](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=90a3c62aa0&e=f6b8863c15), all have different emotional hues.
 
-The loneliness of feeling invisible or misunderstood, bottomless and bone-chilling as the Scottish fog.
-
-The loneliness of seeing what others look away from, remote and shoreless as a lighthouse.
-
-The loneliness of public humiliation, a red-hot iron rod.
+> [!note]-
+> The loneliness of feeling invisible or misunderstood, bottomless and bone-chilling as the Scottish fog.
+> The loneliness of seeing what others look away from, remote and shoreless as a lighthouse.
+> The loneliness of public humiliation, a red-hot iron rod.
 
 The loneliness of your most private failure, inky and arid like the desert at night.
 

@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "178abbfc1a95f6bb",
+        "id": "330175cbe29d7fe5",
         "type": "tabs",
         "children": [
           {
-            "id": "d80d4123c589a283",
+            "id": "9293cb945daa7758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Full Document Contents/Articles/Wonder, play, and how to be more alive; Oliver Sacks on the necessity of our illusions; a watercolor ode to dawn.md",
+                "file": "Readwise/Full Document Contents/Articles/3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
                   "extraContext": false,
-                  "sortOrder": "byCreatedTime",
+                  "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wonder, play, and how to be more alive; Oliver Sacks on the necessity of our illusions; a watercolor ode to dawn"
+              "title": "3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull"
             }
           }
         ]
@@ -304,8 +304,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d80d4123c589a283",
+  "active": "9293cb945daa7758",
   "lastOpenFiles": [
+    "07-Archives/Tags/The Marginalian by Maria Popova.md",
+    "Readwise/Full Document Contents/Articles/Wonder, play, and how to be more alive; Oliver Sacks on the necessity of our illusions; a watercolor ode to dawn.md",
     "Readwise/Full Document Contents/Articles/How to Stop Waiting and Start Living A Jolt from Henry James.md",
     "Readwise/Full Document Contents/Articles/Why We Ignore the Obvious The Psychology of Willful Blindness.md",
     "Readwise/Full Document Contents/Articles/How We Render Reality Attention as an Instrument of Love.md",
@@ -315,9 +317,7 @@
     "Readwise/Full Document Contents/Articles/The Haunted Mind Nathaniel Hawthorne on the Edges of Consciousness Illuminate Time and Eternity.md",
     "Readwise/Full Document Contents/Articles/William James on Consciousness and the Four Features of Transcendent Experiences.md",
     "Readwise/Full Document Contents/Articles/The Healing Power of Gardens Oliver Sacks on the Psychological and Physiological Consolations of Nature.md",
-    "07-Archives/Tags/The Marginalian by Maria Popova.md",
     "Readwise/Full Document Contents/Articles/Diane Ackerman on the Evolutionary and Existential Purpose of Deep Play.md",
-    "Readwise/Full Document Contents/Articles/Wonder, play, and how to be more alive; Oliver Sacks on the necessity of our illusions; a watercolor ode to dawn.md",
     "Readwise/Full Document Contents/Articles/How to Build Your First Recommendation System (Easy).md",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
     "podcasts.md",
