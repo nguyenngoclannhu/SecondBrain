@@ -4,10 +4,12 @@
     "type": "split",
     "children": [
       {
+        "id": "178abbfc1a95f6bb",
         "id": "330175cbe29d7fe5",
         "type": "tabs",
         "children": [
           {
+            "id": "d80d4123c589a283",
             "id": "9293cb945daa7758",
             "type": "leaf",
             "state": {
@@ -31,6 +33,7 @@
               "title": "3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull"
             }
           }
+        ]
         ]
       }
     ],
@@ -96,9 +99,21 @@
     "children": [
       {
         "id": "cceac45a08d3fc37",
+        "id": "cceac45a08d3fc37",
         "type": "tabs",
         "children": [
           {
+            "id": "5dc7055d09ab269e",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "play-circle",
+              "title": "Podcast Player"
+            }
+          },
+          {
+            "id": "00622fe16ee39c1b",
             "id": "5dc7055d09ab269e",
             "type": "leaf",
             "state": {
@@ -115,6 +130,7 @@
               "type": "backlink",
               "state": {
                 "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
+                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,23 +141,28 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
+              "title": "Backlinks for Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
+            "id": "6011a524d6a573bd",
             "id": "6011a524d6a573bd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
+                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
+              "title": "Outgoing links from Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
+            "id": "bc3d92cf2cbaa25b",
             "id": "bc3d92cf2cbaa25b",
             "type": "leaf",
             "state": {
@@ -158,10 +179,12 @@
           },
           {
             "id": "1130a8f7bdd6d127",
+            "id": "1130a8f7bdd6d127",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "followCursor": false,
                 "showSearch": false,
@@ -169,19 +192,32 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
+              "title": "Outline of Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
             "id": "3ddb9e1317cfdf6b",
+            "id": "3ddb9e1317cfdf6b",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4d03020ca245c4cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
               "state": {},
               "icon": "lucide-ghost",
               "title": "calendar"
             }
           },
           {
+            "id": "42c59c3d25e958ab",
             "id": "4d03020ca245c4cc",
             "type": "leaf",
             "state": {
@@ -192,6 +228,7 @@
             }
           },
           {
+            "id": "29f19fac594b4b70",
             "id": "42c59c3d25e958ab",
             "type": "leaf",
             "state": {
@@ -202,6 +239,7 @@
             }
           },
           {
+            "id": "0196211d57a0dae8",
             "id": "29f19fac594b4b70",
             "type": "leaf",
             "state": {
@@ -212,6 +250,7 @@
             }
           },
           {
+            "id": "8ca6918ee6c2430d",
             "id": "0196211d57a0dae8",
             "type": "leaf",
             "state": {
@@ -222,6 +261,7 @@
             }
           },
           {
+            "id": "b6cb9287ddf91d10",
             "id": "8ca6918ee6c2430d",
             "type": "leaf",
             "state": {
@@ -232,6 +272,7 @@
             }
           },
           {
+            "id": "b08d81f4b2fa3d8a",
             "id": "b6cb9287ddf91d10",
             "type": "leaf",
             "state": {
