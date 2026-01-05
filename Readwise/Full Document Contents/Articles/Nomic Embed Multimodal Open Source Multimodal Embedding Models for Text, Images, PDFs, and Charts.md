@@ -6,7 +6,7 @@
 - Author: [[nomic.ai]]
 - Full Title: Nomic Embed Multimodal: Open Source Multimodal Embedding Models for Text, Images, PDFs, and Charts
 - Category: #articles
-- Document Tags: [[ai]] [[inbox]] [[multimodal embeddng]] 
+- Document Tags: [[ai]] [[Inbox]] [[multimodal embeddng]] 
 - Summary: Nomic released Embed Multimodal, open-source models that embed text, images, PDFs, and charts. The ColNomic 7B model sets a new state-of-the-art on visual document retrieval benchmarks. These models simplify retrieval by embedding visual and textual content together, improving accuracy and reducing preprocessing.
 - URL: https://www.nomic.ai/blog/posts/nomic-embed-multimodal
 

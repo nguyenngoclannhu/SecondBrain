@@ -5,17 +5,15 @@
     "children": [
       {
         "id": "178abbfc1a95f6bb",
-        "id": "330175cbe29d7fe5",
         "type": "tabs",
         "children": [
           {
             "id": "d80d4123c589a283",
-            "id": "9293cb945daa7758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Full Document Contents/Articles/3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull.md",
+                "file": "07-Archives/Tags/LLM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,11 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull"
+              "title": "LLM"
+            }
+          },
+          {
+            "id": "dffac1704170f9d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Fleeting/Inbox/Re To built a strong understanding of how LLM and GenAi works and why it is important in todays wor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Re To built a strong understanding of how LLM and GenAi works and why it is important in todays wor"
+            }
+          },
+          {
+            "id": "c89a2c2fec238b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Archives/Tags/LLM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LLM"
             }
           }
-        ]
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,14 +137,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 318.5
   },
   "right": {
     "id": "ac411f27e0ecf719",
     "type": "split",
     "children": [
       {
-        "id": "cceac45a08d3fc37",
         "id": "cceac45a08d3fc37",
         "type": "tabs",
         "children": [
@@ -114,22 +159,10 @@
           },
           {
             "id": "00622fe16ee39c1b",
-            "id": "5dc7055d09ab269e",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "podcast_player_view"
-            }
-          },
-          {
-            "id": "00622fe16ee39c1b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -141,28 +174,23 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
-              "title": "Backlinks for Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
-            "id": "6011a524d6a573bd",
             "id": "6011a524d6a573bd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
-                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
-              "title": "Outgoing links from Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
-            "id": "bc3d92cf2cbaa25b",
             "id": "bc3d92cf2cbaa25b",
             "type": "leaf",
             "state": {
@@ -179,12 +207,10 @@
           },
           {
             "id": "1130a8f7bdd6d127",
-            "id": "1130a8f7bdd6d127",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "file": "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
                 "followCursor": false,
                 "showSearch": false,
@@ -192,11 +218,9 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
-              "title": "Outline of Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3)"
             }
           },
           {
-            "id": "3ddb9e1317cfdf6b",
             "id": "3ddb9e1317cfdf6b",
             "type": "leaf",
             "state": {
@@ -213,22 +237,10 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "42c59c3d25e958ab",
-            "id": "4d03020ca245c4cc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
               "title": "review-queue-list-view"
             }
           },
           {
-            "id": "29f19fac594b4b70",
             "id": "42c59c3d25e958ab",
             "type": "leaf",
             "state": {
@@ -239,7 +251,6 @@
             }
           },
           {
-            "id": "0196211d57a0dae8",
             "id": "29f19fac594b4b70",
             "type": "leaf",
             "state": {
@@ -250,7 +261,6 @@
             }
           },
           {
-            "id": "8ca6918ee6c2430d",
             "id": "0196211d57a0dae8",
             "type": "leaf",
             "state": {
@@ -261,7 +271,6 @@
             }
           },
           {
-            "id": "b6cb9287ddf91d10",
             "id": "8ca6918ee6c2430d",
             "type": "leaf",
             "state": {
@@ -272,7 +281,6 @@
             }
           },
           {
-            "id": "b08d81f4b2fa3d8a",
             "id": "b6cb9287ddf91d10",
             "type": "leaf",
             "state": {
@@ -303,7 +311,7 @@
             }
           },
           {
-            "id": "88ec9ff30b885a7a",
+            "id": "e780b6763801386d",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -311,24 +319,13 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "04970e2c51e75664",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {},
-              "icon": "play-circle",
-              "title": "Podcast Player"
-            }
           }
         ],
         "currentTab": 14
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -345,45 +342,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9293cb945daa7758",
+  "active": "dffac1704170f9d5",
   "lastOpenFiles": [
-    "07-Archives/Tags/The Marginalian by Maria Popova.md",
-    "Readwise/Full Document Contents/Articles/Wonder, play, and how to be more alive; Oliver Sacks on the necessity of our illusions; a watercolor ode to dawn.md",
-    "Readwise/Full Document Contents/Articles/How to Stop Waiting and Start Living A Jolt from Henry James.md",
-    "Readwise/Full Document Contents/Articles/Why We Ignore the Obvious The Psychology of Willful Blindness.md",
-    "Readwise/Full Document Contents/Articles/How We Render Reality Attention as an Instrument of Love.md",
-    "Readwise/Full Document Contents/Articles/Consciousness, Artificial Intelligence, and Our Search for Meaning Oliver Sacks on ChatGPT, 30 Years Before ChatGPT.md",
-    "Readwise/Full Document Contents/Articles/The Building Blocks of Personhood Oliver Sacks on Narrative as the Pillar of Identity.md",
-    "Readwise/Full Document Contents/Articles/How Play Made Us and Keeps Us Human.md",
-    "Readwise/Full Document Contents/Articles/The Haunted Mind Nathaniel Hawthorne on the Edges of Consciousness Illuminate Time and Eternity.md",
-    "Readwise/Full Document Contents/Articles/William James on Consciousness and the Four Features of Transcendent Experiences.md",
-    "Readwise/Full Document Contents/Articles/The Healing Power of Gardens Oliver Sacks on the Psychological and Physiological Consolations of Nature.md",
-    "Readwise/Full Document Contents/Articles/Diane Ackerman on the Evolutionary and Existential Purpose of Deep Play.md",
-    "Readwise/Full Document Contents/Articles/How to Build Your First Recommendation System (Easy).md",
-    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
-    "podcasts.md",
-    "msa-rules-july-2024.pdf",
-    "dirx.txt",
-    "Readwise/Podcasts/World Expert on Fatherhood & Love The Truth About Monogamy, Breakups & the Science of Love! Dr. Anna Machin.md",
-    "Readwise/Podcasts/WW3 Threat Assessment The War Has Quietly Started & No One’s Trying to Stop It!.md",
-    "Readwise/Podcasts/The Speaking Coach The One Word All Liars Use! Stop Saying This Word, It's Making You Sound Weak! The More You Do This, the More You Sound Like a Liar!.md",
-    "Readwise/Podcasts/The Public Speaking Expert This Speaking Mistake Makes People Ignore You! These Small Mistakes Make You Unlikeable!.md",
-    "Readwise/Podcasts/The No.1 Eye Doctor They’re Lying to You About Blue Light! The Truth About Floaters! Turn This Phone Setting on to Save Your Eyes!.md",
-    "Readwise/Podcasts/The No.1 Brain Doctor This Parenting Mistake Ruins Your Kids Brain!, Alcohol or Marijuana Will Destroy Your Brain!, A Stagnant Career Can Increase Your Chance of Alzheimers! - Dr Daniel Amen.md",
-    "Readwise/Podcasts/The Manipulation Expert You're Being Manipulated!, Use Jealousy to Manipulate People! & How to Know if Someone Hates You!.md",
-    "Readwise/Podcasts/The FEMINISM DEBATE Is Feminism Betraying Women The Hidden Risk of Casual Sex!.md",
-    "Readwise/Podcasts/The Body Language Expert Stop Using This, It’s Making People Dislike You, So Are These Subtle Mistakes! Your Resting Face Matters & How to Fix It!.md",
-    "Readwise/Podcasts/The Anti-Woke Expert “USA & UK Are Brainwashed!”.md",
-    "Readwise/Podcasts/The Anti-Woke Expert — “USA & UK Are Brainwashed!”.md",
-    "Readwise/Podcasts",
-    "Readwise/Full Document Contents/Articles",
-    "Readwise/Full Document Contents",
-    "Readwise/Articles",
-    "Readwise",
-    "07-Archives/Tags",
+    "07-Archives/Tags/LLM.md",
+    "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
+    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+    "05-Fleeting/Inbox/Re To built a strong understanding of how LLM and GenAi works and why it is important in todays wor.md",
+    "07-Archives/Tags/Inbox.md",
+    "Readwise/Full Document Contents/Articles/Multimodal Embeddings An Introduction.md",
+    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
+    "07-Archives/Tags/podcasts.md",
+    "99-Meta/Template/Zettelkasten.md",
+    "05-Fleeting/Inbox/050820251100 Quantum computing introduction.md",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
-    "07-Archives/Documents",
+    "07-Archives/Documents/msa-rules-july-2024.pdf",
+    "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
+    "07-Archives/Tags/The Marginalian by Maria Popova.md",
+    "Readwise/Full Document Contents/Articles/3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull.md",
+    "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
+    "Readwise/Podcasts/Rising Antisemitism Before the Bondi Beach Shooting.md",
+    "Readwise/Podcasts/Jay’s Must-Listens Marriage Isn’t About Finding “The One”.md",
+    "Readwise/Podcasts/Jay & Radhi Talk About Why Men Feel So Lonely.md",
+    "Readwise/Podcasts/Astrologist Chani Nicholas Feeling Lost in Life This Episode Will Help You Find the Clarity, Direction and Answers You’ve Been Seeking.md",
+    "Readwise/Podcasts/AI Expert We Have 2 Years Before Everything Changes! We Need to Start Protesting! - Tristan Harris.md",
+    "Readwise/Full Document Contents/Articles/📉 2025 Was the Lost Year in Health Tech for AI, Data Analytics, and Telehealth.md",
+    "Readwise/Full Document Contents/Articles/Will AI Replace the Poets.md",
+    "Readwise/Full Document Contents/Articles/We hate brands. We love marketing..md",
+    "Readwise/Full Document Contents/Articles/Trump’s Executive Order Could Kill AI Startups.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok in USA, Anti-links Meta, Netflix vs. YouTube, and Hashtags.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Reddit & Threads 2.0, EU vs. Musk’s X, OpenAI ‘Code Red,’ and Wrapped Season.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Pinterest Predicts, Reels Algorithm, AI-Powered Dating, and Disney Slop.md",
+    "msa-rules-july-2024.pdf",
+    "Untitled.base",
+    "Untitled 3.base",
+    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
+    "03-Resources/Media/Videos/History/Game science",
+    "Untitled 1.base",
+    "07-Archives/Tags",
     "Untitled 1.canvas",
+    "dirx.txt",
     "Untitled.canvas"
   ]
 }

@@ -14,4 +14,4 @@
 
 ## Highlights
 - just because people are doing it doesn’t mean it’s legal, but at the same time, if everybody is basically doing it? Is it really illegal?” ([View Highlight](https://read.readwise.io/read/01k9tw2ggyfrs987h3y6fcgepq))
-    - Tags: [[inbox]] 
+    - Tags: [[Inbox]] 
