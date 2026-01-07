@@ -1,4 +1,3 @@
-# Obsidian and the birds, an antidote to the cult of self-improvement, and a charming illustrated parable of how to remake the world
 
 ![rw-book-cover](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/cropped-tm_site_icon-1.png?fit=192%2C192&ssl=1)
 

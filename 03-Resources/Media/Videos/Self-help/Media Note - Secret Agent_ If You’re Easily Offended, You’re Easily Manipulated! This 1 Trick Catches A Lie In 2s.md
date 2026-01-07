@@ -46,4 +46,3 @@ cssclasses:
 		- [01:13:02](https://www.youtube.com/watch?v=7l_0ZcSuRwg&t=4382#t=1:13:02.39) Personal relationship: Set your direction. Project what you want them to feel.
 		- [01:15:55](https://www.youtube.com/watch?v=7l_0ZcSuRwg&t=4555#t=1:15:55.04) Who would you pick as prey?
 			- 3 types of walk: 
-				- 
