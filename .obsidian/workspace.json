@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7129d39701347eb3",
+        "id": "45ffd725015c5365",
         "type": "tabs",
         "children": [
           {
-            "id": "411b5db3bfc47e1e",
+            "id": "05b17d9434e7123c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/Education/Language Learning/Japanese resources.md",
+                "file": "Readwise/Full Document Contents/Articles/3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Japanese resources"
-            }
-          },
-          {
-            "id": "2df52e3c3873abec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Areas/Education/Language Learning/Japanese resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Japanese resources"
+              "title": "3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,11 +267,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a4c3aa61dffd61f2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "73ab7f122825230a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "fce6a1ba97e9e6d0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -317,49 +323,49 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2df52e3c3873abec",
+  "active": "05b17d9434e7123c",
   "lastOpenFiles": [
-    "07-Archives/Tags/Japanese.md",
-    "02-Areas/Education/Language Learning/Japanese resources.md",
-    "Untitled.md",
+    "07-Archives/Tags/The Marginalian by Maria Popova.md",
+    "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
     "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
+    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
+    "Readwise/Full Document Contents/Articles/3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull.md",
+    "05-Fleeting/Inbox/How to Grow Old Bertrand Russell on What Makes a Fulfilling Life.md",
+    "Readwise/Articles/Evaluating and Testing Your LLM Use Case.md",
+    "msa-rules-july-2024.pdf",
+    "Pasted image 20260106155053.png",
+    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+    "07-Archives/Tags/The Jordan B. Peterson Podcast.md",
+    "07-Archives/Tags/On Purpose - Jay Shetty.md",
+    "[[.md",
+    "99-Meta/Template/Zettelkasten.md",
+    "Notes of 3 Kinds of Loneliness and 4 Kinds of Forever.md",
+    "Untitled 1.md",
+    "07-Archives/Mini Essays",
+    "05-Fleeting/Inbox/James Baldwin on the Artist’s Struggle for Integrity and How It Illuminates the Universal Experience of What It Means to Be Human.md",
+    "02-Areas/Education/Language Learning/Japanese resources.md",
+    "05-Fleeting/Inbox/The Consolations of Chronodiversity Geologist Turned Psychologist Ruth Allen on the 12 Kinds of Time and How to Be More Fully Alive.md",
+    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
+    "Readwise/Full Document Contents/Articles/Tivadar Danka, Sebastian Raschka, PhD, and Nathan Lambert posted new notes.md",
+    "Readwise/Full Document Contents/Articles/String Theory Can Now Describe a Universe That Has Dark Energy.md",
+    "Readwise/Articles/Marsha Blackburn How ICE Makes It Safer in Tennessee.md",
+    "Readwise/Full Document Contents/Articles/Marsha Blackburn How ICE Makes It Safer in Tennessee.md",
+    "Readwise/Podcasts/MEL ROBBINS How to Stop People-Pleasing Without Feeling Guilty.md",
+    "Readwise/Full Document Contents/Articles/LTX-2 is a DiT-based foundation model with all core video generation capabilities in one unified model..md",
+    "Readwise/Full Document Contents/Articles/Prof. Tom Yeh, Cameron R. Wolfe, Ph.D., and Rich Holmes posted new notes.md",
+    "Readwise/Full Document Contents/Articles/The Suck Is Why We’re Here.md",
+    "Readwise/Full Document Contents/Tweets",
     "02-Areas/Education/Language Learning",
-    "03-Resources/Media/Videos/Tech/Multi-vector Image Retrieval - DeepLearning.AI.md",
     "Pasted image 20260106160119.png",
     "Pasted image 20260106160014.png",
-    "03-Resources/Media/Videos/Self-help/Media Note - Secret Agent_ If You’re Easily Offended, You’re Easily Manipulated! This 1 Trick Catches A Lie In 2s.md",
     "Pasted image 20260106155553.png",
     "Pasted image 20260106155309.png",
-    "Pasted image 20260106155053.png",
-    "03-Resources/Media/Videos/Tech/Untitled.md",
-    "07-Archives/Tags/DeepLearning.AI - Learning Platform.md",
-    "03-Resources/Obsidian/Untitled.md",
-    "Readwise/Full Document Contents/Articles/Obsidian and the birds, an antidote to the cult of self-improvement, and a charming illustrated parable of how to remake the world.md",
-    "07-Archives/Tags/LLM.md",
-    "05-Fleeting/Inbox/Why You Can’t Stick To Anything (The Polymath Advantage).md",
-    "05-Fleeting/Inbox/Re To built a strong understanding of how LLM and GenAi works and why it is important in todays wor.md",
-    "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
-    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
-    "07-Archives/Tags/Inbox.md",
-    "Readwise/Full Document Contents/Articles/Multimodal Embeddings An Introduction.md",
-    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
-    "07-Archives/Tags/podcasts.md",
-    "99-Meta/Template/Zettelkasten.md",
-    "05-Fleeting/Inbox/050820251100 Quantum computing introduction.md",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
     "07-Archives/Documents/msa-rules-july-2024.pdf",
-    "03-Resources/Media/Podcasts/21042025_Former FBI Agent If They Do This Please RUN! Narcissists Favourite Trick To Control You! Theyre Controlling You Like A Puppet!.md",
-    "07-Archives/Tags/The Marginalian by Maria Popova.md",
-    "Readwise/Full Document Contents/Articles/3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull.md",
-    "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
-    "Readwise/Podcasts/Rising Antisemitism Before the Bondi Beach Shooting.md",
-    "msa-rules-july-2024.pdf",
     "Untitled.base",
     "Untitled 3.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Videos/History/Game science",
-    "Untitled 1.base",
-    "07-Archives/Tags",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
