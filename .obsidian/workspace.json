@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45ffd725015c5365",
+        "id": "7129d39701347eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "05b17d9434e7123c",
+            "id": "2df52e3c3873abec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Full Document Contents/Articles/3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull.md",
+                "file": "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull"
+              "title": "29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!"
             }
           }
         ]
@@ -267,42 +267,11 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "a4c3aa61dffd61f2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "73ab7f122825230a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "fce6a1ba97e9e6d0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "horizontal",
@@ -323,38 +292,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "05b17d9434e7123c",
+  "active": "2df52e3c3873abec",
   "lastOpenFiles": [
-    "07-Archives/Tags/The Marginalian by Maria Popova.md",
-    "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
-    "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
-    "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
-    "Readwise/Full Document Contents/Articles/3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull.md",
-    "05-Fleeting/Inbox/How to Grow Old Bertrand Russell on What Makes a Fulfilling Life.md",
-    "Readwise/Articles/Evaluating and Testing Your LLM Use Case.md",
-    "msa-rules-july-2024.pdf",
+    "Readwise/Full Document Contents/Articles/Brands are busy romanticising 2016, but you have to be here for the best of marketing in 2026 so far.md",
+    "Readwise/Full Document Contents/Articles/Tom Brady-FTX 2.0.md",
+    "Readwise/Full Document Contents/Articles/String Theory Can Now Describe a Universe That Has Dark Energy Quanta Magazine.md",
+    "Readwise/Full Document Contents/Articles/If birds ran the world, notes on living through uncertainty, Emerson on how to touch the universe.md",
+    "Readwise/Full Document Contents/Articles/Google Ironwood TPU From Bits to HBM.md",
+    "Readwise/Podcasts/America’s War on Immigration.md",
+    "Readwise/Articles/The Biggest Myth About Aging, According to Science.md",
+    "Readwise/Full Document Contents/Articles/The Biggest Myth About Aging, According to Science.md",
     "Pasted image 20260106155053.png",
-    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
-    "07-Archives/Tags/The Jordan B. Peterson Podcast.md",
-    "07-Archives/Tags/On Purpose - Jay Shetty.md",
-    "[[.md",
-    "99-Meta/Template/Zettelkasten.md",
-    "Notes of 3 Kinds of Loneliness and 4 Kinds of Forever.md",
-    "Untitled 1.md",
-    "07-Archives/Mini Essays",
-    "05-Fleeting/Inbox/James Baldwin on the Artist’s Struggle for Integrity and How It Illuminates the Universal Experience of What It Means to Be Human.md",
-    "02-Areas/Education/Language Learning/Japanese resources.md",
-    "05-Fleeting/Inbox/The Consolations of Chronodiversity Geologist Turned Psychologist Ruth Allen on the 12 Kinds of Time and How to Be More Fully Alive.md",
-    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
-    "Readwise/Full Document Contents/Articles/Tivadar Danka, Sebastian Raschka, PhD, and Nathan Lambert posted new notes.md",
-    "Readwise/Full Document Contents/Articles/String Theory Can Now Describe a Universe That Has Dark Energy.md",
-    "Readwise/Articles/Marsha Blackburn How ICE Makes It Safer in Tennessee.md",
-    "Readwise/Full Document Contents/Articles/Marsha Blackburn How ICE Makes It Safer in Tennessee.md",
-    "Readwise/Podcasts/MEL ROBBINS How to Stop People-Pleasing Without Feeling Guilty.md",
-    "Readwise/Full Document Contents/Articles/LTX-2 is a DiT-based foundation model with all core video generation capabilities in one unified model..md",
-    "Readwise/Full Document Contents/Articles/Prof. Tom Yeh, Cameron R. Wolfe, Ph.D., and Rich Holmes posted new notes.md",
-    "Readwise/Full Document Contents/Articles/The Suck Is Why We’re Here.md",
+    "Readwise/Podcasts/Roxie Nafousi Struggle With Low Self-Worth & No Confidence.md",
+    "Readwise/Full Document Contents/Tweets/Much like the switch in 2025 from language models to....md",
     "Readwise/Full Document Contents/Tweets",
+    "Readwise/Full Document Contents/Articles/Tivadar Danka, Sebastian Raschka, PhD, and Nathan Lambert posted new notes.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Everything is an ad network, but AI agents are buying everything.md",
+    "Readwise/Full Document Contents/Articles/The Suck Is Why We’re Here.md",
+    "Readwise/Full Document Contents/Articles/String Theory Can Now Describe a Universe That Has Dark Energy.md",
+    "Readwise/Full Document Contents/Articles/Sourav Verma’s Post.md",
+    "Readwise/Full Document Contents/Articles/Prof. Tom Yeh, Cameron R. Wolfe, Ph.D., and Rich Holmes posted new notes.md",
+    "Readwise/Full Document Contents/Articles/No, Claude Code doesn’t need a better UI.md",
+    "Readwise/Full Document Contents/Articles/Marsha Blackburn How ICE Makes It Safer in Tennessee.md",
+    "Readwise/Full Document Contents/Articles/MHC Manifold-Constrained Hyper-Connections.md",
+    "Readwise/Full Document Contents/Articles/LTX-2 is a DiT-based foundation model with all core video generation capabilities in one unified model..md",
+    "Readwise/Full Document Contents/Articles/I wouldn't market to Gen-Z in 2026 without knowing these stats and insights.md",
+    "Readwise/Full Document Contents/Articles/I Uploaded My Entire Medical History to ChatGPT Health.md",
+    "Readwise/Full Document Contents/Articles/How Small Models Learn Tool Use.md",
+    "Readwise/Full Document Contents/Articles/ChatGPT Health Is Dancing Around HIPAA. Well Played, Sam!.md",
+    "Readwise/Full Document Contents/Articles/Building AI Agents, Open Code And Open Source.md",
+    "Readwise/Full Document Contents/Articles/Begin again, the trouble with love, how to see the light of the world.md",
     "02-Areas/Education/Language Learning",
     "Pasted image 20260106160119.png",
     "Pasted image 20260106160014.png",
@@ -362,10 +329,12 @@
     "Pasted image 20260106155309.png",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
     "07-Archives/Documents/msa-rules-july-2024.pdf",
+    "msa-rules-july-2024.pdf",
     "Untitled.base",
     "Untitled 3.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Videos/History/Game science",
+    "Untitled 1.base",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
