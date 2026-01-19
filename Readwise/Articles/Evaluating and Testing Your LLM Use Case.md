@@ -1,4 +1,3 @@
-# Evaluating and Testing Your LLM Use Case
 
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_1492393/SAP-Learning-Socials_comprimida_fhiXs5y.png)
 
