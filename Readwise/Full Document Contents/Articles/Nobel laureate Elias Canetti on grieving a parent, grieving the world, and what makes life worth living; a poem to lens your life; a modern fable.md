@@ -6,7 +6,7 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Nobel laureate Elias Canetti on grieving a parent, grieving the world, and what makes life worth living; a poem to lens your life; a modern fable
 - Category: #articles
-- Summary: The year is 1937.
+- Summary: Elias Canetti’s The Book Against Death explores how grieving a parent reveals the deep, shared thread of human loss and makes life feel more alive. He argues that love, memory, and attention give life meaning despite death’s shadow. Broadening our view of time and caring for others lets loss become part of a larger, living whole.
 - URL: mailto:reader-forwarded-email/00accf421c99d0192a2d0ae45593d901
 
 ## Full Document

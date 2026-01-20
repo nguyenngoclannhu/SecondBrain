@@ -6,7 +6,7 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Insomnia and creativity, the cellular science of the unself, Rachel Carson on wonder as an antidote to self-destruction
 - Category: #articles
-- Summary: One of the most discomposing things about the sense of individuality is the knowledge that although there are infinitely many kinds of beautiful lives, there is but one way to come alive — through the bloody, sweaty flesh of another; the knowledge that your own flesh is made of someone else’s cells and genes, the fact of you a fractal.
+- Summary: Motherhood changes the brain deeply and shows how connected we are to others and the world. Creativity often grows from restless, sleepless moments when our minds are full of feeling. Science and wonder help us see the beauty in life and remind us to care for ourselves and the earth.
 - URL: mailto:reader-forwarded-email/eadbb2c28f6d994516c17777a9d2022d
 
 ## Full Document

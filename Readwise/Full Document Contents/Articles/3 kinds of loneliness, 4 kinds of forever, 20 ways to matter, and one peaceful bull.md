@@ -1,43 +1,59 @@
-drr555555555# 3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull
+# 3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull
 
 ![rw-book-cover](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/cropped-tm_site_icon-1.png?fit=192%2C192&ssl=1)
 
 ## Metadata
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: 3 kinds of loneliness, 4 kinds of forever, 20 ways to matter, and one peaceful bull
-- Category: #articles 
-- Status: #processing
-- Summary: Loneliness is the fundamental condition of life — we are born by another, but born alone; die around others (if we are lucky and loved), but die alone; we spend our lives islanded in our one and only human experience — in these particular bodies and minds and circumstances drawn from the cosmic lottery — amid the immense ocean of time and chance teeming with all possible experience.
+- Category: #articles
+- Summary: Loneliness takes many forms—past, future, and a deep, existential solitude—but art and connection bridge those gaps. Small acts of attention, creative work, and kindness help you matter and soften the ache of being alone. Stories like The Story of Ferdinand show peaceful resistance can change how we live and imagine the world.
+- URL: mailto:reader-forwarded-email/2f1e3ef9ac6bb134ce311ff27a684d73
 
-## [3 Kinds of Loneliness and 4 Kinds of Forever](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8e46176ced&e=f6b8863c15)
+## Full Document
+NOTE: This newsletter might be cut short by your email program. [View it in full](https://mailchi.mp/themarginalian/loneliness-forever-matter?e=f6b8863c15).
 
-==Loneliness is the fundamental condition of life — we are born by another, but born alone; die around others (if we are lucky and loved), but die alone==; we spend our lives islanded in our one and only human experience — in these particular bodies and minds and circumstances drawn from the cosmic lottery — amid the immense ocean of time and chance teeming with all possible experience. ==Everything of beauty and substance that we make — every poem, every painting, every friendship — is an outstretched hand reaching out from one loneliness to another, reaching into the mute mouth of forever for the vowels of a common language to howl our requiem for the evanescent now.==
+If a friend forwarded it to you and you'd like your very own newsletter, [subscribe here](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=90d74edfc9&e=f6b8863c15) — it's free.
+
+Need to modify your subscription? You can [change your email address](https://themarginalian.us2.list-manage.com/profile?u=13eb080d8a315477042e0d5b1&id=179ffa2629&e=f6b8863c15&c=dedaa5e74c) or [unsubscribe](https://themarginalian.us2.list-manage.com/unsubscribe?u=13eb080d8a315477042e0d5b1&id=179ffa2629&t=b&e=f6b8863c15&c=dedaa5e74c).
+
+[![The Marginalian](https://mcusercontent.com/13eb080d8a315477042e0d5b1/images/6cb0e7e1-e7a2-b1eb-b044-bdd8e4edd4ac.png)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=69e6eadbc7&e=f6b8863c15)
+
+#### Welcome
+Hello daren solaris! This is the weekly email digest of [*The Marginalian*](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=29ba3c695d&e=f6b8863c15) by Maria Popova. If you missed last week's edition — Carl Jung on creativity, Simone de Beauvoir on love and friendship, and a burst of joy — you can catch up [right here](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8416b1b5c9&e=f6b8863c15). And if my labor of love touches your life in a meaningful way, please consider supporting it with a [donation](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=665bb33219&e=f6b8863c15) — for nearly two decades, it has remained free and ad-free and alive thanks to these small, immense kindnesses. If you already donate: It makes a real difference, and I appreciate you more than you know.
+
+### [3 Kinds of Loneliness and 4 Kinds of Forever](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8e46176ced&e=f6b8863c15)
+
+Loneliness is the fundamental condition of life — we are born by another, but born alone; die around others (if we are lucky and loved), but die alone; we spend our lives islanded in our one and only human experience — in these particular bodies and minds and circumstances drawn from the cosmic lottery — amid the immense ocean of time and chance teeming with all possible experience. Everything of beauty and substance that we make — every poem, every painting, every friendship — is an outstretched hand reaching out from one loneliness to another, reaching into the mute mouth of forever for the vowels of a common language to howl our requiem for the evanescent now.
 
 [![](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/07/SnakeBird.jpg)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=75c5dee2a7&e=f6b8863c15)
 
 Card from [*An Almanac of Birds: 100 Divinations for Uncertain Days*](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=4d4b3dc894&e=f6b8863c15).
 
-But despite being so fundamental, or perhaps precisely because of it, loneliness is fractal — ==the closer you look at the granularity of life, the more you see it branching into myriad loneliness==, which, [[The Consolations of Chronodiversity Geologist Turned Psychologist Ruth Allen on the 12 Kinds of Time and How to Be More Fully Alive|like the kinds of sadness]], all have different emotional hues.
+But despite being so fundamental, or perhaps precisely because of it, loneliness is fractal — the closer you look at the granularity of life, the more you see it branching into myriad lonelinesses, which, [like the kinds of sadness](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=90a3c62aa0&e=f6b8863c15), all have different emotional hues.
 
-> [!note]-
-> The loneliness of feeling invisible or misunderstood, bottomless and bone-chilling as the Scottish fog.
-> The loneliness of seeing what others look away from, remote and shoreless as a lighthouse.
-> The loneliness of public humiliation, a red-hot iron rod.
-> The loneliness of your most private failure, inky and arid like the desert at night.
-> The loneliness of success, shiny and sharp as [obsidian](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=ab5dce420b&e=f6b8863c15).
-> [The loneliness of love](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=2f75874fce&e=f6b8863c15), lightless as the inside of a skull.
+The loneliness of feeling invisible or misunderstood, bottomless and bone-chilling as the Scottish fog.
+
+The loneliness of seeing what others look away from, remote and shoreless as a lighthouse.
+
+The loneliness of public humiliation, a red-hot iron rod.
+
+The loneliness of your most private failure, inky and arid like the desert at night.
+
+The loneliness of success, shiny and sharp as [obsidian](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=ab5dce420b&e=f6b8863c15).
+
+[The loneliness of love](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=2f75874fce&e=f6b8863c15), lightless as the inside of a skull.
 
 [![](https://mcusercontent.com/13eb080d8a315477042e0d5b1/images/40bfc248-d3f2-b9df-edfd-d90507cb7024.png)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=9b30c5dbbf&e=f6b8863c15)
 
-In his 2008 psychology classic [***Inner Gold: Understanding Psychological Projection***](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=a8d357f2a4&e=f6b8863c15) ([*public library*](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=f8977fc63a&e=f6b8863c15)), Jungian analyst Robert A. Johnson groups all the possible loneliness into the three core kinds that pulsate beneath our daily lives and govern our search for love: ==the past-oriented loneliness of missing what once was and never again will be, the future-oriented loneliness of longing for what could be but has not come to pass, and what he calls “the profound loneliness of being close to God.”== This I take to mean the existential disorientation of feeling your transience press against the edge of the eternal, your smallness press against the immensity that dwells at the intersection of time, chance, and love; God is just what some call their dream of a crosswalk when they face that intersection.
+In his 2008 psychology classic [***Inner Gold: Understanding Psychological Projection***](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=a8d357f2a4&e=f6b8863c15) ([*public library*](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=f8977fc63a&e=f6b8863c15)), Jungian analyst Robert A. Johnson groups all the possible lonelinesses into the three core kinds that pulsate beneath our daily lives and govern our search for love: the past-oriented loneliness of missing what once was and never again will be, the future-oriented loneliness of longing for what could be but has not come to pass, and what he calls “the profound loneliness of being close to God.” This I take to mean the existential disorientation of feeling your transience press against the edge of the eternal, your smallness press against the immensity that dwells at the intersection of time, chance, and love; God is just what some call their dream of a crosswalk when they face that intersection.
 
-The first two loneliness are rooted in time, which is itself fractal — there are [many kinds of time we live with](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=a1fd9ee1ee&e=f6b8863c15). The third kind of loneliness deals not with the temporal but with the eternal; it exists outside of time — like music, like wonder, like love. It is an [existential loneliness](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=5b4b24a52f&e=f6b8863c15), a [creative loneliness](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=2a4d161ae5&e=f6b8863c15), made not from the atoms of now that compose the other two loneliness but from the atoms of forever.
+The first two lonelinesses are rooted in time, which is itself fractal — there are [many kinds of time we live with](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=a1fd9ee1ee&e=f6b8863c15). The third kind of loneliness deals not with the temporal but with the eternal; it exists outside of time — like music, like wonder, like love. It is an [existential loneliness](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=5b4b24a52f&e=f6b8863c15), a [creative loneliness](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=2a4d161ae5&e=f6b8863c15), made not from the atoms of now that compose the other two lonelinesses but from the atoms of forever.
 
 [![](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/04/FieldBunting_time-1-scaled.jpg)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=945f7b3f00&e=f6b8863c15)
 
 Card from [*An Almanac of Birds: 100 Divinations for Uncertain Days*](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=1001c55372&e=f6b8863c15), also available as a [stand-alone print](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=90d6ed1662&e=f6b8863c15).
 
-Because we, [creatures made of time](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=fb8e837b46&e=f6b8863c15), cannot comprehend forever, it is easy to call it God — that catchall for everything immense and incomprehensible we face in ourselves. But this is an illusion — forever too is fractal, with myriad visitations of it in our daily lives. In a testament to James Baldwin’s timeless insistence that [[James Baldwin on the Artist’s Struggle for Integrity and How It Illuminates the Universal Experience of What It Means to Be Human|“the poets… are finally the only people who know the truth about us"]] it is not the psychologists or the philosophers but the poets who part the veil of illusion to reveal the truth:
+Because we, [creatures made of time](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=fb8e837b46&e=f6b8863c15), cannot comprehend forever, it is easy to call it God — that catchall for everything immense and incomprehensible we face in ourselves. But this is an illusion — forever too is fractal, with myriad visitations of it in our daily lives. In a testament to James Baldwin’s timeless insistence that [“the poets… are finally the only people who know the truth about us,”](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=fd64d5c7d8&e=f6b8863c15) it is not the psychologists or the philosophers but the poets who part the veil of illusion to reveal the truth:
 
 > ![](https://gallery.mailchimp.com/13eb080d8a315477042e0d5b1/images/2e292385-dc1c-4cfe-b95e-845f6f98c2ec.png)**SOME KINDS OF FOREVER VISIT YOU**  
 > *by Brenda Hillman*
@@ -59,25 +75,46 @@ Because we, [creatures made of time](https://themarginalian.us2.list-manage.com/
 >  realms are noisy  
 >  & unanimous. You tap  
 > the screen & dream  
->  while waiting; ==four  
+>  while waiting; four  
 >  kinds of forever  
 >  visit you today:  
 > something, nothing,  
-> everything & art==,  
+> everything & art,  
 >  greater than you are  
 >  & of your making —
 
 Poem courtesy of the [Academy of American Poets](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8aca5b78e9&e=f6b8863c15)
 
+##### [SHARE THIS WITH SOMEONE YOU LOVE](https://us2.forward-to-friend.com/forward?u=13eb080d8a315477042e0d5b1&id=dedaa5e74c&e=f6b8863c15)/[Read Online](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=fbae91e773&e=f6b8863c15)/[Like https://www.themarginalian.org/2025/04/15/loneliness-forever/ on Facebook](https://mailchi.mp/themarginalian/loneliness-forever-matter?fblike=fblike-2c5577c9&e=f6b8863c15&socialproxy=https%3A%2F%2Fus2.campaign-archive.com%2Fsocial-proxy%2Ffacebook-like%3Fu%3D13eb080d8a315477042e0d5b1%26id%3Ddedaa5e74c%26url%3Dhttps%253A%252F%252Fwww.themarginalian.org%252F2025%252F04%252F15%252Floneliness-forever%252F%26title%3Dhttps%253A%252F%252Fwww.themarginalian.org%252F2025%252F04%252F1... "Like https://www.themarginalian.org/2025/04/15/loneliness-forever/ on Facebook")
+
+#### donating=loving
+
+Every month, I spend hundreds of hours and thousands of dollars keeping *The Marginalian* going. For nearly two decades, it has remained free and ad-free and alive thanks to patronage from readers. I have no staff, no interns, not even an assistant — a thoroughly one-woman labor of love that is also my life and my livelihood. If this labor makes your own life more livable in any way, please consider aiding its sustenance with a one-time or loyal donation. Your support makes all the difference.
+
+#### monthly donation
+
+You can become a Sustaining Patron with a recurring monthly donation of your choosing, between a cup of tea and a Brooklyn lunch.
+
+#### one-time donation
+
+Or you can become a Spontaneous Supporter with a one-time donation in any amount.
+
+[![Start Now](https://gallery.mailchimp.com/dbeae2cb82bd3279d443819a5/images/87a3e0e9-dd64-463e-96e3-0c8fd37a7b1f.png)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=e731a31093&e=f6b8863c15)
+
+[![Give Now](https://gallery.mailchimp.com/dbeae2cb82bd3279d443819a5/images/bfbefa97-c14f-47e6-bddb-f0bdebeed843.png)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=f2cd2fc918&e=f6b8863c15)
+
+Partial to Bitcoin? You can beam some bit-love my way: **197usDS6AsL9wDKxtGM6xaWjmR5ejgqem7**
+*Need to cancel an existing donation? (It's okay — life changes course. I treasure your kindness and appreciate your support for as long as it lasted.) You can do so [on this page](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=06ef4004cb&e=f6b8863c15).*
+
 ### [Twenty Ways to Matter](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8620dfc76b&e=f6b8863c15)
 
-The two great tasks of the creative life are ==keeping failure from breaking the spirit and keeping success from ossifying it==. If you do attain success by the weft and warp of hard work and luck, it takes great courage to resist becoming a template of yourself that replicates whatever has garnered you acclaim in the past, continually lowering and lowering your willingness to take risks, narrowing and narrowing your locus of curiosity — that elemental building block of creativity.
+The two great tasks of the creative life are keeping failure from breaking the spirit and keeping success from ossifying it. If you do attain success by the weft and warp of hard work and luck, it takes great courage to resist becoming a template of yourself that replicates whatever has garnered you acclaim in the past, continually lowering and lowering your willingness to take risks, narrowing and narrowing your locus of curiosity — that elemental building block of creativity.
 
 In 2005, while working as a designer at a branding agency, Debbie Millman — my onetime partner, now closest friend — rented a microphone and a room in an office building and sat down, excited and nervous and overprepared, to conduct her first interview. She had never interviewed anyone before. The word “podcast” did not yet exist. She had to pay a commercial internet radio service to air her tiny labor of love, which she called [*Design Matters*](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=480dee37b4&e=f6b8863c15).
 
 [![](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/04/designmatters_logo-scaled.jpg)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=05add88208&e=f6b8863c15)
 
-It began as an inquiry into how her design heroes came to be who they are. But in a living testament to Bertrand Russell’s abiding insight that the key to a fulfilling life as you grow older is to ![[How to Grow Old Bertrand Russell on What Makes a Fulfilling Life#^424993]]over the years the interviews rippled beyond design to draw out the inner lives of musicians and poets, philosophers and physicists, and a panoply of artists across every discipline. These conversations would widen and widen to become one great investigation of what it takes to design a creative life, a life of substance and significance that touches other lives in a meaningful way.
+It began as an inquiry into how her design heroes came to be who they are. But in a living testament to Bertrand Russell’s abiding insight that the key to a fulfilling life as you grow older is to [“make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life,”](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=8ad6feff5e&e=f6b8863c15) over the years the interviews rippled beyond design to draw out the inner lives of musicians and poets, philosophers and physicists, and a panoply of artists across every discipline. These conversations would widen and widen to become one great investigation of what it takes to design a creative life, a life of substance and significance that touches other lives in a meaningful way.
 
 To celebrate the 20th anniversary of *Design Matters* — the best of which is collected in [this excellent book](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=249562fa72&e=f6b8863c15) — I decided to revisit my favorite interviews from the entire archive and apply to them my [bird divination process](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=53544b7a1e&e=f6b8863c15), reading over the hundreds of pages of transcripts, taking down words and phrases that called out to my imagination as particularly original or beautiful or plainly true, and rearranging them into a kind of lyric, or perhaps divination, that captures the spirit of the show and the overarching philosophy for living emanating from it.
 
@@ -156,6 +193,27 @@ Here is the fruit of this strange, wildly time-consuming, and utterly joyful lab
 >  everything  
 > is possible  
 > for your life.
+
+##### [SHARE THIS WITH SOMEONE YOU LOVE](https://us2.forward-to-friend.com/forward?u=13eb080d8a315477042e0d5b1&id=dedaa5e74c&e=f6b8863c15)/[Read Online](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=03d96f7580&e=f6b8863c15)/[Like https://www.themarginalian.org/2025/04/17/design-matters-20/ on Facebook](https://mailchi.mp/themarginalian/loneliness-forever-matter?fblike=fblike-d71c1200&e=f6b8863c15&socialproxy=https%3A%2F%2Fus2.campaign-archive.com%2Fsocial-proxy%2Ffacebook-like%3Fu%3D13eb080d8a315477042e0d5b1%26id%3Ddedaa5e74c%26url%3Dhttps%253A%252F%252Fwww.themarginalian.org%252F2025%252F04%252F17%252Fdesign-matters-20%252F%26title%3Dhttps%253A%252F%252Fwww.themarginalian.org%252F2025%252F04%252F1... "Like https://www.themarginalian.org/2025/04/17/design-matters-20/ on Facebook")
+
+#### donating=loving
+
+Every month, I spend hundreds of hours and thousands of dollars keeping *The Marginalian* going. For nearly two decades, it has remained free and ad-free and alive thanks to patronage from readers. I have no staff, no interns, not even an assistant — a thoroughly one-woman labor of love that is also my life and my livelihood. If this labor makes your own life more livable in any way, please consider aiding its sustenance with a one-time or loyal donation. Your support makes all the difference.
+
+#### monthly donation
+
+You can become a Sustaining Patron with a recurring monthly donation of your choosing, between a cup of tea and a Brooklyn lunch.
+
+#### one-time donation
+
+Or you can become a Spontaneous Supporter with a one-time donation in any amount.
+
+[![Start Now](https://gallery.mailchimp.com/dbeae2cb82bd3279d443819a5/images/87a3e0e9-dd64-463e-96e3-0c8fd37a7b1f.png)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=76efaafb96&e=f6b8863c15)
+
+[![Give Now](https://gallery.mailchimp.com/dbeae2cb82bd3279d443819a5/images/bfbefa97-c14f-47e6-bddb-f0bdebeed843.png)](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=109ed98bfa&e=f6b8863c15)
+
+Partial to Bitcoin? You can beam some bit-love my way: **197usDS6AsL9wDKxtGM6xaWjmR5ejgqem7**
+*Need to cancel an existing donation? (It's okay — life changes course. I treasure your kindness and appreciate your support for as long as it lasted.) You can do so [on this page](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=ffeb1d27ed&e=f6b8863c15).*
 
 ### [FROM THE ARCHIVE | The Bittersweet Story of the Real-Life Peaceful Bull Who Inspired Munro Leaf and Robert Lawson’s Ferdinand](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=c100d9cb71&e=f6b8863c15)
 

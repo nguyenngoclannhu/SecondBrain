@@ -6,7 +6,7 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Midweek Sanity Oasis: Lessons on loneliness and resilience from a suicide prevention hotline
 - Category: #articles
-- Summary: “How are we so optimistic, so careful not to trip and yet do trip, and then get up and say OK? ” Maira Kalman pondered in her visual philosophy.
+- Summary: A volunteer counselor describes saving callers from suicide by listening and offering choices when they have none. Loneliness and tunnel vision make people feel trapped, and small acts of care can open doors. The rescued caller later thanked the hotline, showing how help can restore hope and resilience.
 - URL: mailto:reader-forwarded-email/f46dec69fc26f7f7635abb781de61e4e
 
 ## Full Document

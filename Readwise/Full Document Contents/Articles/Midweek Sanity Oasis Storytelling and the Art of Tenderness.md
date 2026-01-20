@@ -6,7 +6,7 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Midweek Sanity Oasis: Storytelling and the Art of Tenderness
 - Category: #articles
-- Summary: “I have always felt that a human being could only be saved by another human being,” James Baldwin observed as he offered his lifeline for the hour of despair.
+- Summary: Olga Tokarczuk argues that our old, harsh stories are failing us and we need kinder, more connected narratives. Tenderness — a quiet, attentive love — lets us see others’ lives and feel our shared bonds. Literature practices this tenderness and can help repair our divided, self-centered world.
 - URL: mailto:reader-forwarded-email/52fe542628c6d934bae5a09d25c13b43
 
 ## Full Document

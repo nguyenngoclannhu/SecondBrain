@@ -21,6 +21,23 @@ Try it for yourself:
 
 #### FAQ Update Log
 
+>  ##### December 16, 2025
+> 
+>  * Explain how to add podcasts in **Adding Content to Reader** section
+> 
+>  ##### November 19, 2025
+> 
+>  * Add how to undo in **Basics** section
+> * Explain what the "Unsubscribe" button does for email subscriptions
+> * Explain how to switch from text view to original view for emails
+> * Remove Pocket integration information now that it's [fully shut down](https://support.mozilla.org/en-US/kb/future-of-pocket)
+> 
+>  ##### October 15, 2025
+> 
+>  * Update Ghostreader model references
+> * Add FAQs about deleting and restoring documents from the Trash
+> * Update **Searching** section
+> 
 >  ##### July 10, 2025
 > 
 >  * Explain how to "split" a view
@@ -28,10 +45,10 @@ Try it for yourself:
 > 
 >  ##### July 3, 2025
 > 
->  * Add "bump to top" instructions to Navigation section
+>  * Add "bump to top" instructions to **Navigation** section
 > * Explain how to change the iOS app icon
-> * Add section for E-ink Devices
-> * Add long-form reading mode to Appearance section
+> * Add section for **E-ink Devices**
+> * Add long-form reading mode to **Appearance** section
 > * Update Ghostreader models
 > 
 >  ##### May 6, 2025
@@ -42,7 +59,7 @@ Try it for yourself:
 > 
 >  ##### March 6, 2025
 > 
->  * Added "Ghostreader" section
+>  * Added **Ghostreader** section
 > 
 >  ##### February 28, 2025
 > 
@@ -51,14 +68,14 @@ Try it for yourself:
 > 
 >  ##### February 19, 2025
 > 
->  * Added "Videos" section
-> * Moved "how to add YouTube videos" question from the Adding Content section to the new Videos section
+>  * Added **Videos** section
+> * Moved "how to add YouTube videos" question from the **Adding Content** section to the new **Videos** section
 > * Added FAQs for enhanced transcripts, changing the captions language, resizing video player, and other video options
 > 
 >  ##### January 2, 2025
 > 
 >  * Updated TTS instructions to match current app UI
-> * Moved Substack instructions to Email Newsletters section
+> * Moved Substack instructions to **Email Newsletters** section
 > 
 >  
 
@@ -85,11 +102,11 @@ Reader uses your Readwise account for authentication. If you're not redirected a
 
 ##### What's the relationship between Reader and Readwise? Are they automatically connected?
 
-Right now, you can think of Reader as another reading app that integrates with Readwise (albeit seamlessly because they share a database). Every highlight you make in Reader instantly syncs with Readwise and then from Readwise to your note-taking apps. Over time, the vision is to create a unified experience between Readwise and Reader within Reader.
+You can think of Reader as another reading app that integrates with Readwise (albeit seamlessly because they share a database). Every highlight you make in Reader instantly syncs with Readwise and then from Readwise to your note-taking apps.
 
 ##### What is the business model of Readwise? If I start using Reader, how do I know you won't disappear on me?
 
-We've been working on Readwise since 2017 (5+ years!) and in 2018 we decided to fund the business through consumer software-as-a-service rather than raising venture capital (more here: [Why We're Bootstrapping Readwise](https://blog.readwise.io/why-were-bootstrapping-readwise/)). We're a sustainable company on a team of 13 (and growing) with a long-term mission of improving the practice of reading through software by an order of magnitude. We're not going anywhere, but it's a fair question considering the many startups that raised venture capital during the peak markets of 2020/2021 and are now zombies.
+We've been working on Readwise since 2017 (5+ years!) and in 2018 we decided to fund the business through consumer software-as-a-service rather than raising venture capital (more here: [Why We're Bootstrapping Readwise](https://blog.readwise.io/why-were-bootstrapping-readwise/)). We're a sustainable company with a long-term mission of improving the practice of reading through software by an order of magnitude. We're not going anywhere, but it's a fair question considering the many startups that raised venture capital during the peak markets of 2020/2021 and are now zombies.
 
 ##### What is the pricing of Reader?
 
@@ -113,15 +130,59 @@ On web, Reader is fully keyboard shortcut driven, including while reading docume
 
 Note that if you use a Magic Keyboard with iPad, you should use the Reader web app in iOS Safari as we've not yet had an opportunity to optimize the iPad app with keyboard shortcuts yet. This is on the roadmap.
 
+##### Can I undo an accidental action?
+
+You can use the undo feature to restore a deleted highlight or note, undo bulk actions, and much more.
+
+On web, you can trigger the undo function by pressing `Z` on your keyboard. Pressing multiple times will step back through the last few actions you've taken.
+
+![Undo actions in Reader on web.](https://docs.readwise.io/images/undo-z_web.gif)
+On mobile, when using an iOS device, you can use the operating system's built-in "shake to undo" feature. If shaking to undo isn't working for you, check that the feature is turned on in your device's **Settings** > **Accessibility** > **Touch**.
+
+![Toggle shake-to-undo in iOS settings.](https://docs.readwise.io/images/shake-to-undo_iphone.png)
+Additionally, many actions will be followed by a pop-up "toast" dialog to confirm what's been done, and that dialog will often include an undo button. Clicking or tapping it will immediately revert the action.
+
+![Tap the undo toast button on mobile.](https://docs.readwise.io/images/undo-toast_mobile.gif)
+##### How can I delete unwanted documents?
+
+On web, there are two ways to delete a document. You can either click into the **More actions** (...) menu and select **Delete document**, or you can use the keyboard shortcut `D`.
+
+![Delete a document on web.](https://docs.readwise.io/images/trash_delete-doc_web.gif)
+On mobile, tap into the **More actions** (...) menu and select **Delete document** at the bottom of the sheet.
+
+![Delete a document on mobile.](https://docs.readwise.io/images/trash_delete-doc_mobile.gif)
+##### Can I restore documents that I've previously deleted?
+
+You can restore deleted documents from the Trash section of your account. Items you've deleted will stay in the Trash until you choose to recover them or empty your Trash.
+
+Restoring a document will return it to your Library and restore any highlights or notes you might have made.
+
+**NOTE:** The Trash is device-specific, so deleted documents must be restored from the **same device** (e.g. web browser, mobile device, etc) where they were originally deleted.
+
+**To restore a document on web or in the desktop app:**
+
+1. Navigate to the **Trash** in the left sidebar below the **Pinned** section.  
+ ![Trash section of Reader on web.](https://docs.readwise.io/images/trash_sidebar_web.png)
+2. Hover over the document you'd like to restore, then click the **Restore document** icon that appears.  
+ ![Restore a deleted document from Reader's Trash on web.](https://docs.readwise.io/images/trash_restore-document_web.png)
+
+**To restore a document in the mobile app:**
+
+1. Navigate to the **Search** tab and scroll to the bottom of the page.
+2. Below your Filtered Views, tap into the **Trash** view under **Deleted documents**.  
+ ![Deleted documents on mobile.](https://docs.readwise.io/images/trash_mobile.png)
+3. Tap the title of the document you'd like to restore, then select **Restore Document** from the Actions menu.  
+ ![Restore a deleted document from Reader's Trash on mobile.](https://docs.readwise.io/images/restore-deleted-doc_mobile.gif)
+
 ##### Does Reader support end-to-end encryption?
 
 No. Reader is consumer software optimizing for user experience over enterprise compliance. If you're dealing in matters of national security requiring NSA-level encryption, you should definitely not save anything containing your state secrets to Reader (or any cloud-based software, for that matter). That said, you should generally feel comfortable that your private content will be kept private. For example, if you upload a PDF to Reader, no one will ever see that PDF but you.
 
 #### Importing Content to Reader 📥
 
-##### How do I import my Instapaper or Pocket articles to Reader?
+##### How do I import my Instapaper articles to Reader?
 
-If you have Instapaper or Pocket connected to Readwise, any articles you've saved previously will automatically import to Readwise. You can connect Instapaper and Pocket within Readwise by following [this link](https://readwise.io/welcome/sync). Any articles that were archived inside Instapaper or Pocket will appear inside your Archive in Reader; the ten most recently saved items not archived will appear inside your Inbox in Reader; everything else will go in Later.
+If you have Instapaper connected to Readwise, any articles you've saved previously will automatically import to Readwise. You can connect Instapaper within Reader by following [this link](https://read.readwise.io/integrations). Any articles that were archived inside Instapaper will appear inside your Archive in Reader; the ten most recently saved items not archived will appear inside your Inbox in Reader; everything else will go in Later.
 
 ##### It seems some of my Instapaper articles are missing. How do I make sure ALL my Instapaper articles imported?
 
@@ -130,12 +191,6 @@ If it looks like you're missing Instapaper articles within Reader, first note th
 If you've checked those places and still don't find the articles you're looking for, it's possible you might be hitting an Instapaper API export bug which caps the number of items export at 500. To get around this, you can download a CSV export of your Instapaper articles ([Settings](https://www.instapaper.com/user) > **Export** > **Download .CSV file**) and then upload those at [read.readwise.io/add-to-library](http://read.readwise.io/add-to-library).
 
 Note that some items are considered “private content” by Instapaper and are unavailable to third parties. This includes things like emails forwarded to your Instapaper account. You’ll be able to see these articles in the CSV export (the URLs will start with `instapaper-private://` ), but since the document is kept private by Instapaper, Reader won’t be able to import them.
-
-##### It seems some of my Pocket articles are missing. How do I make sure ALL my Pocket articles imported?
-
-If it looks like you're missing Instapaper or Pocket articles within Reader, first note that any articles that were archived inside Instapaper or Pocket will appear inside your Archive in Reader; the ten most recently saved items not archived will appear inside your Inbox in Reader; everything else will go in Later.
-
-If you've checked those places and still don't find the articles you're looking for, it's possible you might have so many Pocket articles that Reader only imported the first 10,000. If you open the Command Palette and search for "Import entire Pocket library", you can trigger an import of the rest. Note that we recommend you have a reasonably powerful computer and/or modern phone before you do this.
 
 ##### How do I import my Matter articles to Reader?
 
@@ -223,6 +278,25 @@ You can subscribe to RSS feeds inside Reader in multiple ways.
 You can upload a variety of different file types to Reader, including PDFs, EPUBs, and OPML files. To upload a file, drag it on top of the web app, or open the Upload dialog (keyboard shortcut: `U`) and select the file.
 
 On mobile, use the "share" action from within your device's Files app and find the option in the share sheet labeled "Upload [file] to Reader".
+
+##### How do I add podcasts to Reader?
+
+You can share a podcast link to Reader to save a high-quality transcript of the content in your Reader Library, which you can then highlight, chat with, or use with any of Reader's other features.
+
+To save a podcast on mobile, find an episode in your podcast player of choice (we currently support Spotify, Overcast, Pocket Casts, and Apple Podcasts) and use that app's share option to share the episode to Reader.
+
+![Share an episode from Apple Podcasts to Reader.](https://readwise-community.ghost.io/content/images/2025/12/podcast.gif)
+On web, you can add podcasts by copying the link and pasting it into Reader via the **Add URL** option (keyboard shortcut `A`).
+
+If you subscribe to any podcasts using RSS, you can manually trigger the transcription for each episode. To do so, use the **Load transcript** button at the top of the episode's content.
+
+![Manually trigger podcast transcription for RSS feeds.](https://docs.readwise.io/images/podcast_load-transcript.gif)
+Podcasts are a distinct content type, and you can find all of the podcasts you've saved in the **Podcasts** section of your Library.
+
+![Podcast section of Reader Library.](https://docs.readwise.io/images/podcast_library-location.png)
+You can also use `category:podcast` or `type:podcast` in any filtered view query to include podcasts in that view.
+
+Note that we intentionally built this feature to allow Reader to be a *podcast companion*, rather than a full *podcast player*, so there's no playback functionality for listening to the podcast inside of Reader. You can read more about why we chose to build it this way in our [public beta update #13](https://readwise.io/reader/update-dec2025#%F0%9F%8E%99%EF%B8%8F-podcast-transcripts-beta).
 
 ##### How do I save Twitter threads to Reader?
 
@@ -315,7 +389,7 @@ In Reader, you can find a the list of tags of all the tags you’ve used on the 
 
 ##### How do I find my tagged highlights?
 
-Right now we are deferring most highlight-based workflows to Readwise, so you can find your tagged highlights in Readwise here: <https://readwise.io/tags>. Over time, we intend to create a unified experience between Readwise and Reader in Reader.
+Right now we are deferring most highlight-based workflows to Readwise, so you can find your tagged highlights in Readwise here: <https://readwise.io/tags>.
 
 ##### How do I add multiple highlight tags or document tags in a row without closing the dialog?
 
@@ -344,10 +418,6 @@ You can also use this method to *merge* disparate highlights into a single highl
 ##### How do I quickly pull up all articles with a particular document tag?
 
 You can quickly pull up all documents with a particular document a couple different ways. First, you can always tap a document tag wherever it's shown in the user interface to navigate to a filtered view of that document tag. Second, you can go to the `Manage tags` page from the `Library` on web or, on mobile, you can tap the three horizontal lines in the top left of the **Library** tab and down to **Tags**. Finally, you can create a filtered view by tapping `Shift + F` on web and entering `tag:[tag-name]` (replace `[tag-name]` with the exact name of your tag).
-
-##### How do I find a list of my Readwise highlight tags inside Reader?
-
-Currently, you'll only see tags used within Reader inside Reader as opposed to tags already existing inside Readwise. Over time, we intend to create a unified Readwise and Reader experience within Reader.
 
 ##### How do I select multiple items to perform actions in bulk?
 
@@ -461,6 +531,20 @@ Currently, there is no way to find a list of all email newsletters you're subscr
 
 If you set up auto-forwarding from Gmail to your custom Reader email address, Reader will automatically "click" the link contained inside that email to confirm. If Gmail is still asking for a confirmation code to complete the auto-forwarding setup, Reader will email your Gmail address automatically with the code, which you can then enter into the auto-forwarding setup.
 
+##### What happens when I click Reader's "Unsubscribe" button for an email?
+
+Reader can't actually remove you from any external email lists, so instead it puts the sender on a list of blocked emails. This means that **any** email from that sender will be blocked, regardless of how it's being sent to Reader (e.g. directly subscribed or forwarded).
+
+If you'd like to stop receiving newsletters in Reader but would still like to be able to forward emails from that sender, we recommend using the newsletter's built-in unsubscribe option, which you can usually find at the bottom of the email content.
+
+Note that the newsletter's built-in unsubscribe button sometimes gets parsed out of Reader's clean text view. If you don't see the unsubscribe button for a particular email, try switching to original view. (See the **Can I view an email with its original formatting in Reader?** section below.)
+
+If you've used Reader's unsubcribe button but later decide you'd like to receive emails from that sender again, reach out to us at [hello@readwise.io](mailto:hello@readwise.io) and we'll be happy to resubscribe you! (It's on our to-do list to see about adding this to Reader's UI, but at the moment there's no way to do it from inside your account.)
+
+###### Are unsubscribed RSS feeds also added to the blocklist?"
+
+No. The RSS feed technology was created with this sort of use-case in mind, so subscribing and unsubscribing from RSS feeds works much more like how you would probably expect it to. You can unsubscribe from a feed to remove it, then use the same button to resubscribe at any time.
+
 ##### How can I subscribe to Substack newsletters in Reader?
 
 If the newsletter is free, you can subscribe via the RSS feed. The easiest way is to save any article from the Substack feed you’d like to subscribe to, then use the `Subscribe` button in the Info panel to add the feed. You can also add the feed manually in the **Add to Feed** dialogue (`shift + A`) using the URL generated by Substack, which will usually be `[newsletter-name].substack.com/feed/`, or by searching for the newsletter feed name.
@@ -468,6 +552,24 @@ If the newsletter is free, you can subscribe via the RSS feed. The easiest way i
 For newsletters with paid content, the RSS feed will only display the first paragraph or two. To get the full content, you can open the original article by pressing `O` on your keyboard. You can then save the page using the browser extension, which will bring the full content into your Reader Library.
 
 Alternatively, you can set up a forwarding rule to forward the paid newsletters from your email to Reader by using [your custom email address](https://read.readwise.io/add-to-feed).
+
+##### Can I view an email with its original formatting in Reader?
+
+By default, Reader parses email content into a clean, readable text view. However, if you would prefer to see the email the original sender's chosen styles, you can switch to "original view".
+
+On web or in the desktop app, click the document icon in the top left corner.
+
+![View original formatting of an email on web or desktop.](https://docs.readwise.io/images/email_clean-original-view_web.gif)
+On mobile, tap into the **More actions** (...) menu, then select **View original**.
+
+![View original formatting of an email on mobile.](https://docs.readwise.io/images/email-settings_view-og_mobile.png)
+##### How can I set the default view (text or original) for a particular email newsletter?
+
+Reader will remember whichever view you used last for a particular email sender. So if you previously switched to original view, it will open any other emails from that sender in original view as well.
+
+To change that sender's default back to text view, you can open an email from them and switch to text view. Then, any time you open emails from them in the future it should display in Reader's clean text view.
+
+This setting is saved to your account, not to your current device, so your view preferences for email senders will persist across devices and app sessions.
 
 #### Navigation 🧭
 
@@ -517,19 +619,38 @@ Note that bumped documents will only appear at the top while the list view is so
 
 ##### How do I use full-text search to find a particular document?
 
-Reader has blazingly fast, full-text offline search built-in by default on both web and mobile. Click the magnifying glass or use the keyboard shortcut `/` to begin searching the full-text of the document, its title, and its author.
+Reader has blazingly fast, full-text offline search that will search the full text of all your Library documents, as well as their titles and authors.
+
+On web, click the magnifying glass in the lower left or use the keyboard shortcut `/`, then type your search query.
+
+![Example of using full text search on web.](https://docs.readwise.io/images/search-example_web.gif)
+On mobile, tap **Search** in the app's bottom bar, then use the search field at the top of the page.
+
+![Example of using full text search on mobile.](https://docs.readwise.io/images/search-example_mobile.gif)
+**NOTE:** Currently, documents in your Feed aren't indexed for full-text search. However, moving a document to your Library (inbox, later, shortlist, or archive) will allow it to be indexed and subsequently make it searchable. For a workaround to search your Feed documents, check out the "How can I search my Feed documents" FAQ below.
 
 ##### How do I find specific text within a document?
 
-On web, you can find text within a document by using `Cmd/Ctrl + F`. On mobile, you can find text within a document by tapping the more menu (`...`) in the bottom right and choosing `Find in document`.
+On web or in the desktop app, you can search for text within a document by using `cmd/ctrl + F`.
 
+On mobile, you can find text within a document by tapping into the actions menu (`...`) in the bottom right and choosing `Find in document`.
+
+![Find In Document option in the Reader actions menu.](https://docs.readwise.io/images/find-in-document_mobile.png)
 ##### How do I filter my full-text searches?
 
-Currently, filtered views and full-text search are distinct features. That said, it's on our roadmap to merge the two features so you can use query or parameter-based subsetting as part of searching.
+Currently, filtered views and full-text search are distinct features. That said, it's on our roadmap to merge the two features and allow you to sort your search results or search within filtered views.
 
-##### How do I use full-text search to find a PDF?
+##### How can I search my Feed documents?
 
-Currently, the full-text of PDFs are not being indexed so matching PDFs will not appear in full-text search results yet. That said, it's on our roadmap to index PDFs and include those in search.
+Currently, documents in the Feed aren't indexed for search. However, this is something we've had requested a number of times and we are considering adding the option in the future.
+
+In the meantime, you can include a text search of the title field within a filtered view. So, to search for a document in your Feed, you could use a query like this:
+
+`feed:true AND title__contains:"search term"`
+
+This won't search the full content of the article, but it can still be a useful way to find specific documents in your Feed.
+
+You can use this same tactic to search your Feed based on any other available query parameter, such as the document's author or source domain. Check out the [query syntax guide](https://docs.readwise.io/reader/guides/filtering/syntax-guide) for a full list of available parameters!
 
 #### Parsing 📄
 
@@ -628,7 +749,7 @@ You can enable a "count badge" for any saved Filtered View. The badge will appea
 ![Show view count badge](https://s3.amazonaws.com/readwiseio/2024/01/show-count-badge_web.png)
 ##### How do I use filtered views?
 
-The best way to learn how to use Filtered Views is to watch our [Reader 202 walkthrough video on Filtered Views](https://readwise.io/reader202). You can reference all the different parameters that can be used with Filtered Views (including examples) from this [Filtered View guide](https://www.notion.so/readwise/Reader-Filtering-Guide-d4b249df2eaa492283099ec2a3551640).
+The best way to learn how to use Filtered Views is to watch our [Reader 202 walkthrough video on Filtered Views](https://readwise.io/reader202). You can reference all the different parameters that can be used with Filtered Views (including examples) from this [Filtered View guide](https://docs.readwise.io/reader/guides/filtering/syntax-guide).
 
 ##### How can I see all my tags?
 
@@ -710,7 +831,7 @@ Currently, highlights made in another PDF app will not be recognized as proper h
 
 ##### How do I highlight across pages inside a PDF?
 
-Without reflowing the PDF into plain text, there is no way to highlight across PDF pages in any app that we're aware of. That said, you can use Readwise's "[inline concatenation](https://blog.readwise.io/combine-highlights-on-the-fly/)" feature (see the Action Tags section above) to combine two disjointed highlights when they're imported into Readwise and before they're exported to your note-taking app.
+Without reflowing the PDF into plain text, there is no way to highlight across PDF pages in any app that we're aware of. That said, you can use Readwise's "[inline concatenation](https://docs.readwise.io/readwise/guides/action-tags#concatenation)" feature (see the Action Tags section above) to combine two disjointed highlights when they're imported into Readwise and before they're exported to your note-taking app.
 
 ##### How do I remove the random line breaks from highlights made in a PDF?
 
@@ -830,7 +951,9 @@ Yes! To change the language while listening, tap on the waveform icon at the lef
 
 ##### How do I export my highlights to my note-taking app such as Notion, Obsidian, Roam Research, Logseq, Evernote, etc?
 
-Reader is innately connected to Readwise so every highlight you make in Reader will instantly sync with Readwise and then from Readwise to your note-taking apps. Over time, we intend to create a unified experience within Reader.
+Reader is innately connected to Readwise so every highlight you make in Reader will instantly sync with Readwise and then from Readwise to your note-taking apps.
+
+To learn more about how to set up those export connections, check out the [Readwise export documentation here](https://docs.readwise.io/readwise/docs/exporting-highlights).
 
 ##### Can I export all of the highlights from a document at once?
 
@@ -957,24 +1080,24 @@ Still not sure where to start? Check out our [in-depth customization guide](http
 
 ##### How can I use a different GPT model?
 
-The default AI model (included with your Readwise subscription) is GPT-4.1 Mini. However, if you've entered your own OpenAI API key, you can change the AI model on any [custom Ghostreader prompts](https://read.readwise.io/preferences/ghostreader) to GPT-4.1, o3, or o4-mini. You can find the AI model dropdown in the bottom left corner:
+The default AI model (included with your Readwise subscription) is GPT-5 Mini. However, if you've entered your own OpenAI API key, you can change the AI model on any [custom Ghostreader prompts](https://read.readwise.io/preferences/ghostreader) to GPT-5, GPT-4.1, o3, or o4-mini. You can find the AI model dropdown in the bottom left corner:
 
 ![](https://docs.readwise.io/images/ghostreader-change-model.gif)
 ##### Do I need an OpenAI API key to enable auto-summarization of documents?
 
-No. Auto-summarization of documents saved to your library is included as part of your Readwise subscription. However, if you would like to enable auto-summarization of feed documents or use a better AI model than GPT-4.1 Mini, you will need to add your own key.
+No. Auto-summarization of documents saved to your library is included as part of your Readwise subscription. However, if you would like to enable auto-summarization of feed documents or use a better AI model than GPT-5 Mini, you will need to add your own key.
 
 ##### What happens if I add my own OpenAI API key?
 
 If you have your OpenAI key set up in the integration settings, it will automatically summarize all the docs coming into your feed (newsletters, RSS subscriptions, etc) in addition to the automatic summarizing of documents saved to your library.
 
-By default, the auto-summarization of library items will use GPT-4.1 Mini and will not use your OpenAI key. To change this, you can set the model per prompt on the [Ghostreader customization page](https://read.readwise.io/preferences/ghostreader). If you choose a higher-tier model, it will then use your OpenAI key.
+By default, the auto-summarization of library items will use GPT-5 Mini and will not use your OpenAI key. To change this, you can set the model per prompt on the [Ghostreader customization page](https://read.readwise.io/preferences/ghostreader). If you choose a higher-tier model, it will then use your OpenAI key.
 
 ##### Why do my automatic prompts sometimes turn themselves off or stop working?
 
 The most common cause of this behavior is that the OpenAI API key associated with your account doesn't have enough funds to cover the request. If you log into OpenAI's website and check your billing details, you should be able to see your [usage](https://platform.openai.com/usage) and [plan limits](https://platform.openai.com/settings/organization/limits) there.
 
-If your API key isn't funded, you can switch your Ghostreader model to GPT-4.1 Mini, which is included with your Reader subscription, or you can fund the OpenAI API key on their end.
+If your API key isn't funded, you can switch your Ghostreader model to GPT-5 Mini, which is included with your Reader subscription, or you can fund the OpenAI API key on their end.
 
 Once you've added funds to your OpenAI account, you can turn the automatic prompts back on from the [Ghostreader preferences page](https://read.readwise.io/preferences/ghostreader)
 
@@ -1045,7 +1168,7 @@ You can leave feedback from within Reader by using the Command Palette (`Cmd/Ctr
 
 ##### I have highlights in Readwise that I can't find in Reader. Where do I find all my previous highlights?
 
-Right now, you can think of Reader as another reading app that integrates with Readwse (albeit seamlessly). Every highlight you make in Reader instantly syncs with Readwise and then from Readwise to your note-taking apps. This integration, however, does not go the opposite direction. In other words, you won't find your Kindle highlights inside of Reader. Over time, we intend to create a unified experience within Reader.
+Right now, you can think of Reader as another reading app that integrates with Readwise (albeit seamlessly). Every highlight you make in Reader instantly syncs with Readwise and then from Readwise to your note-taking apps. This integration, however, does not go the opposite direction. In other words, you won't find your Kindle highlights inside of Reader.
 
 ##### How do I learn about the Reader public API?
 
@@ -1062,3 +1185,7 @@ Yes. The two apps share a database and all edits to highlights, notes, or the or
 ##### How do I find a roadmap or list of known issues so I don't report something you're already aware of or planning to build?
 
 Our Reader beta newsletter is a great resource to get some insight into what we're working on (you can even [subscribe via RSS](https://readwise-community.ghost.io/2defd8e965b87487102ef0c6db1880/rss/) to get the updates directly in Reader!). Also feel free to reach out via the in-app feedback or email ([hello@readwise.io](mailto:hello@readwise.io)) to ask us any specific question. In general, we don't mind receiving duplicate feedback because it helps us prioritize.
+
+##### Where can I find more information about how to use Reader?
+
+Our full help documentation lives at [docs.readwise.io](https://docs.readwise.io). There you can find all of these FAQs, as well as [feature guides](https://docs.readwise.io/reader/guides), [organization walkthroughs](http://docs.readwise.io/reader/docs/organizing-content), and more!

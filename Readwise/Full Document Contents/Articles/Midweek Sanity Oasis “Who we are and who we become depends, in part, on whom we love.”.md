@@ -1,13 +1,12 @@
-# Midweek Sanity Oasis: “Who we are and who we become depends, in part, on whom we love.”
+# Midweek Sanity Oasis: “Who We Are and Who We Become Depends, in Part, on Whom We Love.”
 
-![rw-book-cover](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/cropped-tm_site_icon-1.png?fit=192%2C192&ssl=1)
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
 - Author: [[The Marginalian by Maria Popova]]
-- Full Title: Midweek Sanity Oasis: “Who we are and who we become depends, in part, on whom we love.”
+- Full Title: Midweek Sanity Oasis: “Who We Are and Who We Become Depends, in Part, on Whom We Love.”
 - Category: #articles
 - Summary: Emotions act like musical notes: they sound, fade, and leave quiet echoes called moods. These echoes reshape our brains and make us see the world through past feelings. Love and close relationships can retune those emotional patterns and change who we become.
-- URL: mailto:reader-forwarded-email/5526fb81f76a74a697db675674daeb02
 
 ## Full Document
 NOTE: This newsletter might be cut short by your email program. [View it in full](https://mailchi.mp/themarginalian/limbic-revision?e=f6b8863c15).

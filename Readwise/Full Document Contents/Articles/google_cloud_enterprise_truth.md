@@ -6,6 +6,7 @@
 - Author: 
 - Full Title: google_cloud_enterprise_truth
 - Category: #articles
+- Summary: Google Cloud helps businesses make AI more accurate by grounding models in up-to-date enterprise data. Grounding reduces hallucinations and lets AI cite real sources like ERP, inventory, and documents. This enables reliable, personalized AI agents for customer service, analytics, and sensitive use cases.
 - URL: https://read.readwise.io/read/01jkdc46zf376nccy2mdh23fpk
 
 ## Full Document

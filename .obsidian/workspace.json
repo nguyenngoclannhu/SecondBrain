@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7129d39701347eb3",
+        "id": "9745c48697b13f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "2df52e3c3873abec",
+            "id": "2e8ff8db0c641905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
+                "file": "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!"
+              "title": "The Diary Of A CEO with Steven Bartlett"
+            }
+          },
+          {
+            "id": "162977b0cfcfe58a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,11 +280,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "ed2870dddd201341",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -292,36 +316,42 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2df52e3c3873abec",
+  "active": "ed2870dddd201341",
   "lastOpenFiles": [
-    "Readwise/Full Document Contents/Articles/Brands are busy romanticising 2016, but you have to be here for the best of marketing in 2026 so far.md",
-    "Readwise/Full Document Contents/Articles/Tom Brady-FTX 2.0.md",
-    "Readwise/Full Document Contents/Articles/String Theory Can Now Describe a Universe That Has Dark Energy Quanta Magazine.md",
-    "Readwise/Full Document Contents/Articles/If birds ran the world, notes on living through uncertainty, Emerson on how to touch the universe.md",
-    "Readwise/Full Document Contents/Articles/Google Ironwood TPU From Bits to HBM.md",
-    "Readwise/Podcasts/America’s War on Immigration.md",
-    "Readwise/Articles/The Biggest Myth About Aging, According to Science.md",
-    "Readwise/Full Document Contents/Articles/The Biggest Myth About Aging, According to Science.md",
-    "Pasted image 20260106155053.png",
-    "Readwise/Podcasts/Roxie Nafousi Struggle With Low Self-Worth & No Confidence.md",
-    "Readwise/Full Document Contents/Tweets/Much like the switch in 2025 from language models to....md",
-    "Readwise/Full Document Contents/Tweets",
-    "Readwise/Full Document Contents/Articles/Tivadar Danka, Sebastian Raschka, PhD, and Nathan Lambert posted new notes.md",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing Everything is an ad network, but AI agents are buying everything.md",
-    "Readwise/Full Document Contents/Articles/The Suck Is Why We’re Here.md",
-    "Readwise/Full Document Contents/Articles/String Theory Can Now Describe a Universe That Has Dark Energy.md",
-    "Readwise/Full Document Contents/Articles/Sourav Verma’s Post.md",
-    "Readwise/Full Document Contents/Articles/Prof. Tom Yeh, Cameron R. Wolfe, Ph.D., and Rich Holmes posted new notes.md",
-    "Readwise/Full Document Contents/Articles/No, Claude Code doesn’t need a better UI.md",
-    "Readwise/Full Document Contents/Articles/Marsha Blackburn How ICE Makes It Safer in Tennessee.md",
-    "Readwise/Full Document Contents/Articles/MHC Manifold-Constrained Hyper-Connections.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Google does Apple, OpenAI does ads, publishers do Google — What.md",
+    "Readwise/Podcasts/JAMES CAMERON Inside the Mind of One of the Most Iconic Filmmakers in History.md",
+    "Readwise/Full Document Contents/Articles/Kirk Shooting Suspect Held ‘Leftist Ideology,’ Utah Governor Says.md",
+    "Readwise/Full Document Contents/Articles/Carl Jung on the relationship between suffering and creativity; is peace possible; what it's like to be an owl.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-12.md",
     "Readwise/Full Document Contents/Articles/LTX-2 is a DiT-based foundation model with all core video generation capabilities in one unified model..md",
-    "Readwise/Full Document Contents/Articles/I wouldn't market to Gen-Z in 2026 without knowing these stats and insights.md",
-    "Readwise/Full Document Contents/Articles/I Uploaded My Entire Medical History to ChatGPT Health.md",
-    "Readwise/Full Document Contents/Articles/How Small Models Learn Tool Use.md",
-    "Readwise/Full Document Contents/Articles/ChatGPT Health Is Dancing Around HIPAA. Well Played, Sam!.md",
-    "Readwise/Full Document Contents/Articles/Building AI Agents, Open Code And Open Source.md",
-    "Readwise/Full Document Contents/Articles/Begin again, the trouble with love, how to see the light of the world.md",
+    "Readwise/Full Document Contents/Articles/Beloved children's book author Gianni Rodari on storytelling and creativity, Doris Lessing on writing, Pico Iyer on silence and the art of surrender.md",
+    "Readwise/Full Document Contents/Articles/Neo Kim (@systemdesignone) If you want to become good at system design (in 3 weeks), learn these case studies… 🧵 1. How Amazon S3 Achieves 99.999999999% Durability ↳ httpsnewsletter.systemdesign.onepamazon-s3-durability 2. How Google Docs Works ↳ htt.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Logan Thorneloe-2.md",
+    "Readwise/Full Document Contents/Articles/Efficient Estimation of Word Representations in Vector Space.md",
+    "Readwise/Full Document Contents/Articles/How to Stop Waiting and Start Living A Jolt from Henry James.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-11.md",
+    "Readwise/Full Document Contents/Articles/Writing the Book of Love, The Heart of the Andes and the Invention of Virtual Reality, the Art of Looking.md",
+    "Readwise/Full Document Contents/Articles/Annual Special Favorite Books of 2025-2.md",
+    "Readwise/Full Document Contents/Articles/Why We Ignore the Obvious The Psychology of Willful Blindness.md",
+    "Readwise/Full Document Contents/Articles/MCP Workbook.md",
+    "Readwise/Full Document Contents/Articles/How We Render Reality Attention as an Instrument of Love.md",
+    "Readwise/Full Document Contents/Articles/How to tell a truer love story, Jane Goodall on the indivisibility of art and science, John Burroughs on the mark of a great poem and a great person.md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis The Consolations of the Telescopic Perspective in Disorienting Times.md",
+    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Ruben Dominguez, and Tivadar Danka posted new notes.md",
+    "Readwise/Full Document Contents/Articles/Please confirm your subscription-3.md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis May Sarton's Stunning Poem about Being at Home in Yourself.md",
+    "Readwise/Full Document Contents/Articles/Annie Dillard on how to live, Alain de Botton on friendship, and a Gnostic gospel of wholeness.md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Oliver Sacks on the Healing Power of Gardens and Music.md",
+    "Readwise/Full Document Contents/Articles/Agent Hallucination by Hand ✍️.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok in USA, Anti-links Meta, Netflix vs. YouTube, and Hashtags.md",
+    "Readwise/Full Document Contents/Tweets",
+    "Readwise/Articles",
+    "Readwise/Full Document Contents/Articles",
+    "Readwise/Full Document Contents",
+    "Readwise/Podcasts",
+    "Readwise",
+    "Readwise/Books",
+    "Pasted image 20260106155053.png",
     "02-Areas/Education/Language Learning",
     "Pasted image 20260106160119.png",
     "Pasted image 20260106160014.png",
@@ -329,12 +359,6 @@
     "Pasted image 20260106155309.png",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
     "07-Archives/Documents/msa-rules-july-2024.pdf",
-    "msa-rules-july-2024.pdf",
-    "Untitled.base",
-    "Untitled 3.base",
-    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
-    "03-Resources/Media/Videos/History/Game science",
-    "Untitled 1.base",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

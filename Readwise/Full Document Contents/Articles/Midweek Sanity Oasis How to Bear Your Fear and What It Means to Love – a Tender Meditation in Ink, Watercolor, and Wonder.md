@@ -6,7 +6,7 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Midweek Sanity Oasis: How to Bear Your Fear and What It Means to Love – a Tender Meditation in Ink, Watercolor, and Wonder
 - Category: #articles
-- Summary: “What do you regard as the lowest depth of misery? ” the Proust Questionnaire asked David Bowie.
+- Summary: The text explores how fear and love coexist in life, drawing on reflections by thinkers like Hannah Arendt and artist Charlie Mackesy. It highlights Mackesy's book, which uses simple stories and art to show how friendship and kindness help us face fear. The message encourages embracing fear as part of living fully and finding meaning in the present moment.
 - URL: mailto:reader-forwarded-email/6c7dd1a522549c7632ac588dbd4a1580
 
 ## Full Document

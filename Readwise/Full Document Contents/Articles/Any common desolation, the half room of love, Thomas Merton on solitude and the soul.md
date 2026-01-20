@@ -6,7 +6,7 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Any common desolation, the half room of love, Thomas Merton on solitude and the soul
 - Category: #articles
-- Summary: The morning after a relationship of depth and significance long bending under the weight of its own complexity had finally broken with an exhausted thud, I opened the kiln to discover a month’s worth of pottery shattered — two pieces had exploded, the shrapnel ruining the rest.
+- Summary: Maria Popova celebrates Ellen Bass’s poem and Thomas Merton’s essay about solitude. Merton says true solitude is a humble, inward practice that renounces diversion and social illusions. Real solitude deepens sympathy and awakens responsibility for one’s inner life.
 - URL: mailto:reader-forwarded-email/4ca0e197a3cc92023475ade926f38188
 
 ## Full Document

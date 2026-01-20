@@ -6,10 +6,11 @@ tags:
   - goals
 media:
   - "[[podcasts]]"
-  - "[[The Diary Of A CEO with Steven Bartlett]]"
+  - notes
 cssclasses:
   - daily
   - tuesday
+  - "[[The Diary Of A CEO with Steven Bartlett]]"
 ---
 > Are you planning 2026 completely wrong? CHRIS WILLIAMSON, Modern Wisdom host, breaks down goal setting errors, procrastination psychology, stress overload, dating mistakes and the ONE strategy that works! Chris Williamson is the host of the Modern Wisdom podcast and a leading voice on men’s development, productivity and the challenges of modern life. He is also the creator of the 3 Minute Monday newsletter, where he shares weekly insights on discipline, focus and meaning.  
 > He explains:  ◼️
