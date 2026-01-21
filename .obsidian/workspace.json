@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9745c48697b13f4e",
+        "id": "7129d39701347eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8ff8db0c641905",
+            "id": "411b5db3bfc47e1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+                "file": "02-Areas/Education/Language Learning/Japanese resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Diary Of A CEO with Steven Bartlett"
+              "title": "Japanese resources"
             }
           },
           {
-            "id": "162977b0cfcfe58a",
+            "id": "2df52e3c3873abec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "02-Areas/Education/Language Learning/Japanese resources.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "Japanese resources"
             }
           }
         ],
@@ -285,7 +297,7 @@
             }
           },
           {
-            "id": "ed2870dddd201341",
+            "id": "154ad25838138e53",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -316,49 +328,49 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ed2870dddd201341",
+  "active": "2df52e3c3873abec",
   "lastOpenFiles": [
-    "Readwise/Full Document Contents/Articles/This Week in Marketing Google does Apple, OpenAI does ads, publishers do Google — What.md",
+    "Readwise/Full Document Contents/Articles/Midweek Pick-me-up Enchantment and the Courage of Joy René Magritte on the Antidote to the Banality of Pessimism.md",
+    "What.md",
+    "Readwise/Podcasts/Roxie Nafousi Struggle With Low Self-Worth & No Confidence.md",
+    "Readwise/Podcasts/Mini Myth Sisphyus & the Boulder, Sisyphus & the Boulder, Sisyphus & the Boulder-2.md",
+    "Readwise/Podcasts/MEL ROBBINS How to Stop People-Pleasing Without Feeling Guilty.md",
+    "Readwise/Podcasts/MATTHEW McConaughey The KEYS to a Meaningful Life.md",
     "Readwise/Podcasts/JAMES CAMERON Inside the Mind of One of the Most Iconic Filmmakers in History.md",
-    "Readwise/Full Document Contents/Articles/Kirk Shooting Suspect Held ‘Leftist Ideology,’ Utah Governor Says.md",
-    "Readwise/Full Document Contents/Articles/Carl Jung on the relationship between suffering and creativity; is peace possible; what it's like to be an owl.md",
-    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-12.md",
-    "Readwise/Full Document Contents/Articles/LTX-2 is a DiT-based foundation model with all core video generation capabilities in one unified model..md",
-    "Readwise/Full Document Contents/Articles/Beloved children's book author Gianni Rodari on storytelling and creativity, Doris Lessing on writing, Pico Iyer on silence and the art of surrender.md",
-    "Readwise/Full Document Contents/Articles/Neo Kim (@systemdesignone) If you want to become good at system design (in 3 weeks), learn these case studies… 🧵 1. How Amazon S3 Achieves 99.999999999% Durability ↳ httpsnewsletter.systemdesign.onepamazon-s3-durability 2. How Google Docs Works ↳ htt.md",
-    "Readwise/Full Document Contents/Articles/💬 New thread from Logan Thorneloe-2.md",
-    "Readwise/Full Document Contents/Articles/Efficient Estimation of Word Representations in Vector Space.md",
-    "Readwise/Full Document Contents/Articles/How to Stop Waiting and Start Living A Jolt from Henry James.md",
-    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-11.md",
-    "Readwise/Full Document Contents/Articles/Writing the Book of Love, The Heart of the Andes and the Invention of Virtual Reality, the Art of Looking.md",
-    "Readwise/Full Document Contents/Articles/Annual Special Favorite Books of 2025-2.md",
-    "Readwise/Full Document Contents/Articles/Why We Ignore the Obvious The Psychology of Willful Blindness.md",
-    "Readwise/Full Document Contents/Articles/MCP Workbook.md",
-    "Readwise/Full Document Contents/Articles/How We Render Reality Attention as an Instrument of Love.md",
-    "Readwise/Full Document Contents/Articles/How to tell a truer love story, Jane Goodall on the indivisibility of art and science, John Burroughs on the mark of a great poem and a great person.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis The Consolations of the Telescopic Perspective in Disorienting Times.md",
-    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Ruben Dominguez, and Tivadar Danka posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Please confirm your subscription-3.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis May Sarton's Stunning Poem about Being at Home in Yourself.md",
-    "Readwise/Full Document Contents/Articles/Annie Dillard on how to live, Alain de Botton on friendship, and a Gnostic gospel of wholeness.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Oliver Sacks on the Healing Power of Gardens and Music.md",
-    "Readwise/Full Document Contents/Articles/Agent Hallucination by Hand ✍️.md",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok in USA, Anti-links Meta, Netflix vs. YouTube, and Hashtags.md",
+    "Readwise/Podcasts/Chris Williamson If You Don't Fix This Now, 2026 Is Already Over!.md",
+    "Readwise/Podcasts/Bellerophon, the Underserved Hero Who Actually Rode Pegasus-2.md",
+    "Readwise/Podcasts/America’s War on Immigration.md",
+    "Readwise/Full Document Contents/Tweets/Much like the switch in 2025 from language models to....md",
     "Readwise/Full Document Contents/Tweets",
-    "Readwise/Articles",
-    "Readwise/Full Document Contents/Articles",
-    "Readwise/Full Document Contents",
-    "Readwise/Podcasts",
-    "Readwise",
-    "Readwise/Books",
-    "Pasted image 20260106155053.png",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-9.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-8.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-7.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-6.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-5.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-4.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-3.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-12.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-11.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-10.md",
+    "Readwise/Full Document Contents/Articles/💬 New thread from Logan Thorneloe-2.md",
+    "Readwise/Full Document Contents/Articles/You Don’t Need to Spend $100mo on Claude Code Your Guide to Local Coding Models.md",
+    "Readwise/Full Document Contents/Articles/Tom Brady-FTX 2.0.md",
+    "Readwise/Full Document Contents/Articles/Tivadar Danka, Sebastian Raschka, PhD, and Nathan Lambert posted new notes.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Instagram’s Reality-Check vs. Elon Musk’s Pornography Machine.md",
     "02-Areas/Education/Language Learning",
     "Pasted image 20260106160119.png",
     "Pasted image 20260106160014.png",
     "Pasted image 20260106155553.png",
     "Pasted image 20260106155309.png",
+    "Pasted image 20260106155053.png",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
     "07-Archives/Documents/msa-rules-july-2024.pdf",
+    "msa-rules-july-2024.pdf",
+    "Untitled.base",
+    "Untitled 3.base",
+    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
+    "03-Resources/Media/Videos/History/Game science",
+    "Untitled 1.base",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
