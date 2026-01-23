@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
+                "file": "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!"
+              "title": "29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!"
+            }
+          },
+          {
+            "id": "59f47bc48f734bcd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -416,6 +426,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "c12a9fb9dc02f53a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "6908886b6e1597f5",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -439,10 +469,13 @@
   },
   "active": "f9268b7bc19f3919",
   "lastOpenFiles": [
+    "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
+    "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md",
+    "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
+    "Readwise/Podcasts/Jahnavi How to Create Inner Calm When Life Feels Overwhelming.md",
+    "Readwise/Podcasts/Jaspreet Singh Why Most People Stay Broke.md",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
     "Untitled 1.base",
-    "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
-    "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md",
     "Untitled.base",
     "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
     "Readwise/Full Document Contents/Articles/My 2026 resolution a weekly AI seminar — for everyone.md",
@@ -464,9 +497,6 @@
     "Readwise/Full Document Contents/Articles/Annual Special Favorite Books of 2025.md",
     "Readwise/Articles/Congress Just Ordered the Clintons to Face Epstein Depositions. Here’s When They’ll Be Grilled..md",
     "Readwise/Articles/Obamacare Is a Disaster. Could Trump’s Plan Fix It.md",
-    "07-Archives/Tags/Literature and History.md",
-    "07-Archives/Tags/Eastern Psychology.md",
-    "Readwise/Full Document Contents/Articles/You Don’t Need to Spend $100mo on Claude Code Your Guide to Local Coding Models.md",
     "Untitled 3.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Videos/History/Game science",

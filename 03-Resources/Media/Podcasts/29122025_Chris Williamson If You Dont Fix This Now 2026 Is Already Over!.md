@@ -11,7 +11,7 @@ cssclasses:
   - daily
   - tuesday
 ---
-> Are you planning 2026 completely wrong? CHRIS WILLIAMSON, Modern Wisdom host, breaks down goal setting errors, procrastination psychology, stress overload, dating mistakes and the ONE strategy that works! Chris Williamson is the host of the Modern Wisdom podcast and a leading voice on men’s development, productivity and the challenges of modern life. He is also the creator of the 3 Minute Monday newsletter, where he shares weekly insights on discipline, focus and meaning.  
+	`> Are you planning 2026 completely wrong? CHRIS WILLIAMSON, Modern Wisdom host, breaks down goal setting errors, procrastination psychology, stress overload, dating mistakes and the ONE strategy that works! Chris Williamson is the host of the Modern Wisdom podcast and a leading voice on men’s development, productivity and the challenges of modern life. He is also the creator of the 3 Minute Monday newsletter, where he shares weekly insights on discipline, focus and meaning.  
 > He explains:  ◼️
 > Why your goals keep failing you no matter how motivated you feel ◼️
 > The SINGLE question that decides if 2026 is a breakout year ◼️
@@ -38,7 +38,10 @@ cssclasses:
 		- Chris's morning is unproductive.
 		- Not spend quality with friends. 
 	- [00:10:04](obsidian://podnotes?episodeName=Chris+Williamson%3A+If+You+Don%27t+Fix+This+Now%2C+2026+Is+Already+Over%21&url=https%3A%2F%2Frss2.flightcast.com%2Fxmsftuzjjykcmqwolaqn6mdn&time=604.747633): If your life was a movie, and other people is the audience, what would they be screaming at the screen?
+		- What would you have to do to feel success?
 - 12:11 The Real Thing You Should Be Doing 
+	- [00:11:29](obsidian://podnotes?episodeName=Chris+Williamson%3A+If+You+Don%27t+Fix+This+Now%2C+2026+Is+Already+Over%21&url=https%3A%2F%2Frss2.flightcast.com%2Fxmsftuzjjykcmqwolaqn6mdn&time=689.1883757376557): We have a more simple goals
+	- 
 - 19:18 The Idea That "I Will Be Enough When..." 
 - 20:13 How to Find Success 
 - 23:22 The Hidden and Hurtful Metrics of Success 
