@@ -1,11 +1,11 @@
 {
   "token": "r56g1W1tYjmALXDy2Z5tRkQV4L8z4YFttSfNyHi2IN37wmYBNV",
   "readwiseDir": "Readwise",
-  "frequency": "0",
+  "frequency": "1440",
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 24083702,
+  "lastSavedStatusID": 24136661,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -400,7 +400,15 @@
     "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-12.md": "readerdocument:01kbda28j73pt8h6x7096svhy1",
     "Readwise/Full Document Contents/Articles/Carl Jung on the relationship between suffering and creativity; is peace possible; what it's like to be an owl.md": "readerdocument:01jw28rhyrbgwbt4sq4d6x7bvb",
     "Readwise/Podcasts/JAMES CAMERON Inside the Mind of One of the Most Iconic Filmmakers in History.md": "57717633",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing Google does Apple, OpenAI does ads, publishers do Google — What.md": "readerdocument:01kfb50rdw1bg7dstsc6z81e01"
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Google does Apple, OpenAI does ads, publishers do Google — What.md": "readerdocument:01kfb50rdw1bg7dstsc6z81e01",
+    "Readwise/Podcasts/Jaspreet Singh Why Most People Stay Broke.md": "57742629",
+    "Readwise/Full Document Contents/Articles/Polymer Electrospinning for Soft Tissue Repair Neotherix.md": "readerdocument:01kfe6v5gh53605hd9g639a4cf",
+    "Readwise/Full Document Contents/Articles/Polymer Electrospinning for Soft Tissue Repair Neotherix-2.md": "readerdocument:01kfe6v5fwk9wvgddh1eh9kpa7",
+    "Readwise/Full Document Contents/Articles/The Architect New Open Source Tool from the AI by Hand Lab.md": "readerdocument:01kfeqq9eefhg680y9awmg4b6d",
+    "Readwise/Full Document Contents/Articles/Representation Learning A Deep Dive Into Modern Deep Learning Techniques.md": "57779232",
+    "Readwise/Articles/Representation Learning A Deep Dive Into Modern Deep Learning Techniques.md": "57779232",
+    "Readwise/Full Document Contents/Articles/AI’s Economic Impact Is Real AI for Software Engineers 78.md": "readerdocument:01kfkbxwpw4pv06n5v4qzpgp8w",
+    "Readwise/Full Document Contents/Articles/Modern Neighborhood Components Analysis A Deep Tabular Baseline Two Decades Later.md": "readerdocument:01kfmd9x80a7xvmhrtwsrx6v9v"
   },
   "reimportShowConfirmation": true
 }

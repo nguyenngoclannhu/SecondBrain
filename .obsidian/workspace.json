@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9745c48697b13f4e",
+        "id": "b30ad99c743b27bf",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8ff8db0c641905",
+            "id": "bd2b4975b33f0623",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+                "file": "Readwise/Full Document Contents/Articles/Modern Neighborhood Components Analysis A Deep Tabular Baseline Two Decades Later.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Diary Of A CEO with Steven Bartlett"
-            }
-          },
-          {
-            "id": "162977b0cfcfe58a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Modern Neighborhood Components Analysis A Deep Tabular Baseline Two Decades Later"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,8 +303,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ed2870dddd201341",
+  "active": "bd2b4975b33f0623",
   "lastOpenFiles": [
+    "Readwise/Full Document Contents/Articles/Modern Neighborhood Components Analysis A Deep Tabular Baseline Two Decades Later.md",
+    "Readwise/Articles/Representation Learning A Deep Dive Into Modern Deep Learning Techniques.md",
+    "Readwise/Full Document Contents/Articles/AI’s Economic Impact Is Real AI for Software Engineers 78.md",
+    "Readwise/Full Document Contents/Articles/Representation Learning A Deep Dive Into Modern Deep Learning Techniques.md",
+    "07-Archives/Tags/On Purpose with Jay Shetty.md",
+    "03-Resources/Media/Podcasts/22092025_Dr. K Feeling Lost in Your 20s or 30s (THIS Mindset Shift Will Help You Find Direction  Purpose).md",
+    "07-Archives/Tags/On Purpose - Jay Shetty.md",
+    "Readwise/Podcasts/MEL ROBBINS How to Stop People-Pleasing Without Feeling Guilty.md",
+    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+    "Readwise/Full Document Contents/Articles/The Architect New Open Source Tool from the AI by Hand Lab.md",
+    "Readwise/Full Document Contents/Articles/Polymer Electrospinning for Soft Tissue Repair Neotherix-2.md",
+    "Readwise/Full Document Contents/Articles/Polymer Electrospinning for Soft Tissue Repair Neotherix.md",
+    "Readwise/Podcasts/Jaspreet Singh Why Most People Stay Broke.md",
     "Readwise/Full Document Contents/Articles/This Week in Marketing Google does Apple, OpenAI does ads, publishers do Google — What.md",
     "Readwise/Podcasts/JAMES CAMERON Inside the Mind of One of the Most Iconic Filmmakers in History.md",
     "Readwise/Full Document Contents/Articles/Kirk Shooting Suspect Held ‘Leftist Ideology,’ Utah Governor Says.md",
@@ -331,19 +331,6 @@
     "Readwise/Full Document Contents/Articles/How to Stop Waiting and Start Living A Jolt from Henry James.md",
     "Readwise/Full Document Contents/Articles/💬 New thread from Sergei Polevikov-11.md",
     "Readwise/Full Document Contents/Articles/Writing the Book of Love, The Heart of the Andes and the Invention of Virtual Reality, the Art of Looking.md",
-    "Readwise/Full Document Contents/Articles/Annual Special Favorite Books of 2025-2.md",
-    "Readwise/Full Document Contents/Articles/Why We Ignore the Obvious The Psychology of Willful Blindness.md",
-    "Readwise/Full Document Contents/Articles/MCP Workbook.md",
-    "Readwise/Full Document Contents/Articles/How We Render Reality Attention as an Instrument of Love.md",
-    "Readwise/Full Document Contents/Articles/How to tell a truer love story, Jane Goodall on the indivisibility of art and science, John Burroughs on the mark of a great poem and a great person.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis The Consolations of the Telescopic Perspective in Disorienting Times.md",
-    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Ruben Dominguez, and Tivadar Danka posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Please confirm your subscription-3.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis May Sarton's Stunning Poem about Being at Home in Yourself.md",
-    "Readwise/Full Document Contents/Articles/Annie Dillard on how to live, Alain de Botton on friendship, and a Gnostic gospel of wholeness.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Oliver Sacks on the Healing Power of Gardens and Music.md",
-    "Readwise/Full Document Contents/Articles/Agent Hallucination by Hand ✍️.md",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok in USA, Anti-links Meta, Netflix vs. YouTube, and Hashtags.md",
     "Readwise/Full Document Contents/Tweets",
     "Readwise/Articles",
     "Readwise/Full Document Contents/Articles",
