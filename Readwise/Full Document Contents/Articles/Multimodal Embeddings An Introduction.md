@@ -1,4 +1,4 @@
-
+# Multimodal Embeddings: An Introduction
 
 ![rw-book-cover](https://towardsdatascience.com/wp-content/uploads/2024/11/1a6BF-kEeo8rd7OW2a3JYGA.png)
 
@@ -6,7 +6,7 @@
 - Author: [[Shaw Talebi]]
 - Full Title: Multimodal Embeddings: An Introduction
 - Category: #articles
-- Document Tags: [[ai]] [[Inbox]] [[papers]] [[multimodal embeddng]] 
+- Document Tags: [[ai]] [[inbox]] [[papers]] [[multimodal embeddng]] 
 - Summary: Multimodal embeddings map different data types (like text and images) into a shared vector space so similar concepts sit close together. Contrastive learning (e.g., CLIP) aligns these embeddings without heavy labeling, enabling tasks like 0-shot image classification and image search. These embeddings let models handle many modality combinations and enable multimodal retrieval for LLMs.
 - URL: https://towardsdatascience.com/multimodal-embeddings-an-introduction-5dc36975966f/
 

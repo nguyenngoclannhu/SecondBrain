@@ -6,7 +6,7 @@
 - Author: [[Maria Popova]]
 - Full Title: Diane Ackerman on the Evolutionary and Existential Purpose of Deep Play
 - Category: #articles
-- Document Tags: [[themarginalian]] [[The Marginalian by Maria Popova]]
+- Document Tags: [[themarginalian]] 
 - Summary: Diane Ackerman’s Deep Play explores a special kind of play that brings clarity, wonder, and a sense of sacred presence. She argues play is essential to evolution, learning, and creativity, not just a pastime. Deep play—found in art, risk, religion, and nature—lets us shed the self and live fully in the present.
 - URL: https://www.themarginalian.org/2016/08/04/diane-ackerman-deep-play/?mc_cid=ca7335bc98&mc_eid=f6b8863c15
 

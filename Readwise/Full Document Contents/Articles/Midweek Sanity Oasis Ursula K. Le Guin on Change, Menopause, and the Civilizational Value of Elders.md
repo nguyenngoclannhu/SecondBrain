@@ -6,7 +6,7 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Midweek Sanity Oasis: Ursula K. Le Guin on Change, Menopause, and the Civilizational Value of Elders
 - Category: #articles
-- Summary: We know that “to every thing there is a season,” that everything changes, everything passes, transitions from one state to another, from one stage to another — and yet, in our irrational longing for permanence, we try and try to hedge against change, denounce it as deterioration, dread it as a prelude to death.
+- Summary: Ursula K. Le Guin celebrates change and calls menopause a rebirth. She argues that elders, especially ordinary older women, hold deep wisdom shaped by a lifetime of small, meaningful work. Society should value that lived wisdom instead of idolizing youth alone.
 - URL: mailto:reader-forwarded-email/e2e2680c0645aa3fdfff1996d66b96f7
 
 ## Full Document

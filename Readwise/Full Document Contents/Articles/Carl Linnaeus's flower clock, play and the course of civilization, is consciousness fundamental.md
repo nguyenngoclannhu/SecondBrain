@@ -6,7 +6,9 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Carl Linnaeus's flower clock, play and the course of civilization, is consciousness fundamental?
 - Category: #articles
-- Summary: The necessities of survival make our lives livable, but everything that makes them worth living partakes of the art of the unnecessary: beauty (the cave was no warmer or safer for our paintings, and what about the bowerbird?
+- Summary: Play and art reveal a human capacity beyond mere reason.  
+Consciousness may be the basic stuff of reality, with many forms of experience all around us.  
+Seeing nature, time, and mind as connected helps us remember we are part of a larger whole.
 - URL: mailto:reader-forwarded-email/de89d0c5eb6502f4d77ceb96a4309e25
 
 ## Full Document

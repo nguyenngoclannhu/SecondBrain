@@ -6,7 +6,7 @@
 - Author: [[The Marginalian by Maria Popova]]
 - Full Title: Carl Jung on creativity, Simone de Beauvoir on love and friendship, and a burst of joy
 - Category: #articles
-- Summary: But despite what a crucible of our emotional and spiritual lives relationships are — or perhaps precisely because of it — they can be riddling and nebulous, destabilizing in their fluidity and ambiguity, leaving us grasping for the comforting solidity of categories and labels.
+- Summary: Simone de Beauvoir shows how deep friendship can shape who we become and rival romantic love. Carl Jung argues creativity springs from the unconscious and channels a collective, impersonal source. True art blends personal experience with a larger human voice and often brings inner conflict.
 - URL: mailto:reader-forwarded-email/f26bf50c1109d507520994ec47799360
 
 ## Full Document
