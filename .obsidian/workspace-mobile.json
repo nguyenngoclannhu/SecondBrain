@@ -446,6 +446,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ea789ad2c310c953",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -467,8 +477,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f9268b7bc19f3919",
+  "active": "ea789ad2c310c953",
   "lastOpenFiles": [
+    "Readwise/Full Document Contents/Articles/Meta Superintelligence Labs vs Facebook AI Research.md",
+    "Readwise/Full Document Contents/Articles/How not to be a victim of time, the purest definition of love and the key to lasting relationships, what it's like to touch the bottom of the world.md",
+    "Readwise/Full Document Contents/Articles/Cameron R. Wolfe, Ph.D., Sebastian Raschka, PhD, and Devansh posted new notes.md",
+    "Readwise/Full Document Contents/Articles/Is Particle Physics Dead, Dying, or Just Hard.md",
+    "Readwise/Full Document Contents/Articles/Brands are keeping celebrity culture alive, questioning role of politics, and the vibe shift.md",
+    "Readwise/Podcasts/The Man Warning the West Trump Is Changing the World Behind the Scenes!.md",
+    "Readwise/Articles/Justice Department Releases Millions More Epstein Files.md",
+    "Readwise/Full Document Contents/Articles/Justice Department Releases Millions More Epstein Files.md",
     "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
     "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md",
     "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
@@ -489,14 +507,6 @@
     "Readwise/Full Document Contents/Articles/Ruben Dominguez, Cameron R. Wolfe, Ph.D., and Devansh posted new notes.md",
     "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis The First and Final Truth of Life.md",
     "Readwise/Full Document Contents/Articles/Prof. Tom Yeh, Cameron R. Wolfe, Ph.D., and Ruben Dominguez posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Obamacare Is a Disaster. Could Trump’s Plan Fix It.md",
-    "Readwise/Full Document Contents/Articles/Gated Attention ~ NeurIPS 2025 Best Paper.md",
-    "Readwise/Full Document Contents/Articles/The week that changed luxury fashion a final call for the best and worst of marketing..md",
-    "Readwise/Full Document Contents/Articles/How to love the world more, what it's like to meet an orca, how not to be a victim of success.md",
-    "Readwise/Full Document Contents/Articles/Brands are acting strange this Christmas. Something wicked is going on… and it’s bigger than the Las Vegas Sphere!.md",
-    "Readwise/Full Document Contents/Articles/Annual Special Favorite Books of 2025.md",
-    "Readwise/Articles/Congress Just Ordered the Clintons to Face Epstein Depositions. Here’s When They’ll Be Grilled..md",
-    "Readwise/Articles/Obamacare Is a Disaster. Could Trump’s Plan Fix It.md",
     "Untitled 3.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Videos/History/Game science",
