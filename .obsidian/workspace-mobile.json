@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
-                "mode": "source",
+                "file": "Readwise/Full Document Contents/Articles/How to See More Clearly and Love More Purely Iris Murdoch on the Angst of Not Knowing Ourselves and Each Other.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
                   "extraContext": false,
-                  "sortOrder": "alphabetical",
+                  "sortOrder": "byCreatedTime",
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!"
+              "title": "How to See More Clearly and Love More Purely Iris Murdoch on the Angst of Not Knowing Ourselves and Each Other"
             }
           },
           {
@@ -456,6 +456,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b52398d9fe8afd26",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "69e6624b304d4b4c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -477,8 +497,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ea789ad2c310c953",
+  "active": "f9268b7bc19f3919",
   "lastOpenFiles": [
+    "Readwise/Full Document Contents/Articles/PPO Clipped Policy Loss Algorithm.md",
+    "Readwise/Full Document Contents/Articles/What you should know about AI speculation.md",
+    "Readwise/Full Document Contents/Articles/Midweek Pick-me-up The Great Blue Heron, Signs vs. Omens, and Our Search for Meaning.md",
+    "Readwise/Full Document Contents/Articles/Long-Sought Proof Tames Some of Math’s Unruliest Equations.md",
+    "Readwise/Full Document Contents/Articles/Sleep and the meaning of life, how to be a star student of the world, the bittersweet true love story behind 'Frankenstein'.md",
+    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Charlie Guo, and Stephen Gruppetta posted new notes.md",
+    "Readwise/Full Document Contents/Articles/Today Is Doximity’s Worst Stock Market Day. By a Wide Margin..md",
+    "Readwise/Full Document Contents/Articles/The Brand Savior Complex and the New Age of Self Censorship.md",
+    "07-Archives/Tags/The Marginalian by Maria Popova.md",
+    "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
     "Readwise/Full Document Contents/Articles/Meta Superintelligence Labs vs Facebook AI Research.md",
     "Readwise/Full Document Contents/Articles/How not to be a victim of time, the purest definition of love and the key to lasting relationships, what it's like to touch the bottom of the world.md",
     "Readwise/Full Document Contents/Articles/Cameron R. Wolfe, Ph.D., Sebastian Raschka, PhD, and Devansh posted new notes.md",
@@ -487,7 +517,6 @@
     "Readwise/Podcasts/The Man Warning the West Trump Is Changing the World Behind the Scenes!.md",
     "Readwise/Articles/Justice Department Releases Millions More Epstein Files.md",
     "Readwise/Full Document Contents/Articles/Justice Department Releases Millions More Epstein Files.md",
-    "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
     "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md",
     "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
     "Readwise/Podcasts/Jahnavi How to Create Inner Calm When Life Feels Overwhelming.md",
@@ -498,15 +527,6 @@
     "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
     "Readwise/Full Document Contents/Articles/My 2026 resolution a weekly AI seminar — for everyone.md",
     "Readwise/Full Document Contents/Articles/A Spell Against Stagnation John O'Donohue on Beginnings.md",
-    "Readwise/Full Document Contents/Articles/AI for Software Engineers Looking Forward to 2026.md",
-    "Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
-    "Readwise/Full Document Contents/Articles/Why Healthcare AI Is 20 Years Behind.md",
-    "Readwise/Full Document Contents/Articles/Day 52 Memory Management Optimization.md",
-    "Readwise/Full Document Contents/Articles/RLHF PPO Blueprint.md",
-    "Readwise/Full Document Contents/Articles/Congress Just Ordered the Clintons to Face Epstein Depositions. Here’s When They’ll Be Grilled..md",
-    "Readwise/Full Document Contents/Articles/Ruben Dominguez, Cameron R. Wolfe, Ph.D., and Devansh posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis The First and Final Truth of Life.md",
-    "Readwise/Full Document Contents/Articles/Prof. Tom Yeh, Cameron R. Wolfe, Ph.D., and Ruben Dominguez posted new notes.md",
     "Untitled 3.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Videos/History/Game science",

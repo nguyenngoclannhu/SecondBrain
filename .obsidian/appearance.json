@@ -8,5 +8,7 @@
   "theme": "obsidian",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true
 }

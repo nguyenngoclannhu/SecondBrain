@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 24281991,
+  "lastSavedStatusID": 24692942,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -285,7 +285,15 @@
     "Readwise/Full Document Contents/Articles/Is Particle Physics Dead, Dying, or Just Hard.md": "readerdocument:01kg7tbmrhf0cknpybdfy167e3",
     "Readwise/Full Document Contents/Articles/Cameron R. Wolfe, Ph.D., Sebastian Raschka, PhD, and Devansh posted new notes.md": "readerdocument:01kg97v7kdwaz93q49yb8rpekc",
     "Readwise/Full Document Contents/Articles/How not to be a victim of time, the purest definition of love and the key to lasting relationships, what it's like to touch the bottom of the world.md": "readerdocument:01kgb4kwv55k0f5pz402aw2f4q",
-    "Readwise/Full Document Contents/Articles/Meta Superintelligence Labs vs Facebook AI Research.md": "readerdocument:01kg7xz4km2e6fqw7501egjnac"
+    "Readwise/Full Document Contents/Articles/Meta Superintelligence Labs vs Facebook AI Research.md": "readerdocument:01kg7xz4km2e6fqw7501egjnac",
+    "Readwise/Full Document Contents/Articles/The Brand Savior Complex and the New Age of Self Censorship.md": "readerdocument:01kgx2ckvybkmk916abejgzt5z",
+    "Readwise/Full Document Contents/Articles/Today Is Doximity’s Worst Stock Market Day. By a Wide Margin..md": "readerdocument:01kgsd6496dwcq5623aaa0s0rb",
+    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Charlie Guo, and Stephen Gruppetta posted new notes.md": "readerdocument:01kgty79f8617jyee8379sxp7m",
+    "Readwise/Full Document Contents/Articles/Sleep and the meaning of life, how to be a star student of the world, the bittersweet true love story behind 'Frankenstein'.md": "readerdocument:01kgx5m1x4p85bhy3v8798g5ja",
+    "Readwise/Full Document Contents/Articles/Long-Sought Proof Tames Some of Math’s Unruliest Equations.md": "readerdocument:01kgsv6vejh79k0mmczv4mjxhs",
+    "Readwise/Full Document Contents/Articles/Midweek Pick-me-up The Great Blue Heron, Signs vs. Omens, and Our Search for Meaning.md": "readerdocument:01kja8zyqhbjqx03y6g6zsd96b",
+    "Readwise/Full Document Contents/Articles/What you should know about AI speculation.md": "readerdocument:01kj88x9cze735md7qwbfhf7xf",
+    "Readwise/Full Document Contents/Articles/PPO Clipped Policy Loss Algorithm.md": "readerdocument:01kjan5kf1ma5sjqbn9g4smyp2"
   },
   "reimportShowConfirmation": true
 }
