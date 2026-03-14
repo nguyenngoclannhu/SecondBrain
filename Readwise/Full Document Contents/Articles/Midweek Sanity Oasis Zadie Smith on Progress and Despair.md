@@ -283,3 +283,5 @@ Hello daren solaris! This is the midweek edition of <a href="https://themarginal
 </table></td></tr></table>
 </center>
 </div>
+
+https://mailchi.mp/themarginalian/optimism-despair-2692117?e=f6b8863c15

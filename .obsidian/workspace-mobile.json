@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readwise/Full Document Contents/Articles/How to See More Clearly and Love More Purely Iris Murdoch on the Angst of Not Knowing Ourselves and Each Other.md",
-                "mode": "preview",
+                "file": "03-Resources/Media/Podcasts/11092025_Ray Dalio We’re Heading Into Very Very Dark Times! America The UK’s Decline Is Coming!.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,17 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to See More Clearly and Love More Purely Iris Murdoch on the Angst of Not Knowing Ourselves and Each Other"
+              "title": "11092025_Ray Dalio We’re Heading Into Very Very Dark Times! America The UK’s Decline Is Coming!"
             }
           },
           {
-            "id": "59f47bc48f734bcd",
+            "id": "ec8642945bffc243",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Zadie Smith on Progress and Despair.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "byModifiedTime",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Midweek Sanity Oasis Zadie Smith on Progress and Despair"
             }
           }
         ]
@@ -476,6 +490,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "84198036684b3c83",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -499,34 +523,34 @@
   },
   "active": "f9268b7bc19f3919",
   "lastOpenFiles": [
-    "Readwise/Full Document Contents/Articles/PPO Clipped Policy Loss Algorithm.md",
-    "Readwise/Full Document Contents/Articles/What you should know about AI speculation.md",
-    "Readwise/Full Document Contents/Articles/Midweek Pick-me-up The Great Blue Heron, Signs vs. Omens, and Our Search for Meaning.md",
-    "Readwise/Full Document Contents/Articles/Long-Sought Proof Tames Some of Math’s Unruliest Equations.md",
-    "Readwise/Full Document Contents/Articles/Sleep and the meaning of life, how to be a star student of the world, the bittersweet true love story behind 'Frankenstein'.md",
-    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Charlie Guo, and Stephen Gruppetta posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Today Is Doximity’s Worst Stock Market Day. By a Wide Margin..md",
-    "Readwise/Full Document Contents/Articles/The Brand Savior Complex and the New Age of Self Censorship.md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Zadie Smith on Progress and Despair.md",
+    "03-Resources/Media/Podcasts/11092025_Ray Dalio We’re Heading Into Very Very Dark Times! America The UK’s Decline Is Coming!.md",
+    "Readwise/Podcasts/How to Increase Your Emotional Intelligence Dr. Marc Brackett.md",
+    "Readwise/Full Document Contents/Articles/The Man Who Stole Infinity.md",
+    "Readwise/Full Document Contents/Articles/Carl Jung on the relationship between suffering and creativity; is peace possible; what it's like to be an owl.md",
+    "Readwise/Articles/Midweek Sanity Oasis “Who We Are and Who We Become Depends, in Part, on Whom We Love.”.md",
     "07-Archives/Tags/The Marginalian by Maria Popova.md",
-    "03-Resources/Media/Podcasts/29122025_Chris Williamson If You Dont Fix This Now 2026 Is Already Over!.md",
-    "Readwise/Full Document Contents/Articles/Meta Superintelligence Labs vs Facebook AI Research.md",
-    "Readwise/Full Document Contents/Articles/How not to be a victim of time, the purest definition of love and the key to lasting relationships, what it's like to touch the bottom of the world.md",
-    "Readwise/Full Document Contents/Articles/Cameron R. Wolfe, Ph.D., Sebastian Raschka, PhD, and Devansh posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Is Particle Physics Dead, Dying, or Just Hard.md",
-    "Readwise/Full Document Contents/Articles/Brands are keeping celebrity culture alive, questioning role of politics, and the vibe shift.md",
-    "Readwise/Podcasts/The Man Warning the West Trump Is Changing the World Behind the Scenes!.md",
-    "Readwise/Articles/Justice Department Releases Millions More Epstein Files.md",
-    "Readwise/Full Document Contents/Articles/Justice Department Releases Millions More Epstein Files.md",
-    "Readwise/Podcasts/Harvard’s Behaviour Expert The Psychology of Why People Don't Like You!.md",
-    "03-Resources/Media/Podcasts/15122025_Harvard’s Behaviour Expert The Psychology Of Why People Dont Like You!.md",
-    "Readwise/Podcasts/Jahnavi How to Create Inner Calm When Life Feels Overwhelming.md",
-    "Readwise/Podcasts/Jaspreet Singh Why Most People Stay Broke.md",
-    "03-Resources/Media/Videos/History/Game science/Black Myth Wukong/Media Note - Giải Thích Cốt Truyện BLACK MYTH_ WUKONG (Phần 3).md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Trauma, Growth, and How to Be Twice as Alive — Tove Jansson on the Worm and the Art of Self-Renewal.md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Necessary Losses and the Life-shaping Art of Letting Go.md",
+    "Readwise/Full Document Contents/Articles/Day 52 Memory Management Optimization.md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Grace Paley on the Art of Growing Older.md",
+    "Readwise/Full Document Contents/Articles/Midweek pick-me-up Muriel Rukeyser on our confusion, our power, and the deepest measure of aliveness.md",
+    "Readwise/Full Document Contents/Articles/AI for Software Engineers 74 What You Need to Know for 2026.md",
+    "Readwise/Full Document Contents/Articles/How to See More Clearly and Love More Purely Iris Murdoch on the Angst of Not Knowing Ourselves and Each Other.md",
+    "Readwise/Full Document Contents/Articles/The Cough That Broke 12 LLMs.md",
+    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Nathan Lambert, and Devansh posted new notes.md",
+    "Readwise/Full Document Contents/Articles/Can the most abstract math make the world a better place.md",
+    "Readwise/Full Document Contents/Articles/The Evolving Foundations of Math.md",
+    "Readwise/Full Document Contents/Articles/Animation Obsessive Staff's comment.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Meta’s Ad Business Upgrade, AI Copyright, and the Unexpected Economy.md",
+    "Readwise/Full Document Contents/Articles/How to get over heartbreak using the evolutionary history of hiccups; Diane Ackerman on the intimate in the infinite; Fanny Wright's revolution.md",
+    "Readwise/Full Document Contents/Articles/GAN ~ draw by hand.md",
+    "Readwise/Full Document Contents/Articles/The Man Who Stole Infinity Quanta Magazine.md",
+    "Readwise/Full Document Contents/Articles/Nathan Lambert, Devansh, and Sebastian Raschka, PhD posted new notes.md",
+    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis David Whyte on the Deeper Meanings of Friendship and Heartbreak.md",
+    "Readwise/Full Document Contents/Articles/ICE Has an AI Problem.md",
     "Untitled 1.base",
     "Untitled.base",
-    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
-    "Readwise/Full Document Contents/Articles/My 2026 resolution a weekly AI seminar — for everyone.md",
-    "Readwise/Full Document Contents/Articles/A Spell Against Stagnation John O'Donohue on Beginnings.md",
     "Untitled 3.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Videos/History/Game science",
