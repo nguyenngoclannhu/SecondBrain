@@ -1,5 +1,7 @@
 ---
 media: https://www.youtube.com/watch?v=BenFwyMcSEI
+cssclasses:
+  - "[[Black Myth Wukong]]"
 ---
 ## Chương 3: Dạ Sinh Bạch Lộ ([00:01:46](https://www.youtube.com/watch?v=BenFwyMcSEI&t=106#t=01:46.17) )
 - [00:02:28](https://www.youtube.com/watch?v=BenFwyMcSEI&t=148#t=02:28.41) Tuyết Cương Thi - những người thiếu ngộ tính nên hoá thành cương thi.
