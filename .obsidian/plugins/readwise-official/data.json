@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 24932185,
+  "lastSavedStatusID": 25184591,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -339,7 +339,8 @@
     "Readwise/Full Document Contents/Articles/The Evolving Foundations of Math.md": "readerdocument:01kjwsds99xjckdmv7x1wpevdy",
     "Readwise/Full Document Contents/Articles/Can the most abstract math make the world a better place.md": "readerdocument:01kk1y6xyd5jxmyz3nbasr7aa1",
     "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Nathan Lambert, and Devansh posted new notes.md": "readerdocument:01kkmwfpcnekzss81ypffk1401",
-    "Readwise/Full Document Contents/Articles/The Cough That Broke 12 LLMs.md": "readerdocument:01kjsvn75zny3px9qa37apmcsz"
+    "Readwise/Full Document Contents/Articles/The Cough That Broke 12 LLMs.md": "readerdocument:01kjsvn75zny3px9qa37apmcsz",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Reorder of Social Media, TikTok at NewFronts, and YouTube's AI Swap.md": "readerdocument:01kmz8xvhfg9vjjktb039b3j46"
   },
   "reimportShowConfirmation": true
 }

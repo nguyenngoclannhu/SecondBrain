@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ca0676ebd1b74d2a",
+        "id": "c2619cb1b97b3fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "f9268b7bc19f3919",
+            "id": "01635ec5a029e4ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Resources/Media/Podcasts/11092025_Ray Dalio We’re Heading Into Very Very Dark Times! America The UK’s Decline Is Coming!.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "byCreatedTime",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "11092025_Ray Dalio We’re Heading Into Very Very Dark Times! America The UK’s Decline Is Coming!"
-            }
-          },
-          {
-            "id": "ec8642945bffc243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Zadie Smith on Progress and Despair.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "byModifiedTime",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Midweek Sanity Oasis Zadie Smith on Progress and Despair"
+              "title": "New tab"
             }
           }
         ]
@@ -120,7 +82,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0a32de67b58f8ec7",
@@ -500,6 +462,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "b034c6ce0b33ee0c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -521,9 +493,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f9268b7bc19f3919",
+  "active": "01635ec5a029e4ad",
   "lastOpenFiles": [
+    "Readwise/Podcasts/WW3 Threat Assessment Trump Bombing Iran Just Increased Nuclear War Threat the Terrifying Reality.md",
+    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+    "Untitled.base",
     "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Zadie Smith on Progress and Despair.md",
+    "2026-03-30.md",
+    "Untitled.canvas",
+    "02-Areas/Education/Language Learning/Japanese resources.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Reorder of Social Media, TikTok at NewFronts, and YouTube's AI Swap.md",
+    "Readwise/Full Document Contents/Articles/Best of Marketing Forget Influencers, Focus on Narrative.md",
+    "Readwise/Full Document Contents/Articles/How patterns change, an astronaut's antidote to despair, and the lost Italian art of sprezzatura living with ease and openness to wonder.md",
+    "03-Resources/Media/Videos/Self-help/Media Note - Principles for Dealing with the Changing World Order by Ray Dalio.md",
     "03-Resources/Media/Podcasts/11092025_Ray Dalio We’re Heading Into Very Very Dark Times! America The UK’s Decline Is Coming!.md",
     "Readwise/Podcasts/How to Increase Your Emotional Intelligence Dr. Marc Brackett.md",
     "Readwise/Full Document Contents/Articles/The Man Who Stole Infinity.md",
@@ -541,23 +523,13 @@
     "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Nathan Lambert, and Devansh posted new notes.md",
     "Readwise/Full Document Contents/Articles/Can the most abstract math make the world a better place.md",
     "Readwise/Full Document Contents/Articles/The Evolving Foundations of Math.md",
-    "Readwise/Full Document Contents/Articles/Animation Obsessive Staff's comment.md",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing Meta’s Ad Business Upgrade, AI Copyright, and the Unexpected Economy.md",
-    "Readwise/Full Document Contents/Articles/How to get over heartbreak using the evolutionary history of hiccups; Diane Ackerman on the intimate in the infinite; Fanny Wright's revolution.md",
-    "Readwise/Full Document Contents/Articles/GAN ~ draw by hand.md",
-    "Readwise/Full Document Contents/Articles/The Man Who Stole Infinity Quanta Magazine.md",
-    "Readwise/Full Document Contents/Articles/Nathan Lambert, Devansh, and Sebastian Raschka, PhD posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis David Whyte on the Deeper Meanings of Friendship and Heartbreak.md",
-    "Readwise/Full Document Contents/Articles/ICE Has an AI Problem.md",
     "Untitled 1.base",
-    "Untitled.base",
     "Untitled 3.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Videos/History/Game science",
     "07-Archives/Tags",
     "Untitled 2.base",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Readwise/Full Document Contents/Articles",
     "Readwise/Full Document Contents",
     "msa-rules-july-2024.pdf",
