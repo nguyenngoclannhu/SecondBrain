@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c2619cb1b97b3fd6",
+        "id": "9458709f921ce52d",
         "type": "tabs",
         "children": [
           {
-            "id": "01635ec5a029e4ad",
+            "id": "f5af49a10125299e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "byCreatedTime",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Diary Of A CEO with Steven Bartlett"
             }
           }
         ]
@@ -82,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0a32de67b58f8ec7",
@@ -472,6 +486,76 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "fc7049e01b7ddbdb",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "ff11711d06611697",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "cb6d8df1923db7df",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "d6d70b76d81c5aac",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "5ca3cc9b21287675",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4620bf62f285f277",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "505811f4ca37b9cc",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -493,55 +577,55 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "01635ec5a029e4ad",
+  "active": "f5af49a10125299e",
   "lastOpenFiles": [
-    "Readwise/Podcasts/WW3 Threat Assessment Trump Bombing Iran Just Increased Nuclear War Threat the Terrifying Reality.md",
-    "07-Archives/Tags/The Diary Of A CEO with Steven Bartlett.md",
-    "Untitled.base",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Zadie Smith on Progress and Despair.md",
-    "2026-03-30.md",
+    "07-Archives/Tags/podcasts.md",
     "Untitled.canvas",
-    "02-Areas/Education/Language Learning/Japanese resources.md",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing Reorder of Social Media, TikTok at NewFronts, and YouTube's AI Swap.md",
-    "Readwise/Full Document Contents/Articles/Best of Marketing Forget Influencers, Focus on Narrative.md",
-    "Readwise/Full Document Contents/Articles/How patterns change, an astronaut's antidote to despair, and the lost Italian art of sprezzatura living with ease and openness to wonder.md",
-    "03-Resources/Media/Videos/Self-help/Media Note - Principles for Dealing with the Changing World Order by Ray Dalio.md",
-    "03-Resources/Media/Podcasts/11092025_Ray Dalio We’re Heading Into Very Very Dark Times! America The UK’s Decline Is Coming!.md",
-    "Readwise/Podcasts/How to Increase Your Emotional Intelligence Dr. Marc Brackett.md",
+    "Pasted image 20260106155553.png",
+    "2026-03-30.md",
+    "Pasted image 20260106160014.png",
+    "Pasted image 20260106155053.png",
+    "Untitled.md",
+    "dirx.txt",
+    "Pasted image 20260106155309.png",
+    "What.md",
+    "Readwise/Full Document Contents/Articles/Akshay Pachaar’s Post.md",
+    "Readwise/Full Document Contents/Articles/Tom Brady-FTX 2.0.md",
+    "Readwise/Full Document Contents/Articles/You're on the list!.md",
+    "Readwise/Full Document Contents/Articles/David Mataciunas’ Post.md",
+    "Readwise/Full Document Contents/Articles/Subscribe to AI Health Uncut.md",
+    "Readwise/Full Document Contents/Articles/RLHF PPO Blueprint.md",
+    "Readwise/Full Document Contents/Articles/The Intellectual Edge's comment.md",
+    "Readwise/Full Document Contents/Articles/Theranos 2.0.md",
+    "Readwise/Full Document Contents/Articles/DeepSeek OCR Excel Blueprint.md",
+    "Readwise/Full Document Contents/Articles/AI Isn't Human.md",
+    "Readwise/Full Document Contents/Articles/GPU by Hand ✍️ Together.md",
+    "Readwise/Full Document Contents/Articles/Kiến trúc cổng.md",
+    "Readwise/Full Document Contents/Articles/History of the Color Red.md",
+    "Readwise/Full Document Contents/Articles/Learn the Basics.md",
+    "Readwise/Full Document Contents/Articles/Sự Phát Minh Tổ Quốc.md",
+    "Readwise/Full Document Contents/Articles/AI by Hand ✍️ Academy.md",
+    "Readwise/Full Document Contents/Articles/Please confirm your subscription.md",
+    "Readwise/Full Document Contents/Articles/LLM vs RAG vs Agent Workbook.md",
     "Readwise/Full Document Contents/Articles/The Man Who Stole Infinity.md",
-    "Readwise/Full Document Contents/Articles/Carl Jung on the relationship between suffering and creativity; is peace possible; what it's like to be an owl.md",
-    "Readwise/Articles/Midweek Sanity Oasis “Who We Are and Who We Become Depends, in Part, on Whom We Love.”.md",
-    "07-Archives/Tags/The Marginalian by Maria Popova.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Trauma, Growth, and How to Be Twice as Alive — Tove Jansson on the Worm and the Art of Self-Renewal.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Necessary Losses and the Life-shaping Art of Letting Go.md",
-    "Readwise/Full Document Contents/Articles/Day 52 Memory Management Optimization.md",
-    "Readwise/Full Document Contents/Articles/Midweek Sanity Oasis Grace Paley on the Art of Growing Older.md",
-    "Readwise/Full Document Contents/Articles/Midweek pick-me-up Muriel Rukeyser on our confusion, our power, and the deepest measure of aliveness.md",
-    "Readwise/Full Document Contents/Articles/AI for Software Engineers 74 What You Need to Know for 2026.md",
-    "Readwise/Full Document Contents/Articles/How to See More Clearly and Love More Purely Iris Murdoch on the Angst of Not Knowing Ourselves and Each Other.md",
-    "Readwise/Full Document Contents/Articles/The Cough That Broke 12 LLMs.md",
-    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Nathan Lambert, and Devansh posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Can the most abstract math make the world a better place.md",
+    "Readwise/Full Document Contents/Articles/The Suck Is Why We’re Here.md",
     "Readwise/Full Document Contents/Articles/The Evolving Foundations of Math.md",
-    "Untitled 1.base",
+    "Readwise/Full Document Contents/Articles/PPO → DPO → GRPO→ Rubrics.md",
+    "03-Resources/dirx.txt",
+    "07-Archives/Tags",
+    "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
+    "02-Areas/Education/Language Learning",
+    "Pasted image 20260106160119.png",
+    "Readwise/Full Document Contents/Tweets",
     "Untitled 3.base",
+    "Untitled.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
     "03-Resources/Media/Videos/History/Game science",
-    "07-Archives/Tags",
-    "Untitled 2.base",
     "Untitled 1.canvas",
-    "Readwise/Full Document Contents/Articles",
-    "Readwise/Full Document Contents",
-    "msa-rules-july-2024.pdf",
     "99-Meta/Images/Pasted image 20240517153258.png",
     "99-Meta/Images/Eco pavement.png",
     "99-Meta/Images/Glasswool and Rockwool.png",
     "99-Meta/Images/IMG_0298 1.png",
-    "99-Meta/Images/KNuckle Pile.png",
-    "99-Meta/Images/IMG_0201.png",
-    "99-Meta/Images/IMG_0247 1.png",
-    "99-Meta/Images/Door Coordinator.png",
-    "99-Meta/Images/ENDO Lighting (2).png",
-    "99-Meta/Images/Green pavement.png"
+    "99-Meta/Images/KNuckle Pile.png"
   ]
 }
