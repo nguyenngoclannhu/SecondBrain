@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4dfecfa0c0e5010c",
+        "id": "3546f3228e718248",
         "type": "tabs",
         "children": [
           {
-            "id": "7e06655d05db3318",
+            "id": "f2c55fe2e80c8fb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -250,7 +250,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e06655d05db3318",
+  "active": "f2c55fe2e80c8fb0",
   "lastOpenFiles": [
     "05-Fleeting/Inbox/200820260013.md",
     "2026-03-30.md",
