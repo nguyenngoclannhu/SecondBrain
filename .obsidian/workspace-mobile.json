@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b90b408b7fa14126",
+        "id": "43a5353d246f1cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "8fd06cae68ebe643",
+            "id": "da19b9c100a7030d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Fleeting/Inbox/200820260013.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "200820260013"
+              "title": "New tab"
             }
           }
         ]
@@ -590,10 +576,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8fd06cae68ebe643",
+  "active": "da19b9c100a7030d",
   "lastOpenFiles": [
-    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
     "05-Fleeting/Inbox/200820260013.md",
+    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
     "Testing.md",
     "Readwise/Full Document Contents/Articles/Heidi Health CEO Frontier Models Have Plateaued.md",
     "Readwise/Full Document Contents/Articles/Kimi 3 ~ New Seminar Recording.md",
