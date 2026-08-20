@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59d3630f1d6a24da",
+        "id": "50e24ee5f6eeeef4",
         "type": "tabs",
         "children": [
           {
-            "id": "3b171a7acba5610d",
+            "id": "5e7e51c3edad9151",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,9 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -152,8 +150,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -172,8 +170,8 @@
             "state": {
               "type": "podcast_player_view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "podcast_player_view"
+              "icon": "play-circle",
+              "title": "Podcast Player"
             }
           },
           {
@@ -192,32 +190,12 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "906c5294736da301",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "46debe10fa2f5894",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "podcast_player_view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -233,21 +211,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3b171a7acba5610d",
+  "active": "1018f6fc303047d6",
   "lastOpenFiles": [
-    "05-Fleeting/Inbox/010420261147.md",
+    "Untitled 1.md",
+    "Readwise/Full Document Contents/Articles/Heidi Health CEO Frontier Models Have Plateaued.md",
     "05-Fleeting/Inbox/200820260013.md",
-    "2026-03-30.md",
-    "msa-rules-july-2024.pdf",
-    "Media Note - AI Whistleblower_ We Are Being Gaslit By AI Companies, They’re Hiding The Truth! - Karen Hao.md",
-    "README.md",
-    "What.md",
-    "07-Archives/Tags/The Jordan B. Peterson Podcast.md",
+    "rs-test-folder-fg_-SJZ2GUFme_OKuPxvg/rs-test-file-CLCFSSDGjg6nlrohwpxvj",
+    "rs-test-folder-fg_-SJZ2GUFme_OKuPxvg",
+    "data/rs-test-folder-4EvOxfIGTUXSeymM9GIll/rs-test-file-bREFtUycxdCwwj2EVipcj",
+    "data/rs-test-folder-4EvOxfIGTUXSeymM9GIll",
+    "data",
+    "ipadObsdian/rs-test-folder-7byOjN3eZQPgGWkKQGu9A/rs-test-file-_r0zYNrbOUeSwURVGm_fZ",
+    "ipadObsdian/rs-test-folder-7byOjN3eZQPgGWkKQGu9A",
+    "ipadObsdian",
     "05-Fleeting/Inbox/The moral of Hansel and Gretel.md",
-    "02-Areas/Education/Language Learning/Japanese resources.md",
+    "05-Fleeting/Inbox/200820260011.md",
     "Readwise/Full Document Contents/Articles/Writing Skills for Long-Running Agents.md",
     "Readwise/Full Document Contents/Articles/Commure’s Long History of Red Flags.md",
     "Readwise/Full Document Contents/Articles/Reinventing Entropy Compression & Intelligence Part 1.md",
@@ -264,6 +248,10 @@
     "Readwise/Books/The Limping Lady.md",
     "Readwise/Articles/Midweek Pick-Me-Up The Four Buddhist Mantras for Turning Fear Into Love.md",
     "Readwise/Full Document Contents/Articles/Midweek Pick-Me-Up The Four Buddhist Mantras for Turning Fear Into Love.md",
-    "Readwise/Podcasts/Why Short-Term Pleasure Is Ruining Your Life.md"
+    "Readwise/Podcasts/Why Short-Term Pleasure Is Ruining Your Life.md",
+    "Readwise/Full Document Contents/Articles/How to Be More Alive Hermann Hesse on Wonder and the Proper Aim of Education.md",
+    "Readwise/Full Document Contents/Articles/Meet the 2026 Fields and Abacus Medal Winners.md",
+    "Readwise/Full Document Contents/Articles/Thermodynamic Computers Go With the (Energy) Flow Quanta Magazine.md",
+    "Readwise/Full Document Contents/Articles/This is the last call for Spider-Man, King Kylie, the Emmys, World Cup, and for Mr. Nostalgia..md"
   ]
 }
