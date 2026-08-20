@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "50e24ee5f6eeeef4",
+        "id": "59d3630f1d6a24da",
         "type": "tabs",
         "children": [
           {
-            "id": "5e7e51c3edad9151",
+            "id": "3b171a7acba5610d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -37,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -150,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -170,8 +186,8 @@
             "state": {
               "type": "podcast_player_view",
               "state": {},
-              "icon": "play-circle",
-              "title": "Podcast Player"
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
             }
           },
           {
@@ -190,12 +206,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "906c5294736da301",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "46debe10fa2f5894",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -211,27 +247,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "media-extended:Open media": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "bases:Create new base": false
     }
   },
-  "active": "1018f6fc303047d6",
+  "active": "3b171a7acba5610d",
   "lastOpenFiles": [
     "Untitled 1.md",
-    "Readwise/Full Document Contents/Articles/Heidi Health CEO Frontier Models Have Plateaued.md",
+    "05-Fleeting/Inbox/010420261147.md",
+    "05-Fleeting/Untitled.md",
+    "05-Fleeting/Inbox/050820251100 Quantum computing introduction.md",
+    "05-Fleeting/Inbox/Inbox.md",
+    "05-Fleeting/Inbox/19062025_Microsofts's Engineering Culture.md",
     "05-Fleeting/Inbox/200820260013.md",
-    "rs-test-folder-fg_-SJZ2GUFme_OKuPxvg/rs-test-file-CLCFSSDGjg6nlrohwpxvj",
-    "rs-test-folder-fg_-SJZ2GUFme_OKuPxvg",
-    "data/rs-test-folder-4EvOxfIGTUXSeymM9GIll/rs-test-file-bREFtUycxdCwwj2EVipcj",
-    "data/rs-test-folder-4EvOxfIGTUXSeymM9GIll",
-    "data",
-    "ipadObsdian/rs-test-folder-7byOjN3eZQPgGWkKQGu9A/rs-test-file-_r0zYNrbOUeSwURVGm_fZ",
-    "ipadObsdian/rs-test-folder-7byOjN3eZQPgGWkKQGu9A",
-    "ipadObsdian",
+    "2026-03-30.md",
+    "msa-rules-july-2024.pdf",
+    "Media Note - AI Whistleblower_ We Are Being Gaslit By AI Companies, They’re Hiding The Truth! - Karen Hao.md",
+    "README.md",
+    "What.md",
+    "07-Archives/Tags/The Jordan B. Peterson Podcast.md",
     "05-Fleeting/Inbox/The moral of Hansel and Gretel.md",
-    "05-Fleeting/Inbox/200820260011.md",
+    "02-Areas/Education/Language Learning/Japanese resources.md",
     "Readwise/Full Document Contents/Articles/Writing Skills for Long-Running Agents.md",
     "Readwise/Full Document Contents/Articles/Commure’s Long History of Red Flags.md",
     "Readwise/Full Document Contents/Articles/Reinventing Entropy Compression & Intelligence Part 1.md",
@@ -243,15 +278,6 @@
     "Readwise/Full Document Contents/Articles/Why the legendary Erdős problems are falling to AI.md",
     "Readwise/Full Document Contents/Articles/This Week in Marketing EU’s “Declare AI” Act meets LinkedIn’s “Is It AI Slop” button.md",
     "Readwise/Full Document Contents/Articles/Welcome To The Post-Influencers Era..md",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing Disney on TikTok, Reddit's AI Future, and Pinterest's Anti-Investor Growth.md",
-    "Readwise/Full Document Contents/Articles/Carl Jung on death, how to be more alive, and the rebirth of middle age; a blackbird's lesson in friendship; and a ceramics raffle.md",
-    "Readwise/Books/The Limping Lady.md",
-    "Readwise/Articles/Midweek Pick-Me-Up The Four Buddhist Mantras for Turning Fear Into Love.md",
-    "Readwise/Full Document Contents/Articles/Midweek Pick-Me-Up The Four Buddhist Mantras for Turning Fear Into Love.md",
-    "Readwise/Podcasts/Why Short-Term Pleasure Is Ruining Your Life.md",
-    "Readwise/Full Document Contents/Articles/How to Be More Alive Hermann Hesse on Wonder and the Proper Aim of Education.md",
-    "Readwise/Full Document Contents/Articles/Meet the 2026 Fields and Abacus Medal Winners.md",
-    "Readwise/Full Document Contents/Articles/Thermodynamic Computers Go With the (Energy) Flow Quanta Magazine.md",
-    "Readwise/Full Document Contents/Articles/This is the last call for Spider-Man, King Kylie, the Emmys, World Cup, and for Mr. Nostalgia..md"
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Disney on TikTok, Reddit's AI Future, and Pinterest's Anti-Investor Growth.md"
   ]
 }
