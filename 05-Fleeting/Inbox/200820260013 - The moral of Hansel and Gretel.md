@@ -18,7 +18,7 @@ Podcast episode: [[564. The Moral of the Story With JBP Hansel & Gretel]]
 - References
 ![[564. The Moral of the Story With JBP Hansel & Gretel#^d86e91]]
 - The parents when faced with the risk of going hungry, they thought of how to feed them first -> selfish, pathological parents
-- Transcript
+- Transcript [[564. The Moral of the Story With JBP Hansel & Gretel^]]
 - #StoryOfElijah 
 	- Elijah - a Hebrew prophet who defended the worship of Yanweh - God of Israel - over prevalent worship of Baal -> numerous miracles attribute to him
 	- => Those with a right faith will be positioned for a long time with abundance.
