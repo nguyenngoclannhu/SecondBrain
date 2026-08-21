@@ -13,7 +13,7 @@ cssclasses:
 ## Monday, August 20th, 2026
 ***
 ### Notes
-Podcast episo
+Podcast episode: [[]]
 #### Why poverty exists?
 - The parents when faced with the risk of going hungry, they thought of how to feed them first -> selfish, pathological parents
 - #StoryOfElijah 
