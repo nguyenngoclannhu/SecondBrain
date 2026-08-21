@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "60c7cf23b2128df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0fa70e6a8ede5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39a62cc6af1c0a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3720ea399174e2ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "d97f9fe57b66d3fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993a0b8c907792d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4a4b83213f87741",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e93b82ac668ef365",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4d5f05d18bc01a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f3ef5fd05d64c63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5181bc4c61e7e34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a5444ed798b8a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10218eaa7cf29623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11003990478bf0ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "329d32ae88f65f6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c923c9185b5cc4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cd52bde9726d354",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d04e788b0d04848f",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false,
+      "media-extended:Open media": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "c39a62cc6af1c0a4",
+  "lastOpenFiles": [
+    "05 - Fleeting/Conpulsory coupledom.md",
+    "05 - Fleeting/280320241448 Placeholder.md",
+    "03 - Resources/260420241118 Compulsory Coupledom.md",
+    "07 - Archives/Indexes/260420241241 Placeholder.md",
+    "03 - Resources/280320241445 Placeholder.md",
+    "04 - Permanent/280320241446 Placeholder.md",
+    "05 - Fleeting/280320241447 Placeholder.md",
+    "07 - Archives/Tags/psychology.md",
+    "99-Meta/Template/Zettelkasten.md",
+    "03 - Resources/220420241910 36か　みんなの日本語.md",
+    "03 - Resources/050420241909 Japanese classes.md",
+    "03 - Resources/260420241113 Compulsory coupledom.md",
+    "03 - Resources/260420241115 Compulsory Coupledom.md",
+    "99-Meta/Template/Daily.md",
+    "99-Meta/Template/Japanese note.md",
+    "99-Meta/Template/Weekly.md",
+    "99-Meta/Template/Unique Note.md",
+    "07 - Archives/Indexes",
+    "Untitled.md",
+    "07 - Archives/Tags",
+    "01 - Projects/PMDesigns/2024/Dashboards.md",
+    "01 - Projects/PMDesigns/2024",
+    "01 - Projects/PMDesigns",
+    "02 - Areas/Education/Language learning/Japanese/310320242000 29か みんなの日本語.md",
+    "02 - Areas/Education/Language learning/Japanese/310320241911　30か みんなの日本語.md",
+    "02 - Areas/Education/Language learning/Japanese/290320241936　31か みんなの日本語.md",
+    "02 - Areas/Education/Language learning/Japanese/280320241444 26-30か まとめテスト.md",
+    "02 - Areas/Education/Language learning/Japanese/190420241911　35か　みんなの日本語.md",
+    "02 - Areas/Education/Language learning/Japanese/120420241826 34か みんなの日本語.md",
+    "02 - Areas/Education/Language learning/Japanese/080420241948 33か みんなの日本語.md",
+    "99-Meta/Images/Pasted image 20240404095141.png",
+    "99-Meta/Images",
+    "99-Meta/Images/Pasted image 20240404095342.png",
+    "03 - Resources/Obsidian",
+    "03 - Resources/Obsidian",
+    "03 - Resources/Media/Videos",
+    "03 - Resources/Media/Podcasts",
+    "03 - Resources/Media"
+  ]
+}

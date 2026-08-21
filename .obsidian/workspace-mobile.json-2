@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c7c8541c7c178fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2022ee192f0a0784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a82a8d68126757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/Template/Atomic notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0aab641ae84f55b7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2b41ff42b989544c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "338845f764f0283f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "67a47138e6364ff2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1eedaf56c3cd1cba",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0e99951f68e696e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1b10c7f75f13fbf8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "99-Meta/Template/Atomic notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fdf4c640fd1be39f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "99-Meta/Template/Atomic notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1afa8a6b5367dd2f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "99-Meta/Template/Atomic notes.md"
+          }
+        }
+      },
+      {
+        "id": "cb0eb32d3f0676b9",
+        "type": "leaf",
+        "state": {
+          "type": "podcast_player_view",
+          "state": {}
+        }
+      },
+      {
+        "id": "c06ca72e70b0964f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "e4c7396465cdc10c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "d5a82a8d68126757",
+  "lastOpenFiles": [
+    "03 - Resources/260420241118 Compulsory Coupledom.md",
+    "99-Meta/Template/Atomic notes.md",
+    "05 - Fleeting/Conpulsory coupledom.md",
+    "07 - Archives/Indexes/260420241241 Placeholder.md",
+    "07 - Archives/Indexes",
+    "07 - Archives/Tags/psychology.md",
+    "07 - Archives/Tags",
+    "05 - Fleeting/280320241448 Placeholder.md",
+    "99-Meta/Template/Atomic Notes.md",
+    "07 - Archives/280320241448 Placeholder.md",
+    "03 - Resources/Compulsory Coupledom.md",
+    "03 - Resources/050420241909 Japanese classes.md",
+    "03 - Resources/280320241445 Placeholder.md",
+    "01 - Projects/280320241443 Placeholder.md",
+    "02 - Areas/Education/Language learning/Japanese/030420241900 みんなの日本語　32か.md",
+    "Untitled.md",
+    "03 - Resources/080420241936 日本語のクラス.md",
+    "03 - Resources/080420241948 みんなの日本語　33か.md",
+    "02 - Areas/Education/Language learning/Japanese/290320241936　みんなの日本語 31か.md",
+    "02 - Areas/Education/Language learning/Japanese/310320241911　みんなの日本語　30か.md",
+    "Welcome.md",
+    "99-Meta/Preloaded Class/280320241439 Notebook CSS Classes.md",
+    "01 - Projects/PMDesigns/2024/Dashboards.md",
+    "01 - Projects/PMDesigns/2024",
+    "01 - Projects/PMDesigns"
+  ]
+}
