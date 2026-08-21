@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f8a34e9750ddf9",
+        "id": "4e12a9e107d094a3",
         "type": "tabs",
         "children": [
           {
-            "id": "874f08e17fe044a8",
+            "id": "ba52cc06ef7ffc1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Fleeting/Inbox/200820260013.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "200820260013"
+              "title": "New tab"
             }
           }
         ]
@@ -568,6 +554,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4d5f0391b306a85f",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "1e01673b44dc4434",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -590,12 +596,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "874f08e17fe044a8",
+  "active": "ba52cc06ef7ffc1d",
   "lastOpenFiles": [
+    "05-Fleeting/Inbox/200820260013 - The moral of Hansel and Gretel.md",
+    "05-Fleeting/Inbox/200820260013.md",
+    "Readwise/Full Document Contents/Articles/Theory of fluids enters the 21st century.md",
+    "Readwise/Full Document Contents/Articles/Lòng Yêu Nước Và Phường Lưu Manh.md",
+    "Readwise/Articles/Lòng Yêu Nước Và Phường Lưu Manh.md",
     "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
     "03-Resources/Obsidian/Untitled.md",
-    "05-Fleeting/Inbox/200820260013.md",
     "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
     "Testing.md",
     "Readwise/Full Document Contents/Articles/Heidi Health CEO Frontier Models Have Plateaued.md",
@@ -620,10 +630,6 @@
     "Readwise/Full Document Contents/Articles/David Mataciunas’ Post.md",
     "Readwise/Full Document Contents/Articles/Subscribe to AI Health Uncut.md",
     "Readwise/Full Document Contents/Articles/RLHF PPO Blueprint.md",
-    "Readwise/Full Document Contents/Articles/The Intellectual Edge's comment.md",
-    "Readwise/Full Document Contents/Articles/Theranos 2.0.md",
-    "Readwise/Full Document Contents/Articles/DeepSeek OCR Excel Blueprint.md",
-    "Readwise/Full Document Contents/Articles/AI Isn't Human.md",
     "03-Resources/dirx.txt",
     "07-Archives/Tags",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
