@@ -11,10 +11,24 @@
             "id": "ba52cc06ef7ffc1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05-Fleeting/Inbox/200820260013 - The moral of Hansel and Gretel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "200820260013 - The moral of Hansel and Gretel"
             }
           }
         ]
@@ -598,6 +612,10 @@
   },
   "active": "ba52cc06ef7ffc1d",
   "lastOpenFiles": [
+    "Readwise/Podcasts/564. The Meaning Of Hansel & Gretel.md",
+    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
+    "Readwise/Podcasts/566. The Moral of the Story With JBP There’s No Such Thing as a Dragon.md",
+    "Readwise/Podcasts/566. The Meaning Of There’s No Such Thing as a Dragon.md",
     "05-Fleeting/Inbox/200820260013 - The moral of Hansel and Gretel.md",
     "05-Fleeting/Inbox/200820260013.md",
     "Readwise/Full Document Contents/Articles/Theory of fluids enters the 21st century.md",
@@ -606,7 +624,6 @@
     "03-Resources/Media/Podcasts/03112025_Brené Brown Were In A Spiritual Crisis! The Hidden Epidemic No One Wants To Admit!.md",
     "03-Resources/Media/Podcasts/10042025_NEW Body Language Expert When You Do This You Look like A Loser...(Sorry But You Do)! This Is The Real Reason Youre Still Single!.md",
     "03-Resources/Obsidian/Untitled.md",
-    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
     "Testing.md",
     "Readwise/Full Document Contents/Articles/Heidi Health CEO Frontier Models Have Plateaued.md",
     "Readwise/Full Document Contents/Articles/Kimi 3 ~ New Seminar Recording.md",
@@ -627,9 +644,6 @@
     "Readwise/Full Document Contents/Articles/Akshay Pachaar’s Post.md",
     "Readwise/Full Document Contents/Articles/Tom Brady-FTX 2.0.md",
     "Readwise/Full Document Contents/Articles/You're on the list!.md",
-    "Readwise/Full Document Contents/Articles/David Mataciunas’ Post.md",
-    "Readwise/Full Document Contents/Articles/Subscribe to AI Health Uncut.md",
-    "Readwise/Full Document Contents/Articles/RLHF PPO Blueprint.md",
     "03-Resources/dirx.txt",
     "07-Archives/Tags",
     "07-Archives/Documents/2024-07-09 SAP Engineering Practices.pdf",
