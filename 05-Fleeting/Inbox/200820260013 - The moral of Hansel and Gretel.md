@@ -13,7 +13,7 @@ cssclasses:
 ## Monday, August 20th, 2026
 ***
 ### Notes
-Podcast episode: [[The moral]]
+Podcast episode: [[564. The Moral of the Story With JBP Hansel & Gretel]] 
 #### Why poverty exists?
 - The parents when faced with the risk of going hungry, they thought of how to feed them first -> selfish, pathological parents
 - #StoryOfElijah 
