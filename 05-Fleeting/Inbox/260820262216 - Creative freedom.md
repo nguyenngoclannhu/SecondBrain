@@ -32,7 +32,8 @@ cssclasses:
 - What
 	- Step 1: Go to your local library (the biggest, most abundance collection you can find).
 	- Step 2: Spend as much time as much as you can on whatever section interest you that day.
-	- Step 3: Select from 5-8 books by walk through the aisle and pick up the book that holds attention more than 5
+	- Step 3: Select from 5-8 books by walk through the aisle and pick up the book that holds attention more than 5 seconds.
+	- Step 4: Skimming through
 
 
 
