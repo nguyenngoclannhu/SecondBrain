@@ -4,7 +4,6 @@ tags:
   - Zettelkasten
 media:
   - "[[psychology]]"
-  - "[[260820262216 - Creative freedom]]"
 cssclasses:
   - daily
 ---
