@@ -36,7 +36,8 @@ cssclasses:
 	- Step 4: Skimming through the book and archive where you find interested.
 - Purpose: Curated a personal archive and library that aren't influenced by AI or trends.
 #### The Grail Method
-- 
+- putting anything in one place
+- continue to rev
 
 
 
