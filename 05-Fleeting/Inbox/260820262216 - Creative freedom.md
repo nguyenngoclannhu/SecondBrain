@@ -38,7 +38,7 @@ cssclasses:
 #### The Grail Method
 - putting anything in one place
 - continue to revisited your note -> resurface forgotten insights.
-- 
+
 
 
 
