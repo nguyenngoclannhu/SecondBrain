@@ -34,7 +34,7 @@ cssclasses:
 	- Step 2: Spend as much time as much as you can on whatever section interest you that day.
 	- Step 3: Select from 5-8 books by walk through the aisle and pick up the book that holds attention more than 5 seconds.
 	- Step 4: Skimming through the book and archive where you find interested.
-- Purpose: Curated a personal archive and library
+- Purpose: Curated a personal archive and library that aren't infl
 
 
 
