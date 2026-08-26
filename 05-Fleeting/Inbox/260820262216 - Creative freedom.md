@@ -37,7 +37,7 @@ cssclasses:
 - Purpose: Curated a personal archive and library that aren't influenced by AI or trends.
 #### The Grail Method
 - putting anything in one place
-- continue to rev
+- continue to revisited your 
 
 
 
