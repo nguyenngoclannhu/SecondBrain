@@ -21,7 +21,7 @@ cssclasses:
 - holding a question without pushing/ searching for an answer -> allow answer to dawn on whatever form it might be.
 - as the answer is not bundle and package and place in a silver plate to serve.
 - freedom is to have the courage to create in spite of the validation. 
-> ... the most true answer that we come across i
+> ... the most true answer that we come across in our lives are the one we live our way in
 ***
 ### References
 #### WHERE X COMES FROM
