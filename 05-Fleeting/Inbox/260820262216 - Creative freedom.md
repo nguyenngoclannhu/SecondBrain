@@ -31,7 +31,7 @@ cssclasses:
 #### Self Guided Study Days
 - What
 	- Step 1: Go to your local library (the biggest, most abundance collection you can find).
-	- Step 2
+	- Step 2: 
 
 
 
