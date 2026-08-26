@@ -4,11 +4,12 @@ tags:
   - Zettelkasten
 media:
   - "[[psychology]]"
+  - "[[Wild Geese]]"
 cssclasses:
   - daily
   - monday
 ---
-# TITLE
+# Creative Free
 ## Monday, February 10th, 2025
 ***
 ### Notes
