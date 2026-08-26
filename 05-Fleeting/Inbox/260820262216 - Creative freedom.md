@@ -19,7 +19,7 @@ cssclasses:
 #### Creative Freedom
 - is maintaining curiosity, leaving room for **serendipity** 
 - holding a question without pushing/ searching for an answer -> allow answer to dawn on whatever form it might be.
-- as the answer is not bu
+- as the answer is not bundle and package and place in a silver plate 
 ***
 ### References
 #### WHERE X COMES FROM
