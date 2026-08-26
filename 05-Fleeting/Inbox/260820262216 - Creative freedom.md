@@ -27,7 +27,7 @@ cssclasses:
 
 > [!quote]- The cost of "miracle" is "mystery"
 > "You can do anything" but if only you let that happen only by **what your mind "knows"**, a very small portion of the multiverse -> limit the miracle. To live "I can do anything" kind of life then you need to ==let go of the "how"==, cause that is the surprise. It is not our job to figure it out, cause what we know is too small.
-> Our job is selection, pick a point to focus on it and the cosmo will figure it out for you. Our
+> Our job is selection, pick a point to focus on it and the cosmo will figure it out for you: building the c
 
 
 
