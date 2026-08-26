@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Fleeting/Inbox/260820262216 - Creative freedom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "260820262216 - Creative freedom"
-            }
-          },
-          {
-            "id": "a93bce1495da157b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "05-Fleeting/Inbox/270820260006.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "270820260006"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -645,11 +620,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a93bce1495da157b",
+  "active": "a87826dc866dc1cb",
   "lastOpenFiles": [
-    "05-Fleeting/Inbox/Happiness is preparing for the future and admiring the Now..md",
-    "05-Fleeting/Inbox/270820260006.md",
     "05-Fleeting/Inbox/260820262216 - Creative freedom.md",
+    "05-Fleeting/Inbox/270820260006.md",
+    "05-Fleeting/Inbox/Happiness is preparing for the future and admiring the Now..md",
     "Untitled 2.md",
     "Readwise/Podcasts/564. The Moral of the Story With JBP Hansel & Gretel.md",
     "The Alchemist.md",
