@@ -14,7 +14,8 @@ cssclasses:
 ***
 ### Notes
 #### The Problem
-- Youtube and algorithm's platform biased towards content that has clear answer and hyper
+- Youtube and algorithm's platform biased towards content that has clear answer and hyper-optimized.
+- 
 ***
 ### References
 #### WHERE X COMES FROM
