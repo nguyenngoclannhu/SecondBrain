@@ -31,7 +31,8 @@ cssclasses:
 #### Self Guided Study Days
 - What
 	- Step 1: Go to your local library (the biggest, most abundance collection you can find).
-	- Step 2: Spend as much time as much as you can on whatever section 
+	- Step 2: Spend as much time as much as you can on whatever section interest you that day.
+	- 
 
 
 
