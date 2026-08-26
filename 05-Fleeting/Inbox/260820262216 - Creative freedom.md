@@ -25,7 +25,7 @@ cssclasses:
 - the most fulfillment comes when the artist use their work as a way to processing their own problem/ confusion.
 > You cannot know there is a gap until you experienced it.
 
->[!quotThe cost of "miracle" is "mystery"
+>[!quote]-The cost of "miracle" is "mystery"
 ***
 ### References
 #### WHERE X COMES FROM
