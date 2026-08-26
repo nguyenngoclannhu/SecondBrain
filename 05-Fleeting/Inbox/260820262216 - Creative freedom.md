@@ -13,7 +13,7 @@ cssclasses:
 ## Wednesday, August 26th, 2026
 ***
 ### Notes
-- Start with your precious idea
+- 
 ***
 ### References
 #### WHERE X COMES FROM
