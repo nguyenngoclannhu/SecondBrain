@@ -22,7 +22,8 @@ cssclasses:
 - as the answer is not bundle and package and place in a silver plate to serve.
 - freedom is to have the courage to create in spite of the validation. 
 > ... the most true answer that we come across in our lives are the one we live our way into.
-- the most fulfillment comes when the artist use their work as a way to processing their own problem
+- the most fulfillment comes when the artist use their work as a way to processing their own problem/ confusion.
+- 
 ***
 ### References
 #### WHERE X COMES FROM
