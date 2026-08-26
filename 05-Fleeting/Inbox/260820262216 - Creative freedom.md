@@ -20,7 +20,8 @@ cssclasses:
 - is maintaining curiosity, leaving room for **serendipity** 
 - holding a question without pushing/ searching for an answer -> allow answer to dawn on whatever form it might be.
 - as the answer is not bundle and package and place in a silver plate to serve.
-- freedom is to have the courage to 
+- freedom is to have the courage to create in spite of the validation. 
+- 
 ***
 ### References
 #### WHERE X COMES FROM
