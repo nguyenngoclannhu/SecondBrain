@@ -14,7 +14,7 @@ cssclasses:
 ***
 ### Notes
 #### The Problem
-- Youtube and algorithm's platform biased towards
+- Youtube and algorithm's platform biased towards content that
 ***
 ### References
 #### WHERE X COMES FROM
