@@ -15,7 +15,7 @@ cssclasses:
 ### Notes
 #### The Problem
 - Youtube and algorithm's platform biased towards content that has clear answer and hyper-optimized.
-- Popular cr
+- Popular creator has much expectations
 ***
 ### References
 #### WHERE X COMES FROM
