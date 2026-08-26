@@ -18,7 +18,8 @@ cssclasses:
 - Popular creator has much expectations (e.g. show up in a certain way) -> limit the creator's will to challenge new and hard topics.
 #### Creative Freedom
 - is maintaining curiosity, leaving room for **serendipity** 
-- holding a question without pushing/ searching for an answer -> allow answer to dawn on 
+- holding a question without pushing/ searching for an answer -> allow answer to dawn on whatever form it might be.
+- 
 ***
 ### References
 #### WHERE X COMES FROM
