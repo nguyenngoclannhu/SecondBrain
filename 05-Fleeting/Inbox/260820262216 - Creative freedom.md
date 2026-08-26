@@ -14,7 +14,7 @@ cssclasses:
 ***
 ### Notes
 #### The Problem
-- Youtube and algorithm
+- Youtube and algorithm's platform, 
 ***
 ### References
 #### WHERE X COMES FROM
