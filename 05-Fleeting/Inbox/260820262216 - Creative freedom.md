@@ -23,7 +23,8 @@ cssclasses:
 - freedom is to have the courage to create in spite of the validation. 
 > ... the most true answer that we come across in our lives are the one we live our way into.
 - the most fulfillment comes when the artist use their work as a way to processing their own problem/ confusion.
-> You cannot know there is a gap until
+> You cannot know there is a gap until you experienced it.
+- 
 ***
 ### References
 #### WHERE X COMES FROM
