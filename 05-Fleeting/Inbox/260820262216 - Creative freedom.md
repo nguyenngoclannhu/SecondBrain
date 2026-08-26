@@ -26,7 +26,7 @@ cssclasses:
 > You cannot know there is a gap until you experienced it.
 
 > [!quote]- The cost of "miracle" is "mystery"
-> "You can do anything" but if only you let that happen only by **what your mind "knows"**, a very small portion of the multiverse -> limit the miracle. To live "I can do anything" life
+> "You can do anything" but if only you let that happen only by **what your mind "knows"**, a very small portion of the multiverse -> limit the miracle. To live "I can do anything" kind of life -> 
 
 
 
