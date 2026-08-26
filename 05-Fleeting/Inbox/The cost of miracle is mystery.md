@@ -8,4 +8,4 @@ cssclasses:
   - daily
 ---
 [[260820262216 - Creative freedom#^cosmo-will-figure-out]]
-- You can do anything if wh
+- You can do anything if what you focus on not the "how"
