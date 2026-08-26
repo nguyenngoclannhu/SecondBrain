@@ -7,7 +7,7 @@ media:
   - "[[Wild Geese]]"
 cssclasses:
   - daily
-  - monday
+  - wednesday
 ---
 # Creative Freedom
 ## Wednesday, August 26th, 2026
