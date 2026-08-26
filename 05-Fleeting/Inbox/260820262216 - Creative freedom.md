@@ -30,7 +30,8 @@ cssclasses:
 > Our job is selection, pick a point to focus on it and the cosmo will figure it out for you: building the capacity to handle while maintaining focus on your selection. ^cosmo-will-figure-out
 #### Self Guided Study Days
 - What
-	- Step 1: Go to your local library (the biggest, most abundance )
+	- Step 1: Go to your local library (the biggest, most abundance collection you can find).
+	- Step 2
 
 
 
