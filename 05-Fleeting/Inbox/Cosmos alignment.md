@@ -8,7 +8,7 @@ cssclasses:
   - daily
   - wednesday
 ---
-# The Alchemist
+# The Alchemis
 ## Wednesday, August 26th, 2026
 ***
 ### Notes
