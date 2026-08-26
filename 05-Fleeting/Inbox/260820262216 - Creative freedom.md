@@ -10,7 +10,7 @@ cssclasses:
   - monday
 ---
 # Creative Freedom
-## Wednesday, February 10th, 2025
+## Wednesday, August 26th, 2026
 ***
 ### Notes
 - Start with your precious idea
