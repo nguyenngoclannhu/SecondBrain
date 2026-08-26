@@ -26,7 +26,7 @@ cssclasses:
 > You cannot know there is a gap until you experienced it.
 
 > [!quote]- The cost of "miracle" is "mystery"
-> "You can do an"
+> "You can do anything" but if only you
 
 
 
