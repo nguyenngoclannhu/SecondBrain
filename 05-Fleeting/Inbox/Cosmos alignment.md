@@ -8,7 +8,7 @@ cssclasses:
   - daily
   - wednesday
 ---
-# The Alchemis
+# Cosmo
 ## Wednesday, August 26th, 2026
 ***
 ### Notes
