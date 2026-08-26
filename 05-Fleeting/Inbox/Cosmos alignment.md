@@ -8,4 +8,4 @@ cssclasses:
   - daily
   - wednesday
 ---
-- In "The Alchemist" there is a story of a 
+- In "The Alchemist" there is a story of a boy who ask the 
