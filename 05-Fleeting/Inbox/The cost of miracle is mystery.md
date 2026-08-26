@@ -7,3 +7,4 @@ media:
 cssclasses:
   - daily
 ---
+[[]]
