@@ -17,7 +17,7 @@ cssclasses:
 - Youtube and algorithm's platform biased towards content that has clear answer and hyper-optimized.
 - Popular creator has much expectations (e.g. show up in a certain way) -> limit the creator's will to challenge new and hard topics.
 #### Creative Freedom
-- is maintaining curiosity, leaving r
+- is maintaining curiosity, leaving room for *
 ***
 ### References
 #### WHERE X COMES FROM
