@@ -35,7 +35,8 @@ cssclasses:
 	- Step 3: Select from 5-8 books by walk through the aisle and pick up the book that holds attention more than 5 seconds.
 	- Step 4: Skimming through the book and archive where you find interested.
 - Purpose: Curated a personal archive and library that aren't influenced by AI or trends.
-#### The Grai
+#### The Grail Method
+- 
 
 
 
