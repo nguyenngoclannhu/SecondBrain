@@ -155,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -165,8 +165,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -175,8 +175,8 @@
             "state": {
               "type": "podcast_player_view",
               "state": {},
-              "icon": "play-circle",
-              "title": "Podcast Player"
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
             }
           }
         ],
@@ -196,13 +196,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "media-extended:Open media": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "bases:Create new base": false
     }
   },
-  "active": "554498d10c15a723",
+  "active": "d2e147d3c9f78511",
   "lastOpenFiles": [
     "05-Fleeting/Inbox/The cost of miracle is mystery.md",
     "05-Fleeting/Inbox/270820260006.md",
