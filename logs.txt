@@ -4570,4 +4570,287 @@ commit 7e9b20661c8ccd7008ff19b13751a635f97c6716
 Author: Nguyen <lan.nhu.nguyen@sap.com>
 Date:   Tue Nov 25 17:54:03 2025 +0700
 
-    commit from macbook 
+    commit from macbook pro
+
+commit 5802dd3a3e7a891fa217f4ce3f828242b0243257
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Nov 20 12:36:52 2025 +0700
+
+    Updating vault from ipad
+
+commit bd99219a0e067e26e6a970588734d8e2d913047a
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Nov 18 13:04:40 2025 +0700
+
+    Updating vault from ipad
+
+commit 24d62d7ebc970926d90e85ded85add0f9c2d2a47
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Nov 18 12:38:51 2025 +0700
+
+    Updating vault from ipad
+
+commit 4a7a7179c1750d642c5f3c71f5e34107660b17a0
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Nov 15 10:28:43 2025 +0700
+
+    merge
+
+commit c0c2284ad0de17887f84023588ea36e3cdb5cecf
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Nov 13 23:25:48 2025 +0700
+
+    Updating vault from ipad
+
+commit a43c6db6da1179a3d874195d0a251b6a95a7753b
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Nov 12 23:29:47 2025 +0700
+
+    Updating vault from ipad
+
+commit bae7a219775775da7a300194e794181f5e1483fa
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Nov 11 12:50:52 2025 +0700
+
+    Updating vault from ipad
+
+commit 6de38d3e126306ffdab1d50892e8e35d61ce2025
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Nov 11 12:42:22 2025 +0700
+
+    Updating vault from ipad
+
+commit cd452ab33924ce03b5926d50559e3ae8575d9152
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Nov 8 09:31:21 2025 +0700
+
+    Updating vault from ipad
+
+commit ec61feec4ce1b1b36dc2f568f0f92755dbc77a95
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Nov 8 08:30:38 2025 +0700
+
+    Updating vault from ipad
+
+commit ca615da9a65bb60d248dcfb7a147cfba1e8a32d8
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Nov 8 08:24:59 2025 +0700
+
+    Updating vault from ipad
+
+commit 4016249a185dd022541bb1a92a266700819c30c0
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Mon Oct 27 00:26:42 2025 +0700
+
+    Updating vault from ipad
+
+commit ac99d2a734d1a6c31a616c090fc15c60d287e8bc
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Oct 4 09:27:21 2025 +0700
+
+    Updating vault from ipad
+
+commit 4f163688793c79e5aa2398c628abdeb56e056cd5
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Oct 4 09:21:31 2025 +0700
+
+    Updating vault from ipad
+
+commit f36ac71731e354556310b83987aec405f238efd9
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Oct 4 09:13:56 2025 +0700
+
+    Updating vault from ipad
+
+commit c3dbc3559f1167deb3080fab0105a56b04d1db75
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 14 11:05:39 2025 +0700
+
+    Updating vault from ipad
+
+commit a37240d6c4cd00a516e3ff88ca8295bed71de708
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 13 20:25:35 2025 +0700
+
+    Updating vault from ipad
+
+commit 2ccd27a72b14dd7046f71af78ea78d84310998c6
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 13 19:46:04 2025 +0700
+
+    Updating vault from ipad
+
+commit 755e09ab3dc3c45bb0de934eecf8f0430b205ee1
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 13 19:20:58 2025 +0700
+
+    Updating vault from ipad
+
+commit ad131102b865b5886f126df68a36fcd4d8fff85c
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Aug 5 12:26:10 2025 +0700
+
+    Updating vault from ipad
+
+commit 151d13bf89d51b80c4ea1b8c3b801837e6091ad7
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Aug 5 11:11:35 2025 +0700
+
+    Updating vault from ipad
+
+commit 154ae3e9761596be7f9c145e782bd584ceb83d06
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jun 21 12:07:57 2025 +0700
+
+    Updating vault from ipad
+
+commit d37052cb0f071204b7ececb27ba9131a616a95f9
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jun 21 09:53:17 2025 +0700
+
+    Updating vault from ipad
+
+commit 8c4a2a2ca13ff1e6fb11a4f758e19e7b770a9c09
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Jun 20 11:48:43 2025 +0700
+
+    Updating vault from ipad
+
+commit 7541b0f7866c9557d64ac55e10071f356fbe0bfa
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Jun 19 10:39:27 2025 +0700
+
+    Updating vault from ipad
+
+commit 3ffa8282a97447c10b0ec2fc62e6c830d0abc8d9
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Jun 19 10:31:24 2025 +0700
+
+    Updating vault from ipad
+
+commit df519ade690c56187c5dc42bf1a5448594290d25
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Jun 19 09:37:36 2025 +0700
+
+    Updating vault from ipad
+
+commit 2d08add94358cd3acdc2ff7f3c582d3127ed5632
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed May 7 07:21:47 2025 +0700
+
+    Push from ipad
+
+commit 429e0efc0df07c7536ff6fef513ff0921a4d5016
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Apr 16 07:31:26 2025 +0700
+
+    Updating vault from ipad
+
+commit fe1b4c4d91c504835b20d3d73dc78f604bd49531
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Apr 16 07:15:12 2025 +0700
+
+    Updating vault from ipad
+
+commit 844a178522999aa704fd9ace0495d59e454c97b9
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 8 09:41:49 2025 +0700
+
+    Updare from ipad
+
+commit fd85f03413fb740a42f787eb52afa98d8766e3d0
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 8 09:01:49 2025 +0700
+
+    Update from macbook
+
+commit cf74f191e69568892577d719aa4c8a5be37a87fa
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 8 08:54:50 2025 +0700
+
+    Update from macbook
+
+commit 1c8d20c2f9c74263af57197c7a7edc3864f9b427
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 8 06:16:42 2025 +0700
+
+    Update from macbook
+
+commit 883037305a854a7fbb26e278b39b0a3adec3c686
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Mar 7 06:35:28 2025 +0700
+
+    Updating vault from ipad
+
+commit 6e35cc3ead13e0a4d57a92d4758c748f8de68b17
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Mar 7 06:18:19 2025 +0700
+
+    Updating vault from ipad
+
+commit fa2b68a5d7536c2d537cf74f11a74350de86a731
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Feb 26 23:18:56 2025 +0700
+
+    Updating vault from ipad
+
+commit ff60d49829e3eea02022237d46b8cf9966baad2f
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 23 22:14:48 2025 +0700
+
+    Updating vault from ipad
+
+commit 803e5588c2eb5cdcff01010e936852e689aa6cbe
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 23 22:13:50 2025 +0700
+
+    Commit from macbook
+
+commit 194e4b6fb362d1b048ca902bb10ee860ba477910
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 23 22:09:31 2025 +0700
+
+    Updating vault from ipad
+
+commit 62581a0107e8da4d840caccdc508d04c79c7d7e6
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Feb 14 09:17:46 2025 +0700
+
+    Updating vault from ipad
+
+commit d492466586e561512105fad0fb908ba33a9f187a
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Feb 13 23:29:48 2025 +0700
+
+    sync readwise
+
+commit 4b8ea88038a01ebf2c055dd2c14c5307f90a7b99
+Merge: 255cb12 2de6837
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Feb 12 00:29:26 2025 +0700
+
+    Merge remote-tracking branch 'origin/main' into lannhu
+
+commit 255cb120169acfd12d7f6a33ce8c99810e1b9cb3
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Feb 12 00:26:19 2025 +0700
+
+    Edit template
+
+commit 2de6837521aaf23b3e5e6a09534eb7589c35e282
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Feb 12 00:23:49 2025 +0700
+
+    Add dummy notes
+
+commit 9b86ff3b11f3a7d738e74b2675b37fbf4db1b884
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Mon Feb 10 23:22:08 2025 +0700
+
+    Base setup
+
+commit d2a1620d9a5ccb5ef8f0cab9501bb61273084efc
+Author: nguyenngoclannhu <44134781+nguyenngoclannhu@users.noreply.github.com>
+Date:   Mon Feb 10 22:05:27 2025 +0700
+
+    Initial commit
