@@ -58,5 +58,9 @@ cssclasses:
 >>>>>>> 8ba3675 (Auto save: core-plugins.json)
 =======
 - That's a truth but missing: We are all fools. That is including themselves. What we know is too little. Revolving around such small world is not much of a different from the ancient times where people believe sun going around the earth. 
+<<<<<<< HEAD
 - It has been said for a long time. Ancient people have discovered the
 >>>>>>> e7c4bb8 (Auto save: main.js)
+=======
+- There is a theory that I fancied from Dan Brown - "The Lost Symbol" where he proposed that the ancient people have discovered the truth buth
+>>>>>>> d796b33 (Auto save: The cost of miracle is mystery.md)
