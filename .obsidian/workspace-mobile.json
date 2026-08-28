@@ -626,11 +626,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "62601a52930232b0",
+  "active": "a87826dc866dc1cb",
   "lastOpenFiles": [
+    "log.txt",
+    "logs.txt",
     "Readwise/Full Document Contents/Articles/Rich Holmes, Tivadar Danka, and Sebastian Raschka, PhD posted new notes.md",
     "Readwise/Full Document Contents/Articles/wuwei_mind's comment.md",
     "Readwise/Full Document Contents/Articles/The Ocean and the Meaning of Life.md",
@@ -656,7 +659,6 @@
     "Readwise/Full Document Contents/Articles/DH Ratios of the Inner Solar System Philosophical Transactions of the Royal Society a the Royal Society.md",
     "Readwise/Articles/Niềm Vui Học Tập Đặc Quyền Thiếu Vắng Ở Những Tâm Trí Nô Lệ.md",
     "Readwise/Full Document Contents/Articles/Niềm Vui Học Tập Đặc Quyền Thiếu Vắng Ở Những Tâm Trí Nô Lệ.md",
-    "Readwise/Articles/Nước Mỹ Đang Bước Vào Chu Kỳ “Tái Lập 80 Năm”.md",
     "Untitled.canvas",
     "Pasted image 20260106155553.png",
     "Pasted image 20260106160014.png",
@@ -672,7 +674,6 @@
     "Untitled 3.base",
     "Untitled.base",
     "03-Resources/Media/Videos/History/Game science/Black Myth Wukong",
-    "03-Resources/Media/Videos/History/Game science",
     "Untitled 1.canvas",
     "99-Meta/Images/Pasted image 20240517153258.png",
     "99-Meta/Images/Eco pavement.png",
