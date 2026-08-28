@@ -19,6 +19,7 @@ cssclasses:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - 
 >>>>>>> 57839ca (Auto save: Niềm Vui Học Tập Đặc Quyền Thiếu Vắng Ở Những Tâm Trí Nô Lệ.md)
 =======
@@ -33,3 +34,7 @@ cssclasses:
 =======
 - People getting into packs, stand behind a barrier that contains those who thinks like them. People become vulnerable to critics and cannot handle different opinions or viewpoint. They saw having a different opinions as attacks, as disrespect and people escalates it too quickly and act as if they are a victim in order to escape the heated situation that they do n
 >>>>>>> 422ace4 (Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Vanguardism.md)
+=======
+- People getting into packs, stand behind a barrier that contains those who thinks like them. People become vulnerable to critics and cannot handle different opinions or viewpoint. They saw having a different opinions as attacks, as disrespect and people escalates it too quickly and act as if they are a victim in order to escape the heated situation that they do not have the immunity to deal with. 
+- The contracting makes people think t
+>>>>>>> 9891762 (Auto save: Người Bay Không Chân Trời.md)
