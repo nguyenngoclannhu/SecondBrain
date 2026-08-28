@@ -44,6 +44,7 @@ cssclasses:
 - The contracting makes people think they have known it all and others are just fools who knows nothing about what they have been through, what knowledge have they gain, what insights they have gathered, etc. 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 797c785 (Auto save: .gitignore)
 =======
 - The contracting makes people think they have known it all and others are just fools who knows nothing about what they have been through, what knowledge have they gain, what insights they have gathered, etc. 
@@ -55,3 +56,7 @@ cssclasses:
 =======
 - That's a truth but missing: We are all fools. That is including themselves. What we know is too little. Revolving around such small world is not much of a different from the ancient times where people believe sun going around the
 >>>>>>> 8ba3675 (Auto save: core-plugins.json)
+=======
+- That's a truth but missing: We are all fools. That is including themselves. What we know is too little. Revolving around such small world is not much of a different from the ancient times where people believe sun going around the earth. 
+- It has been said for a long time. Ancient people have discovered the
+>>>>>>> e7c4bb8 (Auto save: main.js)
