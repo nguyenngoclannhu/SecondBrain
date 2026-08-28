@@ -1,0 +1,4 @@
+- Book
+- Summary
+	- A shepherd boy embarks on a journey to find treasure told to him by a beggar, who claimed to use to be a king of a wealthy country.
+	- 
