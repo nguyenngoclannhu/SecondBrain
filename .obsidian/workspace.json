@@ -11,24 +11,10 @@
             "id": "d2e147d3c9f78511",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Fleeting/Inbox/Happiness is preparing for the future and admiring the Now..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Happiness is preparing for the future and admiring the Now."
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -179,8 +165,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -189,8 +175,8 @@
             "state": {
               "type": "podcast_player_view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "podcast_player_view"
+              "icon": "play-circle",
+              "title": "Podcast Player"
             }
           }
         ],
@@ -210,17 +196,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d2e147d3c9f78511",
+  "active": "554498d10c15a723",
   "lastOpenFiles": [
+    "Readwise/Full Document Contents/Articles/Niềm Vui Học Tập Đặc Quyền Thiếu Vắng Ở Những Tâm Trí Nô Lệ.md",
+    "Readwise/Full Document Contents/Articles/Albert Camus on the Three Antidotes to the Absurdity of Life.md",
+    "Readwise/Full Document Contents/Articles/New Video Largest-Scale Cosmic Test Ever Favors Dark Matter Over MOND.md",
+    "Readwise/Full Document Contents/Articles/This is Water by David Foster Wallace (Full Transcript and Audio).md",
+    "Readwise/Full Document Contents/Articles/The Wisdom of Water Alan Watts on the Ocean and the Meaning of Life.md",
+    "Readwise/Full Document Contents/Articles/Rich Holmes, Tivadar Danka, and Sebastian Raschka, PhD posted new notes.md",
+    "Readwise/Full Document Contents/Articles/Nike’s downfall doesn’t exist, but the rise of brand fiction is very real.md",
+    "Readwise/Full Document Contents/Articles/The Future of Agent Impact on Media and Research AI for Software Engineers 85.md",
+    "Readwise/Full Document Contents/Articles/DH Ratios of the Inner Solar System Philosophical Transactions of the Royal Society a the Royal Society.md",
+    "Readwise/Articles/DH Ratios of the Inner Solar System Philosophical Transactions of the Royal Society a the Royal Society.md",
+    "Readwise/Full Document Contents/Articles/Health Catalyst Sold Its Profits. Epic Announced Everything. R1 Bought Prior Auth..md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing YouTube vs. Netflix, Social Media Addiction, and Reddit’s AI Downfall.md",
+    "Readwise/Full Document Contents/Articles/How to be a sea Albert Camus on learning to die and learning to live; the consolations of uncertainty; the bittersweet loveliness of life's lasts.md",
+    "Readwise/Full Document Contents/Articles/Love of Life Albert Camus on Happiness, Despair, the Art of Awareness, and Why We Travel.md",
+    "Readwise/Full Document Contents/Articles/Psychology says people who fill every spare moment with noise — podcasts, playlists, background television — aren't distracted or disorganised, they're often quietly managing a loneliness they haven't.md",
     "05-Fleeting/Inbox/The cost of miracle is mystery.md",
-    "05-Fleeting/Inbox/The Consolations of Chronodiversity Geologist Turned Psychologist Ruth Allen on the 12 Kinds of Time and How to Be More Fully Alive.md",
-    "05-Fleeting/Inbox/Re To built a strong understanding of how LLM and GenAi works and why it is important in todays wor.md",
-    "05-Fleeting/Inbox/Inbox.md",
-    "05-Fleeting/Inbox/260820262216 - Creative freedom.md",
-    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
     "05-Fleeting/Inbox/270820260006.md",
     "05-Fleeting/Inbox/Happiness is preparing for the future and admiring the Now..md",
     "05-Fleeting/Inbox/Cosmos alignment.md",
@@ -232,15 +231,9 @@
     "05-Fleeting/Inbox/260820262216.md",
     "Untitled 1.md",
     "05-Fleeting/Inbox/260820262216 - Creative freedom.md~",
-    "Wild Geese.md",
-    "05-Fleeting/Inbox/200820260013 - The moral of Hansel and Gretel.md",
-    "05-Fleeting/Inbox/200820260013.md",
     "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr/rs-test-file-etPiiok7ehP8lZoAJgh9a",
     "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr",
     "rs-test-folder-DagR6nNTo7xt0JboOYz3D/rs-test-file-daE-mzyOPmGrFd5uKOxes",
-    "rs-test-folder-DagR6nNTo7xt0JboOYz3D",
-    "Readwise/Full Document Contents/Articles/Theory of fluids enters the 21st century.md",
-    "Readwise/Articles/Lòng Yêu Nước Và Phường Lưu Manh.md",
-    "Readwise/Full Document Contents/Articles/Lòng Yêu Nước Và Phường Lưu Manh.md"
+    "rs-test-folder-DagR6nNTo7xt0JboOYz3D"
   ]
 }
