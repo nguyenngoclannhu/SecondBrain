@@ -37,8 +37,13 @@ cssclasses:
 =======
 - People getting into packs, stand behind a barrier that contains those who thinks like them. People become vulnerable to critics and cannot handle different opinions or viewpoint. They saw having a different opinions as attacks, as disrespect and people escalates it too quickly and act as if they are a victim in order to escape the heated situation that they do not have the immunity to deal with. 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - The contracting makes people think t
 >>>>>>> 9891762 (Auto save: Người Bay Không Chân Trời.md)
 =======
 - The contracting makes people think they have known it all and others are just fools who knows nothing about what they have been through, what knowledge have they gain, what insights they have gathered, etc. 
 >>>>>>> 797c785 (Auto save: .gitignore)
+=======
+- The contracting makes people think they have known it all and others are just fools who knows nothing about what they have been through, what knowledge have they gain, what insights they have gathered, etc. 
+- That's a truth but missing: We are all fools
+>>>>>>> 04c684b (Auto save: data.json)
