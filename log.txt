@@ -1,0 +1,4808 @@
+commit 44e3ecdcad23c3a633bc9bfc0408c2eeebfa9ed8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:43:02 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 4ce41f110530d33a7ad010291ff4ad7a025b89eb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:42:51 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 769254c310824e907bfaa1697cb407b5e61fce78
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:42:43 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit a1d11809eb9087bc6b385813e00c66143aba2305
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:42:25 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 82ae447acbd257b24ddf6f0491a9ccd3e1396fe5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:41:53 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 682086d05a9909d61f3ef90c949f74afab46b925
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:41:45 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit f38bc4397d09e5f9707e4ea092a5f8d533316a04
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:41:16 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit ef4f43dc333c9442ab3967791bd9dfaf7c27c681
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:41:04 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 8c626034cc084a824820e5c8513af735c854bf33
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:34:05 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 22c20b26d3bc00aafce57f5c9c73df029b721416
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:33:56 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit ebef99c5b83a046b9455249197da47f578ee0fce
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:39:22 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 87208989423d0ad6bfbf533d07aa469b5ef3a10c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:33:40 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 726d321c7660747dca6df12965c784618afc4b0d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:39:20 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 2d4b5c6102e4d939371d8355b5e7c0026a30d24d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:39:18 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit cb2af147b87579773138c2542c72a4e14a20bdb0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:39:15 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 001bf6b7e1bd4ab376dea2c2e53fd2dfe17aaf59
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:39:13 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 6f3edb32050d60c903f827d958035d6bbe1d60cf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:39:05 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit f41f7e5c1ae30a25cb9fabf1cfe6a27edb354e6d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:38:57 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 0821560b06caeb847a4f38fdfadc0bc9e175253b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:38:55 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit d1d9f06f7ac2cb5ea3656d0912cd677a98caffaa
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:38:09 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit e63e14136e3643cf8503ad7f7b4c29dbd11aa741
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:38:07 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 7801f8a5b1f0dc9cbe300e33204d7bbac77c7e00
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:38:05 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 3c5290b791a319bccf6720a35770f2c02a7a2544
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:38:03 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 27a48fd439e76d9692cba619ad1fea052cdd5824
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:38:01 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 5d8fbc0b5a15b13d71af4041f31233ad6f8f8819
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:59 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit c8a1b98fa1ae886f6d8f4156b25c90d39405ee33
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:57 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 8525f2b6cd2d00a2401df86642d83041a041788b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:55 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit d3fae0bfa4eb4000575a55a474fb4eaae6fcb5e1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:53 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit fad085e8e6125c0ec6139b5cdab7d112b15300c4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:51 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 2118ca26819a0f3356847aeeec0d83504cb7eaa3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:49 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit d454a36858bfcb483007c8dfe107330139bb1d4e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:47 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 2599100ac5d1bfa4b849d8102f7a319ac9caf5ec
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:45 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 38c4ccd38b657d20bc4317d1b8d9e961ab21f563
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:43 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit d8fd2c54179179c3893fc3c5481b4a8dc5e724df
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:41 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 1916392b7f36bf3241a7279dac1e6c1eec630671
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:23 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 3ddea566cddc5cbc5266c200127590bf77ad7a94
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:17 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swp
+
+commit cf6e280ab41abac969dfb6f60a6fccab087a4142
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:15 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swx
+
+commit 903cbef20429c490d58b108f9a8b83e0aecd4473
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:11 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 7b49c132a804f0d57bea0c0904424afc55710bbe
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:37:07 2026 +0700
+
+    Auto save: workspace.json
+
+commit 077833058d1667f4a05c4214e5534acae495e835
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:36:45 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swp
+
+commit 1adc559562e415aa45683104bc8ae42068a5b925
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:36:36 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 31655c7fc97f0f27419366fbeaf412685b4b35fc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:36:28 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md~
+
+commit 2ff9972b0b28750a065c24cb0d2743d46628d451
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:36:24 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md~
+
+commit 5e913ba082ac558d15a47be35128a4f3889fa358
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:36:14 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swp
+
+commit 459f4e652e766813bb45e353d9c52d96cc2524b1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:36:10 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swx
+
+commit f8a4074dce04d30d239b7a1ffd3d8708e83be1af
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:36:08 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swx
+
+commit b0437fb6e849a0fc4013eca8f5e8ff40530904ec
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:36:04 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit b09c6cda6857f717b1a02f349d111a39843d7890
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:58 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swp
+
+commit de815dce68c99cff72719801d2e69b9e7421ab7c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:52 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md~
+
+commit 8310155fa32250ecc152c3fbc91e0af4f71bb751
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:48 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md~
+
+commit 500995217b23afc5a0fe68a1925c58bc28288244
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:44 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md~
+
+commit 0cf3fc9cd562c84ed6ed815b04db915899b3c3ae
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:36 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swx
+
+commit aeee7e189027f310a95badc084d9c1fcbabc784d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:32 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 3a330710d0bf27824c72d6c055201f9836d3ffa5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:30 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 146ac5b9f65987322eb803fa59e364730835ea77
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:13 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md~
+
+commit 22e080118ffb479267c5b0123e21069f7f2663cc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:35:00 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swx
+
+commit 7be1ad391301e7ca8c99024044cf156a384a2d8d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:34:58 2026 +0700
+
+    Auto save: .The cost of miracle is mystery.md.swx
+
+commit 99383e6ceff894267cb99aed528ddbdeeb0d6ba8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:34:36 2026 +0700
+
+    Auto save: workspace.json
+
+commit a632df15e6ce4ccdc3e2da8d278c0df1b8ac903c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:22:14 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Niềm Vui Học Tập Đặc Quyền Thiếu Vắng Ở Những Tâm Trí Nô Lệ.md
+
+commit 7a60392be33208376081946629012875dc1c1d4b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:22:05 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Albert Camus on the Three Antidotes to the Absurdity of Life.md
+
+commit 715edba38249c869d3b327aef309ce9c83cdf900
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:21:57 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE New Video Largest-Scale Cosmic Test Ever Favors Dark Matter Over MOND.md
+
+commit fa98f4c269caea214a0f47448ce73cd97f4781b5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:21:49 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE This is Water by David Foster Wallace (Full Transcript and Audio).md
+
+commit f874267b24782f04a007d41ec36f9b1341aabca5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:21:41 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE The Wisdom of Water Alan Watts on the Ocean and the Meaning of Life.md
+
+commit a68c1eaae80f048655119a57e4bad71da624359b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:21:32 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Rich Holmes, Tivadar Danka, and Sebastian Raschka, PhD posted new notes.md
+
+commit 437aacc43c58c3f3e69128e61a1cbd1e73bacf17
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:21:24 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Nike’s downfall doesn’t exist, but the rise of brand fiction is very real.md
+
+commit 87d9d70190df7af654706cd2533f5d5608b3c940
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:21:06 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE How to be a sea Albert Camus on learning to die and learning to live; the consolations of uncertainty; the bittersweet loveliness of life's lasts.md
+
+commit 9d8de56ad65fc2fadbcfc6f049b101668cc32a2c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:20:58 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Love of Life Albert Camus on Happiness, Despair, the Art of Awareness, and Why We Travel.md
+
+commit bebe847ec3e3f1e176d6c093d6597cf4c6234448
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 28 17:20:51 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Psychology says people who fill every spare moment with noise — podcasts, playlists, background television — aren't distracted or disorganised, they're often quietly managing a loneliness they haven't.md
+
+commit e3732d048bb0dd003844c6ea4a321f8246dc2626
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 18:41:23 2026 +0700
+
+    Auto save: workspace.json
+
+commit 33d92566da170cb70d2ab6e70c1ce29e6d492fee
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 18:39:13 2026 +0700
+
+    Auto save: ._workspace.json
+
+commit 26bb192949c7020cc5f55bb9ff98fddcb024e8bf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 18:38:33 2026 +0700
+
+    Auto save: ._.OBSIDIANTEST
+
+commit 98a91afebea9e4b5fb7366bddf9ea51c1a6944d9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 18:38:27 2026 +0700
+
+    Auto save: ._.OBSIDIANTEST
+
+commit b4227bc72e8b6281c3631f56f9a6e1aa123cf3d1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 18:38:22 2026 +0700
+
+    Auto save: ._.OBSIDIANTEST
+
+commit 255bf075d1e21f6f1931fe0a4fa848e1e1ebc32f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:08:18 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit 1f83b5338f099e2804d9c81087878224ee69ea6c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:08:12 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 4fc6b37d81574786a1a64b582ff73af17138e436
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:07:53 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 15b39ad207d2960368b17c9d1d8d408a911a7041
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:07:47 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit c3fe0eb8b40ef29834fc6d8abc2fe584e47f8938
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:07:41 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 0f748e206a5cf36a32e601cc760d794abdb39806
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:07:35 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 120ccd2e3c4d0609f776c16fe5e09b537fc2181c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:07:29 2026 +0700
+
+    Auto save: workspace.json
+
+commit 1afb0e9acfc7b305a3b41de81e60270a76490563
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:07:24 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit 6d2b17c577ba2ef326af8da520c6174e58544875
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:07:18 2026 +0700
+
+    Auto save: The cost of miracle is mystery.md
+
+commit 343b7b5fd0d0436100b07085cc9565a2b1bcf4c6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:07:11 2026 +0700
+
+    Auto save: 270820260006.md
+
+commit 28bbd69dfdfa5329302adbc5b5b4a6ca83fe43ee
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:06:45 2026 +0700
+
+    Auto save: 270820260006.md
+
+commit 617ebee4de07634712bf6d0655a23c7a6e01f416
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:06:20 2026 +0700
+
+    Auto save: 270820260006.md
+
+commit 17792b778b7341c90b07b38fe49fe5b8334a0c56
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:06:12 2026 +0700
+
+    Auto save: Happiness is preparing for the future and admiring the Now..md
+
+commit 04ef918175e7e2ce9a43ded5822775658f5323b3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 27 00:05:55 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit c1e36d3bc0e7ee8d89d2fe7d88a157629f8fdd42
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:57:38 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit a80193f38d742306e46bb67724edc5bb29b344a4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:57:32 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 2a86a2edeaf464efdbea89a6197168b9912a8ee9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:57:26 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 6ded5bd03bcb92f774aa820b5761ea82e283f58f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:57:21 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 1b9cd1cbc83687f1b6486056d6396eee76d9b2af
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:57:15 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 33b4bfc325d0b11910451127842aaab1ed88eba8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:57:09 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 7de2e6633c94584ccd142cb8c510905df89a9b6f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:57:03 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 58c5d4acbc7e261b20d656aea0d73f9f4525deaf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:56:57 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 6908c647e56b22adb8213fa201feef2e9f2ab535
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:56:51 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 45fb2e94f75eb213a9ed4e38126cf4da076f15d2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:56:46 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 9b33ab724067fe88a8fe4184bb47ee5175cd82f9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:56:40 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit b85e2b0e4906cbfb338e9f9609dc5214e9f0b712
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:56:34 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit b019fcfa0f061469c9de543073bc80aa7f0279eb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:55:05 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 7c9717619657e308febbed5edeb437ce36553759
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:54:59 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 4aa42479de3b7c2e5b04858d1fdd8399ac6c0fb1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:54:53 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 56405c01c36a1541bbfcc736a03fd6fa895e7d77
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:54:47 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit d0e11099b8ad0582e3da0d04001f9457efad4f4a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:54:41 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 46c7928999c1627e9f00959678f8f1c279614c71
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:54:35 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit d9a72b3d3da6a85cc3b310aa85653aa4bd51fae9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:54:30 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 15e9411ea0d5d32b03fbdffadc9d31a135dbe7e3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:54:24 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit c5226a818994d32f426d800180eb25cfe3169efe
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:56 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit ab366d519e817c05d4a299ac6ca69b914d5f0957
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:50 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit e2fe3d4a55ddec6d4e55c80a05cfc82957f20f0b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:44 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 37cd7c87f49127a1a7dbb05aaeca144126ed8b02
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:38 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 45dcc2ff74cb88c055677cda3d6d28d01ee26fd8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:32 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit c64f9adee593e84cdb9f636a2ceb0ffdc82fd4ed
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:25 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 553ca00f60f3e2c4214d5cc68b68d7ff86d799cd
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:14 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 32f6a9cc934cd0ce70ba277c45189feaa5a2fce3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:08 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit f8ec4d5e10979ca39d3f0f1ac5d426b8a62dcb04
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:49:02 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 38e1c1d9499bca33a9c232f1267fa98d91a0c586
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:48:56 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 077ea5f677a384baf75e88810f8e3d649d7ffb3e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:46:10 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 7162961283bdcf80bc520f54751be2421b583e14
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:46:04 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 7a820560f6ef1c76cf996915d44d8c4ffdde48a8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:45:59 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit e96e44012412ab250c93bff26ad3cbc1b1424551
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:45:52 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit fe32406d62b656464ee6992a4f1a32310b9ae4eb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:45:10 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 9e6465241b5b2bb87c6c725d3731609d34c680ab
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:45:04 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 0eebe9b6380541ad3715401de05be7b4b72e2c5c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:44:58 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 5f186d599900cfdf675ad09305875c95de02ae63
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:44:52 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit ad6598b0befbfac01d19bb883b1e878f698c73f8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:44:46 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 18e2f0d69084a7935ed3bce065415bfeedba6692
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:42:21 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 6155812ea7ea6d5a26327fa55a7c6f2154723773
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:42:15 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 5a8d10b33366f904cd194b05ae2a04cc4a42c2cf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:42:10 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 3f25f491b228e88a38f720b0151f7688008a52d0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:42:04 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit e7cc6b136e8489dd9edf14a6e2d20f99836f46b6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:58 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit d83b612a6e454f3d3f11d782ebea28df5c106f0c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:52 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 4fed273119c570a1ef82d99942dc487c7e474595
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:46 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 738ce702142c7623cd0b83f2e6abbfd746f09d06
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:40 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 6a9cf45c612db46d1b0156720596444f518b9898
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:34 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit f36389a13141193edfc8d8b503f299ce4de16375
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:29 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit f52ecbd8fe236d17fa801ebaa23754b26db82c81
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:23 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 7387fde67a92b0d9fb7b00a35c945ab9dee23f8c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:17 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit c3a28d4bafe743170fc619d2f4531b8225cf38e9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:41:11 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit dcedf4aebea7943fd1452d942c72427a1b02bfb3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:35:14 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 10fc02e5cd4435444616d93a76171919b4054035
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:35:08 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 64955672f59151369f6fc480974e55f72230972f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:35:02 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 98f1217aedc5ba4aca889e607b0b0cc5e0803551
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:34:56 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit f3c97c673502ad44541c364ee171c64e382bbf79
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:27:58 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 776e0e102f2c7ac743545498b210afe25f6ee135
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:27:52 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 2e0f104ed74a268a0fbee2b0ee42fe2a35e9b484
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:27:41 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 86799caaf3fd52b99743235ea96f375aed7a8297
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:27:34 2026 +0700
+
+    Auto save: workspace.json
+
+commit 20acc4f6cf793836a74b9ab4a1e830bf3dbef757
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:27:29 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 2fd92d149339b19c2734117bcc7bc7eb01092846
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:21:20 2026 +0700
+
+    Auto save: workspace.json
+
+commit 3bc201e11b4d034d024a6b30b0ae828af59c3faa
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:21:14 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit 9d3c020e1c6294a8b1624a24323313511502e195
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:21:08 2026 +0700
+
+    Auto save: Cosmos alignment.md
+
+commit 0ce5b170dbfb5163e6336507790438cc190b32c7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:21:02 2026 +0700
+
+    Auto save: 260820262317 - The Alchemist.md
+
+commit 1e3d5c819db05338e8b70a4e41a864c9b2e1be40
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:19:00 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 258f67ff4f284f4a1c69517540ce945ccf1c3cad
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:18:54 2026 +0700
+
+    Auto save: 260820262317 - The Alchemist.md
+
+commit 780603d600162d7bc2a3c3e6da9ad0f9b226b491
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:18:48 2026 +0700
+
+    Auto save: workspace.json
+
+commit 51b29c5f4e8edcc21559b159585995036b6154bf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:18:36 2026 +0700
+
+    Auto save: workspace.json
+
+commit 202e7b59504b0073cdc1240d958d3fd54c41ebd4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:18:24 2026 +0700
+
+    Auto save: Untitled 2.md
+
+commit adbc7b13ccdf9aa79ba63efbe0db9b5f49fa06c5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:18:18 2026 +0700
+
+    Auto save: 260820262317.md
+
+commit 2ed434a6415147c88a4c1120a92f9d0c8791c4ac
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:18:12 2026 +0700
+
+    Auto save: Wild Geese.md
+
+commit a8fda3add30b246400b7b4bae3ae3759cb12db2c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:18:02 2026 +0700
+
+    Auto save: The Alchemist.md
+
+commit 81b8f075c279f4c0284d5292f53ff10e6cdea463
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:16:38 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit ace76806236b0554eb2d07829ff1baa13390de25
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:16:28 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 413322f7f3da41c87c419b39aef50e13709a94d0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:59 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit d5aa8005141307a377ee2d18246f82c28027cf4e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:51 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 6d7a246651d321f35c3320fa57674151ec031147
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:45 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b7c7851d4f5e6a672a9f40f49cec41d67b29d857
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:39 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 9eab86011a988249820cc900d4e63702d3fab71a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:33 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit f1e6789cee8ed31585761e7ae677e1104ed13094
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:27 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 41cba7f027851c608f08bfc847b26f2d06527d60
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:21 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 4dd941c987d31aadede36d7eef8b8b6b9ee5c8ba
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:15 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 7aa7f91cdd47af7fba2dbac2d1fc871d15a88497
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:10:10 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit d9d56d7f99a70dfe51e33d81f6a31dd5de0d8d94
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:08:09 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 60880d389878e2b73fd97ef2e7c381a7dceb955e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:08:03 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit d2b5648d558d00e931283d6c03f0840790f16c07
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:07:57 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 100edebdb7a66c58fd1047a26b87800c70b2c720
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:07:52 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit c1615cf7ac30a5ec3eddac7d2a66947e8542e28a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:07:46 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit cb0e1bba8cd7d1876a444308c38a89c11dc16261
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:07:38 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit bfcb66efc6155d82f8e728de9085285529198e81
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:07:09 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 17b39b4fe79cc2971c9f081f61d3c316c4d04a68
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:07:03 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 39a48abf070367a82cb178dfcde6d965cbd9c84e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:06:57 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b33d50041fbe62e7eaee2621ed884020b54a9f0a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:06:51 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit bd7720c82c5ac6beff687abefec19e4278228fac
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:06:46 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 86289334d70f1e16c0948e3258f0c5e16246c493
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:06:40 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit fb5e453699ea688d69a01ce1501a0bcee930a577
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:06:34 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 126199c284938649d37475c7314bcbe062cd115f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:06:15 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 04cb20f5296f31efdf71ca2ebf4490aaf9a7a72e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:06:07 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 68be5a9dc59aae9a9608cc469b577c35b8440bd1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:06:01 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b68246351a902b44a0ed0fa4973489f4b731b3ec
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:05:55 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit fce5f0b318140df76d8ee64393beec578181d507
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:05:49 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit f442ba990c120eabeee110fb629bcdad749b1af6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:05:44 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit ae97852f33edb6d70c016ac99b43bed2a009f9ee
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:05:38 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit cf6e728d64f469cbedd2f8dc8b7921f606ff3823
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:05:32 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 87b459a04a5f06882a0650ae530f9fe58dfd211b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:05:26 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 58bb77d5733eb482fa52c6c5573e9c91cffe4bcf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:05:20 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 8c646558eea95d591cd378689ee3927fce8d6ffb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:04:37 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit d9756844199926c949d4b255bd8a2ca77f8b7aa7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:04:32 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit f8bcaeeefbcd65a40ed95f7bab97e15d9f0564b3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:04:19 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 58afef0e5f165b060a25a3e1ec1c819c134437be
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:04:13 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit fa250013273726c39c11bc7239e13a1a6c031f5b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:04:07 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit bca2ca48eae4fe66cccfc3ecc2297f3f650b7eb9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:04:01 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 009b07d0bf4dbf222482b0bb4451c654745a2b72
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:03:47 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 26050913384ebdba3cea8db7f202346f05da276d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:03:42 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit deccfa00ad632ceb6ef35b45a2b3c2918edb8f9d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:03:35 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 329128dd853dfa6edbea67eb403afff2e85951f6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:03:23 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 990c5a007a6d6cfa71f42577a3d41631051669e5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:03:15 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b183317c6919a597a0748991968c0f2f7f763c58
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:03:09 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 7975c654a477049c0cec464a0f4f85b609218b51
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:03:03 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 06d7cf0af6174a45f6306d3eb1e8d5dcab7e645b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:02:39 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b3bd502a8341da2e1d66e2b693009e4e119c1eab
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:02:34 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit a53052eb93512942334bde373cc9bdf3009250e6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:02:28 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 5ea2a970850d405f517c092389b59993d8f3aa46
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:02:22 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit aa378f13cfc9db5ecf67f9ce956e2eb7dd7b7ab9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:01:34 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit c503646af715b5f005c98ca4f9a57a58e88c7c25
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:01:28 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit a47217a78d061d3ecb99a1b7c13c2aff343d0380
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:01:22 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 02cf3ee149782d2d5b59fbbdc2c34fb7279001c4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:01:16 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 0d4b58101dad067b325633eb22f5ab16e16ff1e1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:01:10 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 45ce287541cb09789da499384e87f04e3f7e2aae
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:01:04 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 4e8dd981cdad1df80d4c8f78dfdf6f88292b8e5c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:00:59 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 927657f645f20021db1010b5fef7253bf48ba9db
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:00:53 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 33dd756c2c036f5753258974f9dcf1b399c9b008
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 23:00:43 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 3ab9bd69e56c8d4abb447d446d08c75a8387ab8e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:59:17 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 595b48fcc41b149da60887850ff28564a6fbd7d6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:59:11 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 924d9e4de296db22ce60b8b4118f5159ece8b022
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:59:05 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 88e6a707a7de34db33af74ed9da8717a81e0a0a7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:58:59 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 0a4d88c69ad5173b303ce3d20895393da0722fbf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:58:53 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 230f5bb1ddfbc587c62bd5e2c13e2e0645fabbed
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:58:47 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 590a5ca506e1f6db271c11b2ed3d0f75c768a6ab
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:55:20 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 1358988735aee0ed83b8c4dd47dc17d1bc0cf538
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:55:14 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 024422546ff4c018741a9dfa172e56d4cbab897e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:55:06 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 8f9248bb87d4468f944062234ce853cfd91684ad
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:55:00 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 9bf60ffd115a2a301b42e847d66d37c18bc31287
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:54:00 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 995795cbef3769bdba949b56e0d02c31683ba2a7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:53:40 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 0815f4441cb35fd553ca47956d07fe9aa3cd2094
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:53:34 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit ea86caac8365fc5683ba56f1a8525ffb46126d88
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:53:26 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 4c8bf370509008728a57deae9c8ae48599823bbd
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:53:20 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 162f57a6ded4d2eb7ea0b5dd69e465bee075a468
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:53:14 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit ff96d93e8cdd326bdff1ed0d1b6dc36089ef4683
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:53:09 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit d7625f745e4bdfb3238d17a395fea88d399ab6bb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:53:03 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit c159b848c7037e9acde33456cb5cb9954c770d51
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:52:57 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit a8e120588b1fa9c95b90df1c375a5216a62e5250
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:52:49 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit aad20381baafa500bd2216a731e8970aadbbcc7c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:52:43 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 13cede5607143381f22badade9e8dbf53d90b8e0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:52:37 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 9f3b534026c671a11b2a936e46b99bfc756ae985
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:52:31 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 9c7352d1f3fd6c096cc200630efa9a649347e62b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:51:50 2026 +0700
+
+    Auto save: workspace.json
+
+commit 698be65df4b7ff26afb24be1fadcc877417db491
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:51:40 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit d8bf5172114b340dbfc4cf562de2a661f04a2ded
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:51:34 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit f60732809e7e55288574f812ab5b3c5048be67ae
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:51:24 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 1c6019a02155ebb815a772c3ce5f40c2bff6d8d7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:51:18 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 68000beb38bdd033c2cebf62e18462fbc251c8d9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:51:02 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 856ed6cfb402b69dfd135babb1107d8339c60ef0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:50:56 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 5ecd6da44551879203db457cc65db0e0e18ca7af
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:50:51 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 963616fb8926203c3172e952111488485d6c60d6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:45:50 2026 +0700
+
+    Auto save: .260820262216 - Creative freedom.md.swx
+
+commit d1421c94d333d5baa0456f76d62c9897005d6119
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:31:56 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 801ce89420f66b1aaf4e5404c4ee2d561093d91f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:31:47 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit a4abc6c352c2b7dbaad7457b85dffcc1aa881b60
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:31:39 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 8c9826cadc6b3e72fe09c7c90a7a2c63b9036803
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:31:31 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit ebb9eff4f282d281b531b3ecf8156a8a822044e2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:31:22 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b45382a1b3c3acb76d7c82e969fb8e329360ce0f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:31:14 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit e83e1422fcaec33ce70aaef21cc2da462d4dd0c6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:31:06 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 93852c1529cdeb7d197c47fb31e27e1646e67c73
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:30:58 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit fd42690351c0cae2529b5232db788aa900962a03
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:30:50 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 0dd13ebe264813a391b85ea1fa365909da82e080
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:30:41 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit ba4cf4a2eb089018e2c509c5df97b9f03cab4f46
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:30:33 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 917d3d19579c14020c11c1004e6ee32ed2cd6eed
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:30:25 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 109c72b708c6af6a817a19afa445548e627d3f0b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:29:38 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit a52dde6e1ca3353667550797b3d8cc2dab8da7b6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:29:30 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 3ac95e10b28095f297d3451619e83a323f403a4d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:29:22 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit f60d61ff52251b6b5084f43bbbc3aa6d4d2fc825
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:29:11 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 952b7ca3c54f072d36c8abfac8df5b760a7ae8a2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:29:03 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 24a45e57244adc14b0ac99c6b1962eb0c21418d6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:28:55 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit c98238bfb8a49b53cd2be6eddb9143fe15466b12
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:27:59 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit bd336d68887f450c82de5a2376782a42a9583bd1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:27:51 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit d6ef53633dd29b63f007380d8de989b734494dd3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:27:43 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b79cb5023dc8b7224a0e015dda31354468e3c164
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:27:35 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 205e69d482f9840e2ba4c4ca2b23ee7e26a68106
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:27:26 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 878af09ee521fe4bd06182a7ad0c1ef6e003029d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:27:14 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b25a37442b33df9b0c802c82721c309b1e063243
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:27:06 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 6a47dd62ccae7702618e314c46b53a768cc5c40a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:26:57 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 87b32b7f148ddc94f0d37507c639102fc6a367cf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:26:49 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 8648237fab313c5f801e2b4c260d89840ab09e8c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:25:47 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit e93092014b3fcacd825676844ea9c2821f3d11ba
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:25:36 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 3e7eb0be95c3a606c6776762c0c528ec7222b3e4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:25:28 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit c9625b9c4ae23b3c249413c3dd0b802d9a04d2eb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:25:20 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 727833afdf1ff7c4739015293d04fd1b922fe648
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:25:11 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit dff960e1977e3852a8e0e50f9ad9d0407c83a776
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:25:03 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit e9224772c1317aa2be3844d1fb3ddb0a64942978
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:24:54 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit cf976078976ff5166722b1ec163fa3419d61812b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:24:30 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 45defab00bc6120cbb00aceb52c6b58519cdea3a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:24:21 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 87c9e4aec335fd10461df074bc5efeb4c87b394a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:24:13 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit fc43019ac37c6757d80f69ab857fcd6a2f4adb2d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:24:05 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 5f84d1798c068f3f4df7fdf4216c598ce501af7c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:23:56 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit f2d4af7ec70826f07fe5a2d9052ef1191ccc21ae
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:23:47 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 2edb919324ae4f79bde27581ea1f478c815741ba
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:23:28 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit b711c6cef91636db04bc3f8270338ecca44cb1b7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:23:19 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 5ceefe8b55ac7fb948f4b394760c9dc1f3398b54
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:23:11 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit e57137055f37cd5458f8ce94bf35c042c3ed636a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:22:42 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 4ce811d3183f2470ff8bb06e88d620593e6a219f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:22:34 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit deaeb9f022d1c55a37da64c2b7a319804796db37
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:22:25 2026 +0700
+
+    Auto save: workspace.json
+
+commit e94c6cad0bc7d38cc7e1a9e79352e6aa220da80f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:22:19 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit f90cf13bccbca7882c0877074ea60ac6385f9474
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:18:59 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit f2125e5456cac80e9193c27476452073bfe69130
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:18:51 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 875e8dedbbc0dbe0ed1d917a288b6b4ce2da66c4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:18:42 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 9d4d88d93e03493c21dc61d1a47586499c8192ce
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:18:34 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit e0c6fd11ebef0def13966b42cf404c8df1ee1e11
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:18:09 2026 +0700
+
+    Auto save: workspace.json
+
+commit 2365ea03872ee009eb8c63e1f222a5aece7cae60
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:18:01 2026 +0700
+
+    Auto save: Wild Geese.md
+
+commit c41e8a94898f3a9fc864789835b6d71133f52cc6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:17:52 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit 8e93c6519348fc2f3caacebea1156259116d75c7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:17:44 2026 +0700
+
+    Auto save: 260820262216 - Creative freedom.md
+
+commit 1dcb93cc8fd773e67fefbc8d6dcfb5e4ca81d3bf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:17:15 2026 +0700
+
+    Auto save: 260820262216.md
+
+commit 2da173a7981b1b80ad97520d804d7f3d6c13d7a4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:16:34 2026 +0700
+
+    Auto save: 260820262216.md
+
+commit 4d43724e6ea9874a74c79860336989f7b4b6991d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 26 22:16:13 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit efcda269eef43a4f5fb183afaec33ea65f4c7ac0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:02:30 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit cef7bcc0fa192f024b3325fcb065e16aad21de56
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:02:23 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit 9bd9009a6ab294f1f55b98215bde83e6d053a2b5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:02:15 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 51676dba90ad8622fee4cab862829e05e1219f4f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:02:10 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 32fd53894879196b169a40af8426b452d7bd7f35
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:02:04 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit c4d2ea1e4f1478226d8830f6bcbaac05c82c7efb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:01:59 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 72281de39cb0d7608bbf4a01eba921fa3bd8c7db
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:01:53 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 489c1d37aa076d2e189ee58210d62ad9bbce3b1f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:01:44 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 64b6b709dcf030bc82dd790d5aca47999c5fa460
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:01:39 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 7f0b428d19107dc9aabb833ef29e04e7f8365a94
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:01:33 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 59a88ace41fdee87ed88846b443155127bdded69
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:01:28 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 5f7c26d297ad0dd1efcf23fa7c27c0d96b098a2e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:01:23 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit 47bf89d48dcdfc760938dc4bd649def21800c5e9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:01:17 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 98d53b4c6755476a75115758d92858d54f1d3b93
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 01:00:05 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit d79b584a9cafa12b495836517ad4a0eba5435db4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:59:54 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit 0d6c261c62f1783ea9238f6fafbee9abfdaeb7e9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:59:44 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 29bfbfe76cc5bb784cbb99d76011d8ae252b9ca9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:59:35 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 853876be4703015965b7f84c0f55b094124007da
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:59:29 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit fe9c45cd88d2531f6f6022ce13f78ef717679b4d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:59:24 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 755c5c3fb924d7589fa1d0a4f40ddc61450dae37
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:59:18 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit bcfae0d16586b7cb257ef2d84b60916f9bb981ae
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:59:13 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 7e88ec15d0bcb514aed181e2f59ccfee747c30cc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:58:47 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit 683d4e38455e38bbd8808d3190ab055aa8d755eb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:58:37 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit ad4792ba52801a2d00068cfa6c23c24b0a426a12
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:58:32 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit bb3dade61b965a988aa25b263a8641619cc8fb6b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:58:26 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit bb36c93f9c1647f4ee48427beaf2967b1732a65a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:57:19 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit e93c68e234c727390cd73e4415ae4c43c582cbec
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:57:14 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit bf274450a9c8090985f469b35851c81026d783d9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:57:08 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 171757ea89d8c845d52b1c4d0c74c619a2fae26d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:57:02 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 42be926234651659d698341d7fbbb22cc2eb22bc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:56:33 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit 77130b42ee7c55c6252b908345770fafe09c51fd
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:56:28 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit fe8ab2711e50c45459b10994b50e801c16390085
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:56:17 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit fe4ed55c7828580b647fa9eafc7f8364285075a5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:55:52 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 7fe22d521dd3ce9b26c941650956723a8235705f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:55:28 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 0baa8b16830ed6304ae67279ce2dabde849462f9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:55:22 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 3109335850899c698f6cf62641337b1688136305
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:55:17 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit b3c6a5995191ec9e2dc62bb0110d7d831184cdc6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:55:11 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 7cab7a1d0f7e4eef853c6bf879a20ff7f8376521
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:53:07 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit ccc488b22a4c4841ccd789376a8675518c1dbc4f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:53:01 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit 6ce6a4ce9c40a4ea2f1be3eddd13fabdf971b019
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:52:56 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit 6bc99ebc0e0e24a50211cc5f6fd428c7e442e953
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:52:50 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit e7b6f9ffea96feeecc284ba125a835a28fb1d77b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:52:45 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit e6368cf1e724fbb0eda5688a1becf60fcb29f3f7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:52:40 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit cb21ed43474f8d5c0a2da821d49ebfc92f2f0f48
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:52:34 2026 +0700
+
+    Auto save: 564. The Moral of the Story With JBP Hansel & Gretel.md
+
+commit a22564341148034dc38ac9b8745ac3c90ac04d75
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:51:46 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 06352c2f77c3ad25b569312695afca57579b0348
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:51:41 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit ec4d0d27336207df5bce472970c5e125605860b7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:51:35 2026 +0700
+
+    Auto save: 200820260013 - The moral of Hansel and Gretel.md
+
+commit 21caa3edb9e143c140838c67bcf547e9726665a3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:43:52 2026 +0700
+
+    Auto save: ._core-plugins.json
+
+commit e4e48343963f8cd5c7e84c420ba7f87e1612212f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:42:03 2026 +0700
+
+    Auto save: ._app.json
+
+commit eeb02451c533a7e57ca114c8f506b67679288471
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:41:58 2026 +0700
+
+    Auto save: ._app.json
+
+commit 722c4f8ee4ddea8d96fd995449eab9e71b6314b3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:41:24 2026 +0700
+
+    Auto save: ._workspace.json
+
+commit 3d1932e63af5eff20621a10a5cf88d47699b1444
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:41:18 2026 +0700
+
+    Auto save: ._workspace.json
+
+commit 92fd06c9fa781e2a2d74c06192473f072c1ec924
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Sat Aug 22 00:41:13 2026 +0700
+
+    Auto save: ._workspace.json
+
+commit f13d6505f2b2bb2194b897ebf693b262b85a5a92
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:52:52 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 82865bdb0dab70862ffa269d40e81fa3f0ea02e8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:52:47 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 91100904c1596df8a48bf4e57e7f222cac474c10
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:52:26 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit cad520df2a9263d9a375ddb25f66bbeed29673bc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:52:20 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1e2836d17cf37db5ca1eda1af34b524fa5d0d20e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:52:14 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit afdf558025494d4099724bd2040bc35b859956f0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:52:09 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e7af91b3733ec8491129d8647195ec12d222ca92
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:52:03 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d41913c37700b04be53d63d649e4b84c314beced
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:51:58 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 787070b24b3135f8cbe3418390471cfd8574edc7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:51:52 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f6c24014b3533d2f8cc6f1ef74512a42f4285ee8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:50:38 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d7c7e38c3a75d4729d4c70efba02bf06bc2dbeb4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:50:33 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit af70c911e8de618edaff1e6fd8da591ea69e8b29
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:50:27 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 687fe436d7e17954eae7afb96e51ab77b14a768f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:50:22 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 58b5f79c3a8d6aef7625172e8eaa0fd04fe56a55
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:50:16 2026 +0700
+
+    Auto save: workspace.json
+
+commit 31e76a6f5b2749737fe6e71025cee608d6bea18f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:50:08 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4b0d029e8b7e1f35cdcdf2e7dda1ed122b1f1aea
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:46:31 2026 +0700
+
+    remove .obsidian
+
+commit d92bd3c7e24530c600e22798fc8213e4ff8bcb85
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 23:44:25 2026 +0700
+
+    add ignore
+
+commit 3c64147bad8f876fd7343e64c79031cdb4857c69
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:38:27 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 000a5a5d6b5a64bfd9b81149ed88fa01e6e38488
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:38:20 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 44a992697dfedaa8455c9a1a5870e814b1fcf2e2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:38:15 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0b1b68c4eed41f7b3c7cefd831e49e8d874c5afd
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:38:09 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 17fd25b870073ef153f8f369e5f9a001d13610e1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:37:59 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit baaa1a62a3cad4630b1db1596b9c7ef7f92aaf7c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:37:54 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 9e0ff29f54e1e62f5f0ca22450b496a252ca283c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:37:43 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 103dbb0e9c12cbfb603d51556626facfaee7fed6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:37:10 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 76469efa277852e9503d62494b034dbf632a5694
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:37:05 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 5aca23483a46364c11a62cb34bf5984f184be416
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:36:59 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 6eca773b340bcf502e6d0b992a1e35ad82430a5e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:36:54 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 357b65b56084ff1932a7797b5971c0b211854a48
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:36:40 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit ed782f74fcafa7b4ad8ea929e8c9b6593cb03521
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:36:35 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4cec83c4e2c21fa721336a47eb3da5b253292be5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:36:17 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 690ea9f834b02604904c84eaa5644545cd1f5610
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:36:12 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f7d8ddc478de0eacd932da31fd9dad8c08874b93
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:35:59 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d111bf2e2bf5703c61d08384000a44e19435f82f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:35:52 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 43ffb092f525df6bb1652024dabf222a93e1f450
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:35:40 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4cff1b29338724d6c804b08a58c994078f4d05c5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:35:29 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d662616475fc98239e7400b6585ade1aa62a5153
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:35:24 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit af8e8851f44dabfa6ea0bd21d09c4e52bd5cc801
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:35:14 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 777ff4a22785778ae0b0c44289a867a78db5e64a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:35:01 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit c6b59bbb9e920b1c01099504e57561c145e8f14b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:34:56 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 550ea59f14debc36d1ec81b191e5dd78b5e6ce43
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:34:44 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 339033cc2e0885f5004dd94781dc04df841fbfd4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:34:11 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 7b6137199554fcd0ad5c800efa1085c00b6fc3ea
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:34:05 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit b6d20f1d200fd4052b62a600f30e04c9208a88f6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:33:39 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 870f75ae77a9b0aeaa0d1b2b691f39014ab56fc7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:33:32 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit c0f841baf0f3c24c5afaf6a75762566b66b5de8a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:33:12 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 39d59d5af60b33c92ddb91ec43b9ddb3f6eaf725
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:32:24 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 6a2a403697ad50dea44e61521e0c23d98124f67d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:32:19 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f70e27beb9311093a2a42dcb1c74bb83df303168
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:32:13 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit fd130e44e70ed18fdbb18986efaa3e3d9c5c8489
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:31:59 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 378fa9ab20ac771f9b5432f32cddef5dcbb6eb59
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:31:53 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 7eb010e0beddfa57984dcaa6f4945347898e56db
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:31:46 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e6dd201d5da0bcc15d4f4a751f37cd8cc6ae85b4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:31:41 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 6fb9b2e338550d7d07500c9984f36c5d196a67c8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:31:35 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 86d881351e46fca94700081258938f9042afaaaf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:31:30 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 05e0a5b5367c6547ad51769abd50bbe778efa96b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:31:18 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit c88ce88978036d627a1443f982660a6c37257bc6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:31:11 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 7c0bec9f2e37c3bb630c83f42aa5cff94cd56a3c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:59 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e5170c10a5823e70e628aa70882595b8aa667b2d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:53 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit fdc6a40605081f21f0db3ac60656c05111144cb4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:41 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1ee29c73f597256839f520f8e3ac1525fb7f8850
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:34 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 330e2fdcd8a221fae8bfc5fbf5c7761f3798169f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:28 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 8f281368dad0257bb39d3293dd3204346ea22200
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:23 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 5a3f6f8e50e6adaf77cbe604e3b5847d928c198d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:16 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1da4ce19dee69cb7b94cb23958a4d34fc5274ef6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:10 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d4262092a5cc351685a2086472cc4c0d70a77b49
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:30:04 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4153f1cc6831d9c7b1aab4d3d7203f6a52417ce2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:29:57 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4d7afb4d1afc44fe8fbbe6e2c5714127bdf4da60
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:29:49 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d96c0c739b4ff90faa9905a1624e5a8086fddc5b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:29:43 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4291c2ef8546dbdfe08e69d9945eec0ca8832892
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:29:38 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a03fe00c0f6f0f408cf0f50267c11265c530223c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:29:25 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit bab78497956cc60ee803be2f0e762b8a2a7258eb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:29:18 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 71e025c9a05ad35704142442fb6b39d36d373807
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:29:13 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 08d7a74ab828bf9a9a303daa1f1bded342e038ab
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:29:07 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 43f37bb802ff15205aa244d31f3c67d94320cc5a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:28:55 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a23920cc33931fdec0d6151ebbbe92e0407adf09
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:28:49 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0f5f8a1f44f4d9b35b9e4d4f4ce9817b9571517d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:28:44 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a77656b04360671b48125cb87a39acdbfdc9c7da
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:28:32 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit c8019373e540e3d5dca4e8784f0d82208d56a0d0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:28:25 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f303b5f5dac7b5c49074ad88c72262516a34cf73
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:26:06 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 83987da7a1888630baedf13f773d7ee0c68f4b66
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:25:57 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 14aba54b665eedc956195de87f5dbe4742aa485c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:25:51 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f3381c6286018c8fad819a608ccb34442f563896
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:25:44 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit fe784b05c5f73a35c567b9d36428b9073b091937
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:25:33 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 44e924686c04495f7a9e013132c0e1f6e21eab6c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:25:22 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a90c8eccfeef6c977c0ab0a50d9281ef841b691f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:25:17 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 8db667b2088df0d482de11291836592db7150934
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:25:07 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 8d04ebba284e4878664564a993f9c94cac164a0e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:25:01 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit fbf230f9720b6f4cfed123559597a5e71af5eb8c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:24:56 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0a0a3a6cfb9147db5800597137cc3be034591fe4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:24:51 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 2f6dcaa642ce48f6bd7d4944e605a9ebf28f0673
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:24:45 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1225d7d673e80a233bbc7c46fe8238f2531389ff
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:24:40 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4d4262f36d733f083e8b75f0f3dafd63b526c0ba
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:24:34 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 882d6b03c79ede35a44775f95f834946c9a842d6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:24:11 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 133a09c82c284bc94ec60e3783681f39bb62b288
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:24:06 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit b37d656728a9cd0d7b2974f56d7487245c53f163
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:24:00 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 7b9b02cadbc0aa3f39de026c44d126523237fef3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:23:55 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d1252a1e3c70aa812e5dc9f4b6865dfb7df5cb81
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:23:39 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 7302a275edbb46606e05170bddbca8bc67ae5d92
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:23:33 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 519b7f159a9e22f3d67895ff2d1f32d733429973
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:23:28 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 90cdecca99daee8779c120b0e3d0ad3e4902b349
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:23:12 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0242f1ec52ed88f9cf21c3d3e08e0960168453c0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:23:06 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 964c0f3bcf34858215206a946f37bfc0a026fee2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:22:54 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit ec0062b8f8ca94843367077b0441535053c6784b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:22:48 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 21ac8500b0ab89f06e1b0dc7dc414e1147510835
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:22:43 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 460e45185fccaf48d9ccb9b859eaeb09153965ea
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:22:23 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 609c940bd4f312e52a8522971a3835f31cd7786c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:22:09 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 14735d9605cbd4aba1dc1b8b3e41e528cd6fc45b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:22:00 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 162513460b40ae7f7cdb24a689d926bdad97f227
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:55 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 5c8905c1ea776fb2af45ff9fbb72725f1ec4db94
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:43 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 2a2be929a68c32fe05f3fcae500f1ecb7d924a81
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:38 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 10e0a00c5d3921328c28f65f2bc9cfc3ecd05c79
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:33 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit de4e46c41974bcd9e06726bc6c4cbc163e4370fb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:25 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e87d3a2e63602da49bab20a4e37d8e7f933bfcb4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:20 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f62b0ce5928c698ffb1a53c29383a60218c0543f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:14 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit ee2f0d768ab80a2642dd617974120cb92a770dba
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:09 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit b1de7424e7d60a69308e99ddd6817c24a7e1ba3b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:21:04 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit ac404fd650428598f9ce5dc3e8d170c03ffaee55
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:58 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a1ce6666fe7fbb6be80ccf04e5e3b92800fe0e09
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:51 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1a88d3f4c2bda7b92fc060d4a17bc100190dcaf1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:46 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 2049d0ffaa68cc339b278a1b50e54dfdeb213c01
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:40 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a56dd71730cc9f3f49f93f0a6c4c1a8db8c7fdf1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:35 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 20cb1f4c9895105d2be2e69ada53fca33acc438b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:29 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 42f82d51591c6e682d3cd89682f22e75e472204b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:24 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0a78834849a8a5d986669f32c8bfc52b9080775d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:19 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit efa4fc998db88eac8007fd23164d4f0279e95833
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:13 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 67f6d46b895570072cac79295c73809c1eb50a1a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:08 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 8fc1b94af43e6c8e0bf22138313cea1dcfb92d42
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:20:02 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 87fbf61e754b16866a12d18d1cf9a54d9cb425bd
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:19:37 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 19e90f9d4530b1f9033f8bf7661ed3b0ad7e421d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:19:28 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 56320d4dfba066f39ec8979468b79c3883408fae
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:19:13 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0ac9e2c49f8807e1f2ec3ef937c9029cacdee012
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:19:07 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d06bef857b34de0aa349eae67058c11cd474b47c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:19:01 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 252f291b1c450f463120dc4c8350eab7b0a79e9d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:18:06 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e732a69b6c3d62bdaf69fdf9e221c13a52a2a85b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:18:00 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 46c10c20d92e3115d8af5ef6039e44354e2ce212
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:17:55 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0d1bb982ff3e435a76072a18394e35c1619bda69
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:17:47 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 32d61833be6c8869db634bcd7f87ccf2aa227da1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:17:41 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d5a8b6198568bd3e5affedca0d8b4b50da3eb19e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:17:33 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 022863c4ab0d71863d25406ee379dcb659fcd91d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:17:28 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a37575e90e9320ff617c4bd3eaef97870ca7b5c9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:17:22 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit beab88ae7c7bbd2395232081530605c20d3df04f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:16:45 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit cd8484e91a71b3f14d75584b1a9eca33a4407ff6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:16:36 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 665dce09605710a30d3a3ac92a6636e6628fe358
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:16:26 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 5bacc275e3504b09e8c3c8d2d9178943961afec9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:15:24 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit cf3f8c6217a4af72012888e6974a19451dce48d7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:15:19 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 75e62606f8b967c9aefbef1926516c4b33cf5ec1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:15:13 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit fbaabb6656db2b61c01cbe47be1a48c80aeb8328
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:15:08 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit cb08ab40bdc95c8e01cc2fcfa1273e81e6918458
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:14:41 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 340951083ed7c1c8dd63f3ee037f84ea0de6cb6c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:14:35 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0dcba4a3dbdf0db4d817ae3ebe5233d77ba39b5a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:14:30 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 87eb04084829cd204d10dc48844807f85548ce60
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:14:18 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 57562ebe88f2b485e9fa597c35a11b9d94a2ef00
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:14:09 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0a8c14e5c16626d27355f6fa830e5544ed813fc3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:14:03 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 067b168c5124b6cd7ccd2bb7472c35aebc9d5279
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:13:58 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f3d9228ceaaf432abfa72943d1f5ec5b279bfedc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:13:53 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit cb05f3d985d707fbc64eb4b7fd99e25f1a158269
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:13:47 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit fe61a6d424b3f95df0ca754274f07cc34b47b85c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:13:42 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 70f1f869feea058876730cf38b40ee85de5c3263
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:13:36 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 87da3fd9e7ddae13daeda865c74daf61fabb65c0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:13:31 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 9d97cdf996c22862496c1dfa586c2921bb6f1cdb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:54 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 47d9d2b08dbef5e96902ce5a108f2c9f0fc97b0e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:49 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 224caaa05ebaa4addc7eb5513dcfcaf589706920
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:43 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 6f03efe9e31f8daf6c95a1cf9f8a917cae492de1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:36 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 751524e21b2f8b1986e0d74558e0f2d4f2a05788
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:30 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 7a8905fb6942cec3d72be490664b864c0e721ef6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:25 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f3a32a02ee6def357b93c399d5ee32d652fea350
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:20 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 3512c7d97b27a40bad3d00f78d4ad972cabe356e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:14 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f3bcde61875a3f4a7c4715193c17e95575b7f6d6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:09 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 13e67c853167bb3177c28e575fdf2f6d4e90062c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:12:03 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 2a2dfeca449535b2452a5edd0c55aa872ba187c9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:11:58 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 30dbb4b03caa0a4ec81ca19b3c324dcee461e2d3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:11:40 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 028409b915187df6587b7cac9ade63a198c88eb2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:11:17 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit bf0823b51389f19225f1d86490e78623b55331b5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:11:07 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1548bca2bf4015fa49ea23d002cd7473b65725db
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:10:59 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 5120a59ab7264da802bcc190771f8a4753e73f7e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:10:42 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e031ab51181176f674eb15d0adb64826323835e8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:10:36 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit bf99a59a2072abdc76321df3f9b486174bdc5c68
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:10:31 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit bae45f05892a720909391e6529a7e23f3e79b758
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:10:25 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 542e6164bcfd59c96ec4326f8df65872206d8794
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:10:20 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 8732fa06f80f6292630dbc4c9ebc3ada5ace5d7f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:10:12 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 44a3f1535316e276709bcd3e5a69318180aa08be
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:10:03 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 40498fd9cb3dc83e58876ef1506c2a77d1e2ec59
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:09:58 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e80f335783ee367671e14afa6d43defef574a971
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:09:12 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0345efd7a9c7996a785d05db727d1cc1538d8fb6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:09:06 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit aa21f032b7fbc177b96ec27d4f96c825d673f7b5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:09:01 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4668a2a16fc04e520c51a3c9e5fad09b4963f0e6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:55 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 3ee470af376f59dd76bb3a8851539415421cc7a8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:50 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4d301f2015ad285e242d3b5d55b3f51d4a0f4b6f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:45 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit be231e9f6e34b7d81230e1ad3d06464e37d4fae2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:39 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1a07fde0c6658333b33f3c60daf0102193df14b8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:34 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit c7c11c19444d3ff6a60fe4956d5789862886c3cd
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:28 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 53987cd45921100f89f46690253ea570c6e910b6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:23 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 300bdc370a558a8b7a0a0dfe607c753d692a290e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:18 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 5230386a7996fba87a16e438f4fb530ea82eb87a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:12 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f4ba0055ac9a20041d4f3d9bbf8ab951be47b843
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:07 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 9ec130de128f4bdaee1b6f38271a04eb9b29ef31
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:08:02 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 66b9700cf034f70af94bd54d1a35ec876ec08377
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:56 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4951fc2c7e86e7daeddff2e1bc3623fd69f82dcf
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:51 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 39c287e9ea64143acdae11eca91c23fa377977a6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:45 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 68bae3fe0d0789fff3df7ede6fc77ea723e0e8c4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:40 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit b62cc0d53dc654fc812b36e0a947600020f41196
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:35 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 3439c1e71b5e1244ca1d0420f9ed786e20265708
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:29 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a23c93cba5a377a0550a682247d6f7b73bd0d905
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:14 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 70eeb49ce400f04310093356cf92689110c268e8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:07 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4e31956d2761ad86097d6226f9c2287d356faf97
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:07:01 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 6a3660ca807fe67ca27b77cb52c4cb1b29dcb429
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:06:56 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit b9e50adbfca249315d31171f7f9adaa96fb26b4f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:06:50 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e4af40c9de5973e966f793c3ed400a992e7c8832
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:06:10 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 34fd678d5655ff1e47d8b5502a8927774f7a12b0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:04:40 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1b113ee09af645f3246a93e32008726a5a5ff463
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:04:34 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit ced5b6e8af457eee3a2819a8d2ac85fd15eff882
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:04:29 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit b85ecb75d35e69022938a1aacdf670fd9310ebfa
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:04:24 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4c3f04a1da3c1068a4787828e806609aedfe08fe
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:04:18 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit dc5b379b52cb73d4f9f3ccf71b467c2464161f87
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:04:13 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 30b3c8a68c2c3c8e95a465d4dadd0d343ce1822d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:04:04 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0f41ab05d7fa51a20e0c64bd67ed32902bd025ca
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:03:49 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0e0860de09b87511b7d892dde1f8e42a5d5ba624
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:03:41 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 410087835ea0a5232c4d92aab52c6eb11a88b28e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:03:35 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 8c6d07e316fdbb35653d34ec77885b9e161b547f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:03:30 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 780c80cc34c39b3c8182fde4d28741acb920aa88
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:03:21 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 23182446ac93baa981460edd602cde1645aeddeb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:03:15 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit ebc230be303a8dcf84ca7d8d7253b5099c174e12
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:03:10 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a74c48d7054b68c3e118fbb15bdfc6a2c5066890
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:03:04 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 41adbdec35d2def69c17f0b75e9d103c011fc4fe
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:02:57 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 8017e04e1a46d6c1d48a221b1ac6a784ef2d3d0c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:02:52 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 87b54453e4b5a3fcae5f0b87bbd4dae2e9a94141
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:02:46 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a08b3c0b73103adecf7c5940ac471644a8e21f9e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:02:41 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 2f68b15c4f4ba895f6c863f3403cb848b9373f7f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:02:35 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 8537ef6d01b3b595961a15a8e97e5c2b0860256c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:02:26 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 58d1956e3082430d88db292b9c9a00309cfb15b5
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:02:21 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit de715dd406b526877fca577abe6c19019773f4dc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:53 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit c4c60d425e0caf66548f704d62982cb2dc6ae302
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:48 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e6bd7e1cd03c1c0ecbc7faa647edaf3079c18000
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:42 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 50ad164e17c19cc9217f250d4717cf366c2498a0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:35 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 29e2798b7c5151d0e70e7ccdf43b17df85250b68
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:30 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 645de3603af3dd5ccdbd5d689bdcc2016f9b7abb
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:24 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f52b982e1d35a05247f49f4a025c0cd7f4381290
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:19 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 56f3659f35c27215450f52df367bb7df84c62f41
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:14 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit ca63881c103ffc126f5dbca773699412a9cc1e8a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:08 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 919e5cf99b98cb110d4a9d971a154b7b83cd274c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:01:03 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 039787267dec68edee9952d0263e669ce0afae3a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:00:57 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1af3e95c77eb5cca9b889d932f7a8e3aa161a31a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:00:52 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 061f353540190d0aabb21473abcbf77480f52eee
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:00:44 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit b540ac9d2a0103511c24523fc5b939c18b8f8aab
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:00:26 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 3d24559247b90f78414a0e1f5a1ebcbdeb25993d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:00:21 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 30ba7f601ce4e0d8f8a2305074f0900c4466e247
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:00:15 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e6099c918e2746b2b1abf273c981736652293b3e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:00:10 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e7a4e91ff0367eb71c511396540639f30e0b667b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 09:00:04 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 82d31d989483c0aab92eae29cbc33ad09eed0a5f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:59:59 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 34255d62f29e81f96c5003f6cc4b2b122d1d8eda
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:59:54 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a108179ff306c94f0624849c6b7c403169bf2ad9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:59:47 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f6e5bffae507110f8c656ef851d125cd8cb4b782
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:59:42 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 0e46894217ff7633d431009540cb18816533a853
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:59:34 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1f5bc275f1acc2ebc25b827cc7a6bb7aaaeca090
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:43 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 98f65447c5d493c9a61a8210dc5536f0b4f63ed4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:37 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 28fe88b2ac8c5ff4cb53ef1489a81712ea73dc72
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:32 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 80fb0ef674df5eae9666606fabb1ab50b7aa1310
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:27 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 1ba28ebae64d4a988e33379e31013a1b772ebd75
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:21 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 3693fff5ecc55cf9214a94b3a368c4911d4413c9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:16 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit a76ab71eece95e70adadd3d2579d4dd9b2a77823
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:11 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 99e64d86c68f02985b4538e36fc71e4e3336b112
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:05 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 30cade112d419dbdfa1c08005eef3bbfe4826232
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:58:00 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 151b42ac5c4d84a7f02b7ae1ecb1d09508847538
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:57:54 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 184e4a4f16886d4aa4c96249c3aae6907e6a5d13
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:57:49 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 4db5fe3c1c83ac2cac63bab4077868f6e28305d0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:57:40 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit be948caf2bd1dc16f55d9965683fe5f7ef7f331e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:57:34 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit cfec95d517573a764bac073099f928a1c524bf63
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:57:29 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 6ec801214cd564c714de9f6b08a073d4c1fb983e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:57:23 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit ab7c35d02c2f96e65da71dacd9ccee3dbccaabcc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:57:18 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit d428dc47d1eb6a00b21c3034bbb15a3b458347a8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:57:13 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 6552293bbd155572c09e9a5b349b83a906976db9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 08:55:54 2026 +0700
+
+    Auto save: ._workspace.json
+
+commit b48a5cf8a8b115cdc25b7cbb1cdf065dc0cd17ac
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:47:24 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit f4ca17160f5e894ccf7ba9ba16177159c2fd1040
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:46:18 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit 19a789f799d865d959417c78d0087e065f1ed2be
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:45:34 2026 +0700
+
+    Auto save: ._200820260013.md
+
+commit fc78646eb5f5e979198c2967224c883da0f59676
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:45:28 2026 +0700
+
+    Auto save: ._200820260013.md
+
+commit 1ac4d83e9309b6fb4dc54d66d8835963b9049537
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:45:23 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 04c7be2196fd1dbc6021aa0bbc9f2601d1694e7e
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:45:17 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f9e4ee2d91c1884cbf776b954c887fa1cdc519c7
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:43:57 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 5c7befa8da25553dfbc98b0e4116d5a5c5d7fb64
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:43:29 2026 +0700
+
+    Auto save: workspace.json
+
+commit 09c47c5c77817a37f6ec53cb8a05f8d006d1d62f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:43:24 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit e6bf215e330572d50c03598d1b79c749525f797f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:41:57 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 195f923192b95f95279f7fdf652f4c47216ef0d1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:41:51 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit b5b6f93268397cc687d6f4f317044c42bcd6eeb9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:41:08 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit 6bec2c36360a01dc12eb695076328349627c35d2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:41:02 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit f0f883399372aaed104010e4c11afe621e91c441
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:40:18 2026 +0700
+
+    Auto save: workspace.json
+
+commit 293121b5332d12ff30a2cb65040ff4c22733cca3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:38:19 2026 +0700
+
+    Auto save: ._workspace.json
+
+commit 2e0f8bf00bcb73c69b2848143acccf5954f99f2f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:38:13 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit 2a18b08ddb541d2c93806f4b4f547e965ed33a5f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:38:08 2026 +0700
+
+    Auto save: workspace.json
+
+commit 72faa9d592376e2529b2e68876d9f9db299c4f5a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:38:03 2026 +0700
+
+    Auto save: ._workspace.json
+
+commit 8e69e58a1bb42e26aa08ced25bbbcb3d1137b3d9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:36:17 2026 +0700
+
+    Auto save: data.json
+
+commit 92bbc7cda92e38d093348541f62ec16427131000
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:35:56 2026 +0700
+
+    Auto save: workspace.json
+
+commit 4fe52b7448997d048a811822e66453436b94b095
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:35:50 2026 +0700
+
+    Auto save: workspace-mobile.json
+
+commit 7ec01b381ab2aa40f64ce1e552105411d8ee197a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:35:00 2026 +0700
+
+    Auto save: .gitignore
+
+commit e2685c7924df16e626b1086336a378f93937062b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Fri Aug 21 00:00:26 2026 +0700
+
+    Auto save: rs-test-file-VkWn3vI2ybzvj4eZ3B544
+
+commit 8ec29b1b255e18e3a45313a64ecb76369d4c1185
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:59:05 2026 +0700
+
+    Auto save: ._Testing.md
+
+commit df474d140d061edbfdc1276a902407d55869b65f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:59:00 2026 +0700
+
+    Auto save: workspace.json
+
+commit 6362176ee421fc27325c267fe28d7a8d91d358e8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:58:54 2026 +0700
+
+    Auto save: Testing.md
+
+commit 4224a5b1c8032cd3c9fb5af03b2bff3eec0811db
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:58:49 2026 +0700
+
+    Auto save: Untitled 1.md
+
+commit 036644078ab191e9852b588e7cecd90fb389e40d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:58:43 2026 +0700
+
+    Auto save: ._Untitled 1.md
+
+commit a79a97a33f03cb27cb01c70445bee9f84e98f71c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:58:38 2026 +0700
+
+    Auto save: ._Untitled 1.md
+
+commit ba7622b39989f909ffff32a8b4b795ff511b3861
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:58:32 2026 +0700
+
+    Auto save: ._Untitled 1.md
+
+commit 2f00ff6cec3bf5651ca9a54f9ed5badcfae9c7c0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:58:27 2026 +0700
+
+    Auto save: workspace.json
+
+commit d4f9ebb9217d720e5d71743945ec596db58a9f99
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:58:21 2026 +0700
+
+    Auto save: ._Untitled 1.md
+
+commit 337be0ce1166809310f32f39782de08bbeac148a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:54:03 2026 +0700
+
+    Auto save: workspace.json
+
+commit 9eef4bc25c264a036e68e5026858bd25364ca226
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:53:01 2026 +0700
+
+    Auto save: workspace.json
+
+commit a2df0ec599894a1b091b5a3960c6084578db9428
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:32:02 2026 +0700
+
+    Auto save: workspace.json
+
+commit d2e9065e875cc402fd3877945cba76713f1e4e0d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:23:31 2026 +0700
+
+    Auto save: workspace.json
+
+commit 450e79301d521531034b2b0491730692bed2c08f
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:15:08 2026 +0700
+
+    Auto save: .DS_Store
+
+commit c653d52905e08e0d1c380250863adce21c85fada
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:12:01 2026 +0700
+
+    Auto save: workspace.json
+
+commit 0d6b6f274c0c13a217665501c1c51056e17c8229
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:09:31 2026 +0700
+
+    Auto save: workspace.json
+
+commit c372c703831e724ee2a90d060a33ca2e0a51f8e3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:08:16 2026 +0700
+
+    Auto save: .DS_Store
+
+commit b279f9ecacacfd3dbb6ca2bccf4b7466378ae8f3
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:08:11 2026 +0700
+
+    Auto save: .DS_Store
+
+commit 6584f6ae241bbab3f6261172c5cdbf36d9471bee
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:07:50 2026 +0700
+
+    Auto save: .DS_Store
+
+commit 3080568580a445c825afd5ffeb3b75a30bbf9ba2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:07:33 2026 +0700
+
+    Auto save: .DS_Store
+
+commit 9fc3ea6fe45bd548e25ffbaaf297143055fce4f9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:06:58 2026 +0700
+
+    Auto save: .DS_Store
+
+commit d3d183fda189696bec803f23c7b69fe8233604c2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:05:38 2026 +0700
+
+    Auto save: .DS_Store
+
+commit 5220fc06813d46d9214792e11862730453a62692
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:05:01 2026 +0700
+
+    Auto save: workspace.json
+
+commit 33948888bd38318173040b93d51ed837db5fec1a
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:02:35 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit 7b3558642aa0931c4dffa872d302e54279e6d8d2
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:02:29 2026 +0700
+
+    Auto save: .DS_Store
+
+commit c6e698764ac8a419dcc1329ec33767497d8a17d8
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:02:24 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit 3d82a64967d385e7344de79d3f627b0043732cdc
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:02:18 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit 810b3bdb9bc842c0ef47b5362435b39450e18af0
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:02:13 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit 32d4b0fa4fc45f4f10ac5e33b6bd5a9e9fed6b64
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:02:07 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit 9c78c0985cad5fe66395852f3406da083672a278
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:02:02 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit cee6cc58be762dde53782301ff2447fdce14dda9
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 23:01:50 2026 +0700
+
+    Auto save: .DS_Store
+
+commit 2c9ea9352e39be6be49a58bf6ab3e011ed01d581
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 22:59:52 2026 +0700
+
+    Auto save: ._200820260013.md
+
+commit 4de44e2bd13844e6c65eeb16c63d91b06333791d
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 22:59:47 2026 +0700
+
+    Auto save: ._200820260013.md
+
+commit 6d5e5295626afbfb71bee14724f7c6dc999e6fbd
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 22:59:27 2026 +0700
+
+    Auto save: ._200820260013.md
+
+commit 75742fa5fab0d86a483479003c574515887912b6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 22:58:57 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit 018d8d7d1f4a80e78bc8f2861350ca5631c19aec
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 22:58:51 2026 +0700
+
+    Auto save: .DS_Store
+
+commit 76c12527992befcb4bba6ffc8f800d18b19bceb6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 22:58:46 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit 86c88d26b007a59d1f03cd21e741bae40e62c21b
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 22:58:40 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit 359678954ed4852010d064d4b511d22fd1ff2898
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 22:58:35 2026 +0700
+
+    Auto save: ._.DS_Store
+
+commit e5a9d99815f7e7bdc6b8b7ecc06a0a70436896ea
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 21:10:14 2026 +0700
+
+    Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Heidi Health CEO Frontier Models Have Plateaued.md
+
+commit a1424ed0832a8c72588705c90cefc0f1185c2d6c
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 11:49:59 2026 +0700
+
+    Auto save: 200820260013.md
+
+commit c201b8d8fdf85eec1acb80578161f3b1496130c4
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 11:48:41 2026 +0700
+
+    Auto save: ._data.json
+
+commit e1c7254ad29670b3866c6ac45d5c1d8ba40ad0f6
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 11:39:40 2026 +0700
+
+    update from ipad
+
+commit 3aa4c7942fdeb674a2d9414fab9853088c5962a1
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 11:37:41 2026 +0700
+
+    ignore remotely save plugins
+
+commit 293d3e246d3cbda6f230cb1a838335b12ea85411
+Author: root <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 20 11:36:50 2026 +0700
+
+    ignore remotely save plugins
+
+commit 6996d7f7055199303ef4fa3f34f41c7b8a91defd
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Apr 11 23:01:07 2026 +0700
+
+    Commit from macbook
+
+commit 2bf6139a61c3771f3ef8aeccb00c4d56f8bf7864
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Apr 2 14:34:46 2026 +0700
+
+    "Vault autocommit on iPad"
+
+commit 793745fa0fdaa7cf5d680193037e485f04919076
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Apr 2 09:49:34 2026 +0700
+
+    "Vault autocommit on iPad"
+
+commit 7fa0e68900d0e149c0cc02c7ccbd15618a9ccfcc
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Apr 2 09:47:37 2026 +0700
+
+    merge
+
+commit c246b5521eea414e5994c1b446b74aec56ab3b4c
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Mon Mar 30 23:19:46 2026 +0700
+
+    "Vault autocommit on iPad"
+
+commit 0ca10b814e5139546db3979eb738a34bbd2c1767
+Author: unknown <nguyenngoclannhu@gmail.com>
+Date:   Mon Mar 16 00:05:32 2026 +0700
+
+    commit from pc
+
+commit e7edcc2867e6ff23fc02a1c6a647a6c361ad8dbb
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 14 11:11:43 2026 +0700
+
+    "Vault autocommit on iPad"
+
+commit b5cba89f0734874ab02584308052e417b145247c
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Feb 27 00:28:19 2026 +0700
+
+    "Vault autocommit on iPad"
+
+commit bfe00b44f5999c1046749c6496d5edb25522b917
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 1 20:41:02 2026 +0700
+
+    "Vault autocommit on iPad"
+
+commit 78543fabd3b728aaa3f0c897b19c4f91b983194c
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 1 20:38:33 2026 +0700
+
+    add ignore
+
+commit fb21250e310e2249d6d195f1aa25f05611b344f9
+Merge: c47e845 a5b41f7
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 1 20:35:49 2026 +0700
+
+    Merge ; commit 'a5b41f7702a74038c1deb78f984a72efa5debdd9'
+
+commit c47e845ea2eb66731548eb65add9922652bd95c5
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jan 24 01:39:39 2026 +0700
+
+    commit from ipad (working copy)
+
+commit a5b41f7702a74038c1deb78f984a72efa5debdd9
+Merge: 317a92b 305d3b2
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Fri Jan 23 10:18:43 2026 +0700
+
+    Merge branch 'new-lannhu' of github.com:nguyenngoclannhu/SecondBrain into new-lannhu
+
+commit 317a92b90a529d217683d220d5f8ff2f73789ce4
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Fri Jan 23 10:16:53 2026 +0700
+
+    commit from macpro sync readwise
+
+commit 305d3b25e7bd94f401a36e11eb461b30adff0cd5
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Jan 21 23:36:08 2026 +0700
+
+    update readwise
+
+commit 797fb1af6ff95e4b0302122c31d6a333ba413c4d
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Tue Jan 20 09:41:38 2026 +0700
+
+    push from macpro
+
+commit 940ef1391c92f61d82404fc610b401e2130dbfa5
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Mon Jan 19 10:02:24 2026 +0700
+
+    commit from macpro
+
+commit 3338a7338b49eff17df742dca802581bb5066803
+Merge: fd87139 df5ce75
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Mon Jan 19 09:59:10 2026 +0700
+
+    Merge branch 'new-lannhu' of github.com:nguyenngoclannhu/SecondBrain into new-lannhu
+
+commit fd8713918da49578dd8ba3e056a6716370c2351c
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Mon Jan 19 09:58:32 2026 +0700
+
+    sync readwise on macpro
+
+commit df5ce750486afc3e4a5a7df5882646d83a95a253
+Author: unknown <nguyenngoclannhu@gmail.com>
+Date:   Sat Jan 17 12:08:11 2026 +0700
+
+    commit from win 11
+
+commit 67e4daec550a3ecb271974c6aa722d7e569fc4af
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Wed Jan 7 10:40:36 2026 +0700
+
+    commit from macpro
+
+commit 4fa8b6cc40841e05b22419213faa315212c7f598
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Mon Jan 5 16:08:53 2026 +0700
+
+    commit from macpro
+
+commit 605ee7f84ec732d5ab1895eaee9dbad189d7d0f2
+Merge: dae78eb 4572198
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Mon Jan 5 10:10:26 2026 +0700
+
+    Merge branch 'macpro/lannhu' into new-lannhu
+
+commit 457219870bc79dfd81a867adbe815554d14b08d7
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Mon Jan 5 10:08:13 2026 +0700
+
+    commit from macpro
+
+commit dae78eb94203aaca4b76454e92c319317a47d4ee
+Author: unknown <nguyenngoclannhu@gmail.com>
+Date:   Sun Jan 4 23:07:30 2026 +0700
+
+    commit from win11
+
+commit 6d8d87238e50583d78b403a26d7b933a6c9da706
+Author: unknown <nguyenngoclannhu@gmail.com>
+Date:   Sat Jan 3 21:23:41 2026 +0700
+
+    commit from win11
+
+commit 823bfd3f1e5e25a201c0b881f20f6338aef8a03d
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jan 3 19:10:32 2026 +0700
+
+    Updating vault from ipad
+
+commit f970a9e25c20d99bc20e86e0535db8339af879ae
+Author: unknown <nguyenngoclannhu@gmail.com>
+Date:   Sat Jan 3 18:43:30 2026 +0700
+
+    commit from win11
+
+commit 4578f22718c145241888508cd546ab1b2034744c
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jan 3 17:20:35 2026 +0700
+
+    Updating vault from ipad
+
+commit 8b3cb8927a0d612851c590b0a96c9481abbc06c0
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jan 3 11:36:21 2026 +0700
+
+    Updating vault from ipad
+
+commit 1cfae1dbf5ef8c678f33fde02a51e010bc82893c
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jan 3 09:30:57 2026 +0700
+
+    Updating vault from ipad
+
+commit 6f882111234eb1af90b701a2167379ec26cc6165
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Jan 2 14:22:23 2026 +0700
+
+    Updating vault from ipad
+
+commit 4ae6919c85e47a3ca905a94982820732599283a6
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Jan 2 13:23:36 2026 +0700
+
+    Updating vault from ipad
+
+commit f421840108f6f2749de313986f197051266be408
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Jan 2 13:05:11 2026 +0700
+
+    Updating vault from ipad
+
+commit 27da7782a9c9c26319cef75521fd978d30370ebd
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Wed Dec 24 10:29:28 2025 +0700
+
+    update from mac book pro
+
+commit 846b792e1f9b7300347f61e17858e0c318cd88dc
+Merge: 9430097 c2056a8
+Author: nguyenngoclannhu <44134781+nguyenngoclannhu@users.noreply.github.com>
+Date:   Tue Dec 23 01:10:26 2025 +0700
+
+    Merge pull request #1 from nguyenngoclannhu/origin/lannhu
+    
+    Update from iPad
+
+commit c2056a838b42181cf82ed521de88bb42f29ff7e4
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Dec 21 16:11:54 2025 +0700
+
+    Updating vault from ipad
+
+commit 2fa3290cac267c750de5baf321cd8fbdde27c474
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Dec 21 16:10:57 2025 +0700
+
+    Updating vault from ipad
+
+commit 9430097f430174b651c4853ed10f74280a66ad1a
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Dec 20 16:19:20 2025 +0700
+
+    merge
+
+commit 087269dd60d69651f4d72a319a64af42cc291adf
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Mon Dec 1 08:45:36 2025 +0700
+
+    Commit from macbook pro
+
+commit 55952da571e57704c7896260e5a6ca751f1c0aa8
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Thu Nov 27 13:59:12 2025 +0700
+
+    update from macbook pro
+
+commit 97b4d3e707bb3164a10f5e434d2c770e65f2ccce
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Thu Nov 27 13:51:28 2025 +0700
+
+    finish black myth wukong part 2
+
+commit 8b0fd014373fe7ce108ffd35619d9c2d2566a067
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Nov 27 12:20:44 2025 +0700
+
+    Updating vault from ipad
+
+commit 363d630b53c11f793b864cec6347766e8e060b30
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Nov 27 12:17:22 2025 +0700
+
+    Updating vault from ipad
+
+commit 4355ff2cdc1b4b2e5157a593a6421b9bb3103c27
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Nov 27 12:16:28 2025 +0700
+
+    Updating vault from ipad
+
+commit f09b369bf0b75b6e927a756953ba660139dff80c
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Thu Nov 27 12:13:39 2025 +0700
+
+    commit from macbook pro
+
+commit 29c9ed4c22eee0eed356306a2f249561e93ef659
+Merge: 209d490 88e4372
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Thu Nov 27 12:11:42 2025 +0700
+
+    Merge branch 'lannhu' of github.com:nguyenngoclannhu/SecondBrain into lannhu
+
+commit 209d490203e67d7c3cbfe02662a30c5b482e8cfa
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Thu Nov 27 12:11:14 2025 +0700
+
+    commit from macbook pro
+
+commit 88e43727375999958e3a18d0b23694e361644985
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Nov 26 00:11:21 2025 +0700
+
+    Updating vault from ipad
+
+commit 7e9b20661c8ccd7008ff19b13751a635f97c6716
+Author: Nguyen <lan.nhu.nguyen@sap.com>
+Date:   Tue Nov 25 17:54:03 2025 +0700
+
+    commit from macbook pro
+
+commit 5802dd3a3e7a891fa217f4ce3f828242b0243257
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Nov 20 12:36:52 2025 +0700
+
+    Updating vault from ipad
+
+commit bd99219a0e067e26e6a970588734d8e2d913047a
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Nov 18 13:04:40 2025 +0700
+
+    Updating vault from ipad
+
+commit 24d62d7ebc970926d90e85ded85add0f9c2d2a47
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Nov 18 12:38:51 2025 +0700
+
+    Updating vault from ipad
+
+commit 4a7a7179c1750d642c5f3c71f5e34107660b17a0
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Nov 15 10:28:43 2025 +0700
+
+    merge
+
+commit c0c2284ad0de17887f84023588ea36e3cdb5cecf
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Nov 13 23:25:48 2025 +0700
+
+    Updating vault from ipad
+
+commit a43c6db6da1179a3d874195d0a251b6a95a7753b
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Nov 12 23:29:47 2025 +0700
+
+    Updating vault from ipad
+
+commit bae7a219775775da7a300194e794181f5e1483fa
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Nov 11 12:50:52 2025 +0700
+
+    Updating vault from ipad
+
+commit 6de38d3e126306ffdab1d50892e8e35d61ce2025
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Nov 11 12:42:22 2025 +0700
+
+    Updating vault from ipad
+
+commit cd452ab33924ce03b5926d50559e3ae8575d9152
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Nov 8 09:31:21 2025 +0700
+
+    Updating vault from ipad
+
+commit ec61feec4ce1b1b36dc2f568f0f92755dbc77a95
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Nov 8 08:30:38 2025 +0700
+
+    Updating vault from ipad
+
+commit ca615da9a65bb60d248dcfb7a147cfba1e8a32d8
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Nov 8 08:24:59 2025 +0700
+
+    Updating vault from ipad
+
+commit 4016249a185dd022541bb1a92a266700819c30c0
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Mon Oct 27 00:26:42 2025 +0700
+
+    Updating vault from ipad
+
+commit ac99d2a734d1a6c31a616c090fc15c60d287e8bc
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Oct 4 09:27:21 2025 +0700
+
+    Updating vault from ipad
+
+commit 4f163688793c79e5aa2398c628abdeb56e056cd5
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Oct 4 09:21:31 2025 +0700
+
+    Updating vault from ipad
+
+commit f36ac71731e354556310b83987aec405f238efd9
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Oct 4 09:13:56 2025 +0700
+
+    Updating vault from ipad
+
+commit c3dbc3559f1167deb3080fab0105a56b04d1db75
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Aug 14 11:05:39 2025 +0700
+
+    Updating vault from ipad
+
+commit a37240d6c4cd00a516e3ff88ca8295bed71de708
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 13 20:25:35 2025 +0700
+
+    Updating vault from ipad
+
+commit 2ccd27a72b14dd7046f71af78ea78d84310998c6
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 13 19:46:04 2025 +0700
+
+    Updating vault from ipad
+
+commit 755e09ab3dc3c45bb0de934eecf8f0430b205ee1
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Aug 13 19:20:58 2025 +0700
+
+    Updating vault from ipad
+
+commit ad131102b865b5886f126df68a36fcd4d8fff85c
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Aug 5 12:26:10 2025 +0700
+
+    Updating vault from ipad
+
+commit 151d13bf89d51b80c4ea1b8c3b801837e6091ad7
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Tue Aug 5 11:11:35 2025 +0700
+
+    Updating vault from ipad
+
+commit 154ae3e9761596be7f9c145e782bd584ceb83d06
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jun 21 12:07:57 2025 +0700
+
+    Updating vault from ipad
+
+commit d37052cb0f071204b7ececb27ba9131a616a95f9
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Jun 21 09:53:17 2025 +0700
+
+    Updating vault from ipad
+
+commit 8c4a2a2ca13ff1e6fb11a4f758e19e7b770a9c09
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Jun 20 11:48:43 2025 +0700
+
+    Updating vault from ipad
+
+commit 7541b0f7866c9557d64ac55e10071f356fbe0bfa
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Jun 19 10:39:27 2025 +0700
+
+    Updating vault from ipad
+
+commit 3ffa8282a97447c10b0ec2fc62e6c830d0abc8d9
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Jun 19 10:31:24 2025 +0700
+
+    Updating vault from ipad
+
+commit df519ade690c56187c5dc42bf1a5448594290d25
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Jun 19 09:37:36 2025 +0700
+
+    Updating vault from ipad
+
+commit 2d08add94358cd3acdc2ff7f3c582d3127ed5632
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed May 7 07:21:47 2025 +0700
+
+    Push from ipad
+
+commit 429e0efc0df07c7536ff6fef513ff0921a4d5016
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Apr 16 07:31:26 2025 +0700
+
+    Updating vault from ipad
+
+commit fe1b4c4d91c504835b20d3d73dc78f604bd49531
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Apr 16 07:15:12 2025 +0700
+
+    Updating vault from ipad
+
+commit 844a178522999aa704fd9ace0495d59e454c97b9
+Author: Nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 8 09:41:49 2025 +0700
+
+    Updare from ipad
+
+commit fd85f03413fb740a42f787eb52afa98d8766e3d0
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 8 09:01:49 2025 +0700
+
+    Update from macbook
+
+commit cf74f191e69568892577d719aa4c8a5be37a87fa
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 8 08:54:50 2025 +0700
+
+    Update from macbook
+
+commit 1c8d20c2f9c74263af57197c7a7edc3864f9b427
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sat Mar 8 06:16:42 2025 +0700
+
+    Update from macbook
+
+commit 883037305a854a7fbb26e278b39b0a3adec3c686
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Mar 7 06:35:28 2025 +0700
+
+    Updating vault from ipad
+
+commit 6e35cc3ead13e0a4d57a92d4758c748f8de68b17
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Mar 7 06:18:19 2025 +0700
+
+    Updating vault from ipad
+
+commit fa2b68a5d7536c2d537cf74f11a74350de86a731
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Feb 26 23:18:56 2025 +0700
+
+    Updating vault from ipad
+
+commit ff60d49829e3eea02022237d46b8cf9966baad2f
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 23 22:14:48 2025 +0700
+
+    Updating vault from ipad
+
+commit 803e5588c2eb5cdcff01010e936852e689aa6cbe
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 23 22:13:50 2025 +0700
+
+    Commit from macbook
+
+commit 194e4b6fb362d1b048ca902bb10ee860ba477910
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Sun Feb 23 22:09:31 2025 +0700
+
+    Updating vault from ipad
+
+commit 62581a0107e8da4d840caccdc508d04c79c7d7e6
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Fri Feb 14 09:17:46 2025 +0700
+
+    Updating vault from ipad
+
+commit d492466586e561512105fad0fb908ba33a9f187a
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Thu Feb 13 23:29:48 2025 +0700
+
+    sync readwise
+
+commit 4b8ea88038a01ebf2c055dd2c14c5307f90a7b99
+Merge: 255cb12 2de6837
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Feb 12 00:29:26 2025 +0700
+
+    Merge remote-tracking branch 'origin/main' into lannhu
+
+commit 255cb120169acfd12d7f6a33ce8c99810e1b9cb3
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Feb 12 00:26:19 2025 +0700
+
+    Edit template
+
+commit 2de6837521aaf23b3e5e6a09534eb7589c35e282
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Wed Feb 12 00:23:49 2025 +0700
+
+    Add dummy notes
+
+commit 9b86ff3b11f3a7d738e74b2675b37fbf4db1b884
+Author: nguyenngoclannhu <nguyenngoclannhu@gmail.com>
+Date:   Mon Feb 10 23:22:08 2025 +0700
+
+    Base setup
+
+commit d2a1620d9a5ccb5ef8f0cab9501bb61273084efc
+Author: nguyenngoclannhu <44134781+nguyenngoclannhu@users.noreply.github.com>
+Date:   Mon Feb 10 22:05:27 2025 +0700
+
+    Initial commit
