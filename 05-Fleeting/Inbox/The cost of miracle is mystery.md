@@ -67,5 +67,9 @@ cssclasses:
 >>>>>>> d796b33 (Auto save: The cost of miracle is mystery.md)
 =======
 - There is a theory that I fancied from Dan Brown - "The Lost Symbol" where he proposed that the ancient people have discovered the truth but the modern people lost it. And I think now I understand it better. 
+<<<<<<< HEAD
 - The modern people has failed to let the unknown guide them. They have become to fearful, to
 >>>>>>> b0b04b6 (Auto save: The cost of miracle is mystery.md)
+=======
+- The modern people has failed to let the unknown guide them. They have become too fearful, too afraid of even a disagreement and only able to accept what seems to be on the same side as them. While the my
+>>>>>>> ecef629 (Auto save: The cost of miracle is mystery.md)
