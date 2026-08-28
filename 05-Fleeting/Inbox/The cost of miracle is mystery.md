@@ -15,5 +15,9 @@ cssclasses:
 - Everything you see, heard, read are revolving around your ideas, your view, your preferences. There is nothing standing in front of you like an "opposable thumb" to
 =======
 - Everything you see, heard, read are revolving around your ideas, your view, your preferences. There is nothing standing in front of you like an "opposable thumb" to present a different opinion. 
+<<<<<<< HEAD
 - 
 >>>>>>> 57839ca (Auto save: Niềm Vui Học Tập Đặc Quyền Thiếu Vắng Ở Những Tâm Trí Nô Lệ.md)
+=======
+- People getting into packs,
+>>>>>>> 2c6206c (Auto save: Contents/Articles/ CLOSE_WRITE,CLOSE Hai Chiều và cái ác của sự trung lập.md)
