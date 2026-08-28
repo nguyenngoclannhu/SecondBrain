@@ -42,8 +42,12 @@ cssclasses:
 >>>>>>> 9891762 (Auto save: Người Bay Không Chân Trời.md)
 =======
 - The contracting makes people think they have known it all and others are just fools who knows nothing about what they have been through, what knowledge have they gain, what insights they have gathered, etc. 
+<<<<<<< HEAD
 >>>>>>> 797c785 (Auto save: .gitignore)
 =======
 - The contracting makes people think they have known it all and others are just fools who knows nothing about what they have been through, what knowledge have they gain, what insights they have gathered, etc. 
 - That's a truth but missing: We are all fools
 >>>>>>> 04c684b (Auto save: data.json)
+=======
+- That's a truth but missing: We are all fools. That is including themselves. 
+>>>>>>> e547816 (Auto save: data.json)
