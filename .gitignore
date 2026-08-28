@@ -1,3 +1,5 @@
 ./.obsidian/*
 ./.obsidian/plugins/remotely-save/*
 ./.obsidian/plugins/remotely-save/
+.obsidian/plugins/remotely-save/main.js
+.obsidian/plugins/remotely-save/
