@@ -83,6 +83,7 @@ cssclasses:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> eaba446 (Auto save: The cost of miracle is mystery.md)
 =======
 - The modern people has failed to let the unknown guide them. They have become too fearful, too afraid of even a disagreement and only able to accept what seems to be on the same side as them. While the miracles lies right there in front of them without them realized it because they have willingly cover their eyes.
@@ -106,3 +107,6 @@ cssclasses:
 =======
 - But miracles do not always come easily, they come from persistent finding. Only those who seeks, found. Just like in Harry Potter, there is a room only answer your questions when you have already known what you are looking for. It is nothing than providing you the tools so that you can find what you need. But that requires YOU. not an
 >>>>>>> 59c446d (Auto save: The cost of miracle is mystery.md)
+=======
+- But miracles do not always come easily, they come from persistent finding. Only those who seeks, found. Just like in Harry Potter, there is a room only answer your questions when you have already known what you are looking for. It is nothing than providing you the tools so that you can find what you need. But that requires YOU. not anybody else. YOU. When you ask the right questions,
+>>>>>>> 5e46a91 (Auto save: The cost of miracle is mystery.md)
