@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "692b7c685a25ce6e",
+        "id": "bf1b33650ca56c61",
         "type": "tabs",
         "children": [
           {
-            "id": "d2e147d3c9f78511",
+            "id": "33e2475b4a034783",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05-Fleeting/Inbox/040920260058.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "040920260058"
             }
           }
         ]
@@ -155,8 +169,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -175,22 +189,12 @@
             "state": {
               "type": "podcast_player_view",
               "state": {},
-              "icon": "play-circle",
-              "title": "Podcast Player"
-            }
-          },
-          {
-            "id": "bed52983bf8881d9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "podcast_player_view"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,49 +210,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "media-extended:Open media": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "bases:Create new base": false
     }
   },
-  "active": "bed52983bf8881d9",
+  "active": "33e2475b4a034783",
   "lastOpenFiles": [
     "05-Fleeting/Inbox/040920260058.md",
-    "Readwise/Full Document Contents/Articles/This Week in Marketing Meta to write the future of social media for teens, TikTok, and YouTube.md",
-    "Readwise/Full Document Contents/Articles/ChatGPT Health + Epic Integration Just Killed the Healthtech AI Industry.md",
-    "Readwise/Full Document Contents/Articles/Xu hướng nhân khẩu học Việt Nam bài học nhìn từ Hàn Quốc.md",
-    "Readwise/Full Document Contents/Articles/2026 is the year of brands getting cancelled for all of the right reasons.md",
-    "Readwise/Full Document Contents/Articles/Devansh, Sebastian Raschka, PhD, and Tivadar Danka posted new notes.md",
-    "Readwise/Full Document Contents/Articles/DOJ Just Dropped a $541M AI Upcoding Case. Meanwhile, Arintra Raises $51M for AI Medical Coding. 🤦.md",
-    "Readwise/Full Document Contents/Articles/Lời hứa Ngày Độc lập.md",
-    "Readwise/Full Document Contents/Articles/C.S. Lewis on what we long for in our existential longing.md",
-    "Readwise/Full Document Contents/Articles/10 words for difficult emotions from around the world, the moving letter James Baldwin received from his childhood teacher, and more.md",
-    "Readwise/Full Document Contents/Articles/Game Theory Will Change Your Life The Invisible Rules Running Every Interaction.md",
-    "Readwise/Articles/Danh Bất Chính.md",
-    "Readwise/Full Document Contents/Articles/Danh Bất Chính.md",
-    "Readwise/Podcasts/The Man Who Calls BS on AI AI Is the World’s Greatest SCAM, and They All Know It! Ed Zitron.md",
-    "03-Resources/Books/The Alchemist.md",
-    "03-Resources/Books",
-    "rs-test-folder-9mSNNHZnF56L-D6PMDejc/rs-test-file-nGeURNq5kLkEL4MoCyDLd",
-    "rs-test-folder-9mSNNHZnF56L-D6PMDejc",
-    "log.txt",
-    "logs.txt",
-    "log.txt~",
-    "05-Fleeting/Inbox/The cost of miracle is mystery.md~",
-    "Readwise/Articles/Người Bay Không Chân Trời.md",
-    "Readwise/Full Document Contents/Articles/Vanguardism.md",
-    "Readwise/Full Document Contents/Articles/Duc Bui's comment.md",
-    "Readwise/Full Document Contents/Articles/iregaki's comment.md",
-    "Readwise/Full Document Contents/Articles/wuwei_mind's comment.md",
-    "Readwise/Articles/Nước Mỹ Đang Bước Vào Chu Kỳ “Tái Lập 80 Năm”.md",
-    "Readwise/Full Document Contents/Articles/KHI BẦN NÔNG TRỞ THÀNH TINH HOA.md",
-    "Readwise/Full Document Contents/Articles/Người Bay Không Chân Trời.md",
-    "Readwise/Full Document Contents/Articles/The Ocean and the Meaning of Life.md",
-    "Readwise/Articles/Thảm Họa Công Lý Vụ Án “Nguyễn Sỹ Cương-Bmw” Ngày 3052025.md",
-    "Readwise/Full Document Contents/Articles/Counting AI by Hand ✍️ ~ Recordings.md",
+    "05-Fleeting/Inbox/Happiness is preparing for the future and admiring the Now..md",
+    "05-Fleeting/Inbox/The cost of miracle is mystery.md",
+    "05-Fleeting/Inbox/The Consolations of Chronodiversity Geologist Turned Psychologist Ruth Allen on the 12 Kinds of Time and How to Be More Fully Alive.md",
+    "05-Fleeting/Inbox/Re To built a strong understanding of how LLM and GenAi works and why it is important in todays wor.md",
+    "05-Fleeting/Inbox/Inbox.md",
+    "05-Fleeting/Inbox/260820262216 - Creative freedom.md",
+    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
+    "05-Fleeting/Inbox/270820260006.md",
+    "05-Fleeting/Inbox/Cosmos alignment.md",
+    "05-Fleeting/Inbox/260820262317 - The Alchemist.md",
+    "07-Archives/Tags/Wild Geese.md",
+    "Untitled 2.md",
+    "05-Fleeting/Inbox/260820262317.md",
+    "The Alchemist.md",
+    "05-Fleeting/Inbox/260820262216.md",
+    "Untitled 1.md",
     "05-Fleeting/Inbox/260820262216 - Creative freedom.md~",
+    "Wild Geese.md",
+    "05-Fleeting/Inbox/200820260013 - The moral of Hansel and Gretel.md",
+    "05-Fleeting/Inbox/200820260013.md",
     "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr/rs-test-file-etPiiok7ehP8lZoAJgh9a",
-    "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr"
+    "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr",
+    "rs-test-folder-DagR6nNTo7xt0JboOYz3D/rs-test-file-daE-mzyOPmGrFd5uKOxes",
+    "rs-test-folder-DagR6nNTo7xt0JboOYz3D",
+    "Readwise/Full Document Contents/Articles/Theory of fluids enters the 21st century.md",
+    "Readwise/Articles/Lòng Yêu Nước Và Phường Lưu Manh.md",
+    "Readwise/Full Document Contents/Articles/Lòng Yêu Nước Và Phường Lưu Manh.md"
   ]
 }
