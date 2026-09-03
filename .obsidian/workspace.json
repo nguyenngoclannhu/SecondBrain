@@ -165,8 +165,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -178,9 +178,19 @@
               "icon": "play-circle",
               "title": "Podcast Player"
             }
+          },
+          {
+            "id": "bed52983bf8881d9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -202,8 +212,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "554498d10c15a723",
+  "active": "bed52983bf8881d9",
   "lastOpenFiles": [
+    "Readwise/Full Document Contents/Articles/This Week in Marketing Meta to write the future of social media for teens, TikTok, and YouTube.md",
+    "Readwise/Full Document Contents/Articles/ChatGPT Health + Epic Integration Just Killed the Healthtech AI Industry.md",
+    "Readwise/Full Document Contents/Articles/Xu hướng nhân khẩu học Việt Nam bài học nhìn từ Hàn Quốc.md",
+    "Readwise/Full Document Contents/Articles/2026 is the year of brands getting cancelled for all of the right reasons.md",
+    "Readwise/Full Document Contents/Articles/Devansh, Sebastian Raschka, PhD, and Tivadar Danka posted new notes.md",
+    "Readwise/Full Document Contents/Articles/DOJ Just Dropped a $541M AI Upcoding Case. Meanwhile, Arintra Raises $51M for AI Medical Coding. 🤦.md",
+    "Readwise/Full Document Contents/Articles/Lời hứa Ngày Độc lập.md",
+    "Readwise/Full Document Contents/Articles/C.S. Lewis on what we long for in our existential longing.md",
+    "Readwise/Full Document Contents/Articles/10 words for difficult emotions from around the world, the moving letter James Baldwin received from his childhood teacher, and more.md",
+    "Readwise/Full Document Contents/Articles/Game Theory Will Change Your Life The Invisible Rules Running Every Interaction.md",
+    "Readwise/Articles/Danh Bất Chính.md",
+    "Readwise/Full Document Contents/Articles/Danh Bất Chính.md",
+    "Readwise/Podcasts/The Man Who Calls BS on AI AI Is the World’s Greatest SCAM, and They All Know It! Ed Zitron.md",
     "03-Resources/Books/The Alchemist.md",
     "03-Resources/Books",
     "rs-test-folder-9mSNNHZnF56L-D6PMDejc/rs-test-file-nGeURNq5kLkEL4MoCyDLd",
@@ -224,19 +247,6 @@
     "Readwise/Articles/Thảm Họa Công Lý Vụ Án “Nguyễn Sỹ Cương-Bmw” Ngày 3052025.md",
     "Readwise/Full Document Contents/Articles/Counting AI by Hand ✍️ ~ Recordings.md",
     "Readwise/Full Document Contents/Articles/Hai Chiều và cái ác của sự trung lập.md",
-    "Readwise/Articles/Niềm Vui Học Tập Đặc Quyền Thiếu Vắng Ở Những Tâm Trí Nô Lệ.md",
-    "Readwise/Full Document Contents/Articles/Nước Mỹ Đang Bước Vào Chu Kỳ “Tái Lập 80 Năm”.md",
-    "Readwise/Articles/New Video Largest-Scale Cosmic Test Ever Favors Dark Matter Over MOND.md",
-    "Readwise/Full Document Contents/Articles/Thảm Họa Công Lý Vụ Án “Nguyễn Sỹ Cương-Bmw” Ngày 3052025.md",
-    "Readwise/Full Document Contents/Articles/Albert Camus on How to Live Whole in a Broken World.md",
-    "Readwise/Full Document Contents/Articles/Oliver Sacks on the 3 essential elements of creativity.md",
-    "Readwise/Full Document Contents/Articles/Niềm Vui Học Tập Đặc Quyền Thiếu Vắng Ở Những Tâm Trí Nô Lệ.md",
-    "Readwise/Full Document Contents/Articles/Albert Camus on the Three Antidotes to the Absurdity of Life.md",
-    "Readwise/Full Document Contents/Articles/New Video Largest-Scale Cosmic Test Ever Favors Dark Matter Over MOND.md",
-    "Readwise/Full Document Contents/Articles/This is Water by David Foster Wallace (Full Transcript and Audio).md",
-    "Readwise/Full Document Contents/Articles/The Wisdom of Water Alan Watts on the Ocean and the Meaning of Life.md",
-    "Readwise/Full Document Contents/Articles/Rich Holmes, Tivadar Danka, and Sebastian Raschka, PhD posted new notes.md",
-    "Readwise/Full Document Contents/Articles/Nike’s downfall doesn’t exist, but the rise of brand fiction is very real.md",
     "05-Fleeting/Inbox/260820262216 - Creative freedom.md~",
     "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr/rs-test-file-etPiiok7ehP8lZoAJgh9a",
     "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr"
