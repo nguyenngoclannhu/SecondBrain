@@ -20,7 +20,7 @@ Will those workers have to beg to stay? 
 
 White workers are the same on this, not only like the old days where only factory worker was at the risk of unemployment. They are saying they can replace human with machine then what does human worth? Why human’s labor matters?
 
-When people cannot do anything but the things circumstances given them, í th
+When people cannot do anything but the things circumstances given them, is that volunt
 ***
 ### References
 #### WHERE X COMES FROM
