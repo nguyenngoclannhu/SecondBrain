@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c2623137f24fdc26",
+        "id": "692b7c685a25ce6e",
         "type": "tabs",
         "children": [
           {
-            "id": "b312056b617e630c",
+            "id": "d2e147d3c9f78511",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Fleeting/Inbox/040920260058 - Freedom of choice.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "040920260058 - Freedom of choice"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -189,12 +175,22 @@
             "state": {
               "type": "podcast_player_view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "podcast_player_view"
+              "icon": "play-circle",
+              "title": "Podcast Player"
+            }
+          },
+          {
+            "id": "bed52983bf8881d9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -210,38 +206,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b312056b617e630c",
+  "active": "bed52983bf8881d9",
   "lastOpenFiles": [
-    "05-Fleeting/Inbox/040920260058 - Freedom of choice.md",
-    "05-Fleeting/Inbox/Happiness is preparing for the future and admiring the Now..md",
-    "05-Fleeting/Inbox/The cost of miracle is mystery.md",
-    "05-Fleeting/Inbox/The Consolations of Chronodiversity Geologist Turned Psychologist Ruth Allen on the 12 Kinds of Time and How to Be More Fully Alive.md",
-    "05-Fleeting/Inbox/Re To built a strong understanding of how LLM and GenAi works and why it is important in todays wor.md",
-    "05-Fleeting/Inbox/Inbox.md",
-    "05-Fleeting/Inbox/260820262216 - Creative freedom.md",
-    "05-Fleeting/Inbox/Beyond the Blues Poet Mary Ruefle’s Stunning Color Spectrum of Sadnesses.md",
-    "05-Fleeting/Inbox/270820260006.md",
-    "05-Fleeting/Inbox/Cosmos alignment.md",
-    "05-Fleeting/Inbox/260820262317 - The Alchemist.md",
-    "07-Archives/Tags/Wild Geese.md",
-    "Untitled 2.md",
-    "05-Fleeting/Inbox/260820262317.md",
-    "The Alchemist.md",
-    "05-Fleeting/Inbox/260820262216.md",
-    "Untitled 1.md",
+    "Readwise/Full Document Contents/Articles/Albert Camus on the 3 antidotes to the absurdity of life.md",
+    "Readwise/Full Document Contents/Articles/‘Stunning’ percolation proof solves decades-old puzzle about phase transitions.md",
+    "Readwise/Full Document Contents/Articles/Những người không còn “yêu nước”.md",
+    "Readwise/Full Document Contents/Articles/M. Q. Doan's comment.md",
+    "Readwise/Full Document Contents/Articles/Văn học Sự biểu đạt nghệ thuật về trải nghiệm nhân sinh.md",
+    "Readwise/Full Document Contents/Articles/Greenwashin Sự bẩn thỉu dưới vỏ bọc xanh vì môi trường.md",
+    "Readwise/Full Document Contents/Articles/Your social media strategy needs a filler episode more than it needs a new content series.md",
+    "Readwise/Full Document Contents/Articles/SONG CỰC CỦA CÁI NHÌN.md",
+    "Readwise/Full Document Contents/Articles/Sebastian Raschka, PhD, Abhinav Upadhyay, and Tivadar Danka posted new notes.md",
+    "Readwise/Full Document Contents/Articles/Circulating Fluidized Bed.md",
+    "Readwise/Full Document Contents/Articles/Wendell Berry on creativity, love, and how to have enough; Joan Didion on letting go; the power of being a liminal person.md",
+    "Readwise/Full Document Contents/Articles/Việt Nam quyết tâm vươn lên chuỗi giá trị toàn cầu.md",
+    "Readwise/Full Document Contents/Articles/Pulverised Coal Combustion.md",
+    "Readwise/Full Document Contents/Articles/Do we live inside a baby universe that’s really a black hole on the outside.md",
+    "Readwise/Full Document Contents/Articles/AI by Hand ✍️ Yantra Jnana Award.md",
+    "Readwise/Full Document Contents/Articles/VIETNAMESE COAL OVERVIEW AND OUTSTANDING FEATURES.md",
+    "Readwise/Full Document Contents/Articles/Xinh và Thông Minh.md",
+    "Readwise/Full Document Contents/Articles/Hồ sen của mỗi quốc gia.md",
+    "Readwise/Full Document Contents/Articles/Tự biết mình Điều hiếm thấy trong nền giáo dục bắt buộc.md",
+    "Readwise/Full Document Contents/Articles/Dẹp chuyện đi làm đi.md",
+    "Readwise/Full Document Contents/Articles/Things I learned at Anthropic.md",
+    "Readwise/Full Document Contents/Articles/Visual General Intelligence A White Paper.md",
+    "Readwise/Full Document Contents/Articles/There Is No Money in AI Drug Discovery.md",
+    "Readwise/Full Document Contents/Articles/This Week in Marketing TikTok Audio, Google’s AdTech Monopoly, and ChatGPT’s AGI Era.md",
+    "Readwise/Full Document Contents/Articles/Oura IPO Slick Gadget, Shaky Business.md",
+    "Readwise/Articles/Màn Kịch Bắt Cóc Thủ Đô Để Cứu Một Chaebol Nửa Mùa Khỏi Phá Sản Vinfast, Chỉ Thị 20, Vành Đai 1 Có Gì Liên Quan Với Nhau.md",
+    "03-Resources/Books",
+    "rs-test-folder-9mSNNHZnF56L-D6PMDejc/rs-test-file-nGeURNq5kLkEL4MoCyDLd",
+    "rs-test-folder-9mSNNHZnF56L-D6PMDejc",
+    "log.txt",
+    "logs.txt",
+    "log.txt~",
+    "05-Fleeting/Inbox/The cost of miracle is mystery.md~",
     "05-Fleeting/Inbox/260820262216 - Creative freedom.md~",
-    "Wild Geese.md",
-    "05-Fleeting/Inbox/200820260013 - The moral of Hansel and Gretel.md",
-    "05-Fleeting/Inbox/200820260013.md",
     "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr/rs-test-file-etPiiok7ehP8lZoAJgh9a",
-    "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr",
-    "rs-test-folder-DagR6nNTo7xt0JboOYz3D/rs-test-file-daE-mzyOPmGrFd5uKOxes",
-    "rs-test-folder-DagR6nNTo7xt0JboOYz3D",
-    "Readwise/Full Document Contents/Articles/Theory of fluids enters the 21st century.md",
-    "Readwise/Articles/Lòng Yêu Nước Và Phường Lưu Manh.md",
-    "Readwise/Full Document Contents/Articles/Lòng Yêu Nước Và Phường Lưu Manh.md"
+    "rs-test-folder-k8v_0LZPOoGXmMw4xnMGr"
   ]
 }
